@@ -31,6 +31,7 @@ public class Indexer {
                 for (String yxz : split) {
 //                    System.out.println("Before->" + yxz);
                     //starting punctuation handling
+                    yxz = yxz.toLowerCase();
                     yxz = yxz.replaceAll("[	]{1,}", " ");
                     yxz = yxz.replaceAll("[`~#()\"'/]{0,}", "");
                     if (yxz.matches("^\\d+-\\d+$")) {//2013-2014
