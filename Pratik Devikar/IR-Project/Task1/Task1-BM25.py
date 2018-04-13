@@ -183,13 +183,13 @@ def main():
     N = 3204.0  # Number of documents
     dir_tokenized_dictionaries = 'C:/Users/prati/Documents/GitHub/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
 
-    # convert_xml_to_txt()
+    convert_xml_to_txt()
 
     # Calculate document length of all files and their average length
     # dl, avgdl = calculate_dl_and_avgdl(dir_tokenized_dictionaries)
 
     # # Calculate ni
-    ni = get_unigrams(dir_tokenized_dictionaries)
+    # ni = get_unigrams(dir_tokenized_dictionaries)
 
     # index = 1
     # f = open('cacm_stem.query.txt', 'r')
