@@ -82,11 +82,14 @@ public class Indexer {
                         }
                         if (tm.containsKey(yxz)) {
                             tm.put(yxz, tm.get(yxz) + 1);
-                            total.put(yxz, tm.get(yxz) + 1);
                         } else {
                             tm.put(yxz, 1);
-                            total.put(yxz, 1);
                         }
+                        if (total.containsKey(yxz)) {
+                                total.put(yxz, total.get(yxz) + 1);
+                            } else {
+                                total.put(yxz, 1);
+                            }
                         //System.out.println(yxz +" ");
                     } else if (splitstr.length > 1) {
                         for (String xyz : splitstr) {
@@ -98,9 +101,12 @@ public class Indexer {
                             }
                             if (tm.containsKey(xyz)) {
                                 tm.put(xyz, tm.get(xyz) + 1);
-                                total.put(xyz, tm.get(xyz) + 1);
                             } else {
                                 tm.put(xyz, 1);
+                            }
+                            if (total.containsKey(xyz)) {
+                                total.put(xyz, total.get(xyz) + 1);
+                            } else {
                                 total.put(xyz, 1);
                             }
                             //System.out.println(xyz +" ");
@@ -109,7 +115,7 @@ public class Indexer {
                 }
                 //System.out.println(Arrays.toString(split));
                 //write tm to a xml file
-                System.out.println(tm.toString());
+                //System.out.println(tm.toString());
                 WriteToXML.Write(tm,toopen.getName());
               
             } catch (IOException ex) {
@@ -118,6 +124,7 @@ public class Indexer {
             }
 
         }
+        WriteToXML.Write(total, "master");
 
     }
 
