@@ -8,6 +8,8 @@ import java.util.Arrays;
 import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -27,7 +29,7 @@ public class Indexer {
                 String textoffile = textin.text();
                 String[] split = textoffile.split("[ ]");
                 for (String yxz : split) {
-                    System.out.println("Before->" + yxz);
+//                    System.out.println("Before->" + yxz);
                     //starting punctuation handling
                     yxz = yxz.replaceAll("[	]{1,}", " ");
                     yxz = yxz.replaceAll("[`~#()\"'/]{0,}", "");
@@ -69,8 +71,8 @@ public class Indexer {
                     //if(yxz.matches("[\\w+]\\)")){yxz=yxz.replaceAll(")", "");}
                     //split based on space
                     String[] splitstr = yxz.split(" ");
-                    System.out.println("After->");
-                    System.out.println(Arrays.toString(splitstr));
+//                    System.out.println("After->");
+//                    System.out.println(Arrays.toString(splitstr));
                     if (splitstr.length == 0) {
                         continue;
                     }
@@ -108,7 +110,8 @@ public class Indexer {
                 //System.out.println(Arrays.toString(split));
                 //write tm to a xml file
                 System.out.println(tm.toString());
-                break;
+                WriteToXML.Write(tm,toopen.getName());
+              
             } catch (IOException ex) {
                 System.out.println("ERROR:Unable to parse the file");
                 Logger.getLogger(Indexer.class.getName()).log(Level.SEVERE, null, ex);
@@ -117,5 +120,17 @@ public class Indexer {
         }
 
     }
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
 }
