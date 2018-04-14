@@ -90,15 +90,6 @@ def get_unigrams(dir_tokenized_dictionaries):
             # del term_fq
         f.close()
 
-    # # Create a dictionary containing term and document id
-    # for l in list_of_term_freq:
-    #     if l[0] in term_freq_dict:
-    #         term_freq_dict[l[0]].extend([l[2]])
-    #     else:
-    #         term_freq_dict[l[0]] = [l[2]]
-    #
-    # for key, value in term_freq_dict.items():
-    #     ni[key] = (len(term_freq_dict[key]))
     return ni
 
 
@@ -231,6 +222,7 @@ def main():
     # # Calculate ni
     print("Calculating ni")
     ni = get_unigrams(dir_tokenized_dictionaries)
+    # ni = get_unigrams(dir_tokenized_dictionaries)
 
     # retrieve_queries_from_cacm_query()
 
