@@ -1,4 +1,5 @@
 import operator
+import string
 from math import log
 import os
 import glob
@@ -6,13 +7,14 @@ from bs4 import BeautifulSoup as bs
 
 
 # =====================================================================#
-# Get unigram inverted index
-def get_unigrams_inverted_index(dir_tokenized_dictionaries):
-    term_freq_dict = {}
+# Get unigram inverted index list
+def get_unigrams_tf_list(dir_tokenized_dictionaries):
     list_of_term_freq = []
+    term_freq_dict = {}
+    # counter = 1
     for filename in os.listdir(dir_tokenized_dictionaries):
         f = open(dir_tokenized_dictionaries + filename, 'r')
-        filename = filename[:-9]
+        filename = filename[:-4]
         filename = filename + ".txt"
         # Read the rows in a file and split the row into term and frequency
         for term in f:
@@ -22,14 +24,15 @@ def get_unigrams_inverted_index(dir_tokenized_dictionaries):
             term_fq.insert(2, filename)
             list_of_term_freq.append(term_fq)
 
-    # Generate a dictionary for the term freq table
-    for l in list_of_term_freq:
-        if l[0] in term_freq_dict:
-            term_freq_dict[l[0]].append([l[2], l[1]])
-        else:
-            term_freq_dict[l[0]] = [[l[2], l[1]]]
+            del term
+            del term_fq
 
-    return term_freq_dict
+        # print(counter)
+        # counter += 1
+        del filename
+        f.close()
+
+    return list_of_term_freq
 
 
 # =====================================================================#
@@ -37,7 +40,7 @@ def get_unigrams_inverted_index(dir_tokenized_dictionaries):
 def calculate_dl(dir_tokenized_dictionaries):
     # list_of_term_freq = []
     dl = {}
-    counter=0
+    # counter = 0
     for filename in os.listdir(dir_tokenized_dictionaries):
         f = open(dir_tokenized_dictionaries + filename, 'r')
         # filename = filename[:-4]
@@ -54,44 +57,49 @@ def calculate_dl(dir_tokenized_dictionaries):
             del term
             del term_fq
             # del list_of_term_freq
-        print(counter)
-        counter+=1
+        # print(counter)
+        # counter += 1
     return dl
 
 
 # =====================================================================#
 # Create unigrams
 def get_unigrams(dir_tokenized_dictionaries):
-    fi = {}
+    ni = {}
     term_freq_dict = {}
     list_of_term_freq = []
     for filename in os.listdir(dir_tokenized_dictionaries):
         f = open(dir_tokenized_dictionaries + filename, 'r')
-        filename = filename[:-9]
+        filename = filename[:-4]
         filename = filename + ".txt"
         # Split the row into term and frequency
         for term in f:
             term = term[:-1]
             term = term.split(" ")
-            term_fq = [t for t in term]
-            term_fq.insert(2, filename)
-            list_of_term_freq.append(term_fq)
+            term = term[0]
+            # term_fq = [t for t in term]
+            # term_fq.insert(2, filename)
+            # list_of_term_freq.append(term_fq)
+
+            if term in ni:
+                ni[term] += 1.0
+            else:
+                ni[term] = 1.0
 
             del term
-            del term_fq
-        del filename
+            # del term_fq
         f.close()
 
-    # Create a dictionary containing term and document id
-    for l in list_of_term_freq:
-        if l[0] in term_freq_dict:
-            term_freq_dict[l[0]].extend([l[2]])
-        else:
-            term_freq_dict[l[0]] = [l[2]]
-
-    for key, value in term_freq_dict.items():
-        fi[key] = (len(term_freq_dict[key]))
-    return fi
+    # # Create a dictionary containing term and document id
+    # for l in list_of_term_freq:
+    #     if l[0] in term_freq_dict:
+    #         term_freq_dict[l[0]].extend([l[2]])
+    #     else:
+    #         term_freq_dict[l[0]] = [l[2]]
+    #
+    # for key, value in term_freq_dict.items():
+    #     ni[key] = (len(term_freq_dict[key]))
+    return ni
 
 
 # =====================================================================#
@@ -136,24 +144,23 @@ def create_queries_dict(row):
 # =====================================================================#
 # Write the document into files
 def write_scores_into_files(index, doc_score):
-    f = open('BM25_scores_query_' + str(index) + '.txt', 'w')
+    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\BM-25_Results\\BM25_scores_query_' + str(index) + '.txt', 'w')
     number_of_lines = min(100, len(doc_score))
     for i in range(number_of_lines):
-        f.write(str(index) + " " + "Q0 " + doc_score[i][0][:-9] + " " + str(i + 1) + " " + str(
+        f.write(str(index) + " " + "Q0 " + doc_score[i][0][:-4] + " " + str(i + 1) + " " + str(
             doc_score[i][1]) + " " + "BM25_model" + '\n')
     f.close()
 
 
 # =====================================================================#
+# Convert xml files to text files
 def convert_xml_to_txt():
-    tf_dict = {}
-    all_indexed_xml_files = glob.glob('C:\\Users\\prati\\Documents\\GitHub\\IR-Project\\Vishal '
+    all_indexed_xml_files = glob.glob('D:\\IR-Project\\Vishal '
                                       'Patel\\Indexer\\src\\index\\*.xml')
-    # print(len(all_files))
-    terms = []
-    freq = []
     counter = 1
     for file in all_indexed_xml_files:
+        terms = []
+        freq = []
         infile = open(file, 'r')
         contents = infile.read()
         soup = bs(contents, 'xml')
@@ -165,9 +172,10 @@ def convert_xml_to_txt():
         for f in freq_result_set:
             freq.append(f.getText())
 
+        # Create a dictionary of term and freq of a token
         tf_dict = dict(zip(terms, freq))
 
-        f = open('C:\\Users\\prati\\Documents\\GitHub\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\Tokenized text '
+        f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\Tokenized text '
                  'files\\' + file[-13:-4] + '.txt', 'w')
         for d in tf_dict.items():
             f.write(str(d[0]) + ' ' + str(d[1]) + '\n')
@@ -178,46 +186,99 @@ def convert_xml_to_txt():
 
 
 # =====================================================================#
+# Retrieve query from cacm query file and refine it
+def retrieve_queries_from_cacm_query():
+    file = 'D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\Query.txt'
+    f = open(file, 'r')
+    queries = []
+    for query in f:
+        query = str(query)
+        exclude = set(string.punctuation)
+        # Lower case and remove punctuations
+        query = ''.join(ch.lower() for ch in query if ch not in exclude)
+        queries.append(query)
+    f.close()
+    f = open('Refined_Query.txt', 'w')
+    for q in queries:
+        f.write(q)
+    f.close()
+
+
+# =====================================================================#
+# Create a dictionary of unigram
+def get_unigram_inverted_dict(list_of_term_freq):
+    unigram_inverted_dict = {}
+    for l in list_of_term_freq:
+        if l[0] in unigram_inverted_dict:
+            unigram_inverted_dict[l[0]].append([l[2], l[1]])
+        else:
+            unigram_inverted_dict[l[0]] = [[l[2], l[1]]]
+    return unigram_inverted_dict
+
+
+# =====================================================================#
 # MAIN Function
 def main():
     N = 3204.0  # Number of documents
-    dir_tokenized_dictionaries = 'C:/Users/prati/Documents/GitHub/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
 
     # convert_xml_to_txt()
 
     # Calculate document length of all files and their average length
-    # dl, avgdl = calculate_dl_and_avgdl(dir_tokenized_dictionaries)
+    print("Calculating dl and avdl")
+    dl, avgdl = calculate_dl_and_avgdl(dir_tokenized_dictionaries)
 
     # # Calculate ni
+    print("Calculating ni")
     ni = get_unigrams(dir_tokenized_dictionaries)
 
-    # index = 1
-    # f = open('cacm_stem.query.txt', 'r')
-    # for row in f:
-    #     queries_dict = create_queries_dict(row)
-    #
-    #     # Get unigram inverted index
-    #     unigram_inverted_dict = get_unigrams_inverted_index(dir_tokenized_dictionaries)
-    #     doc_score = {}
-    #
-    #     # Calculate score for every query with respect to every document in its inverted list
-    #     for query in queries_dict.items():
-    #         for inv_list in unigram_inverted_dict[query[0]]:
-    #             inv_list[0] = inv_list[0].replace('.txt', '_dict.txt')
-    #             # Calculate BM25 score
-    #             bm25_score = calculate_bm25_score(dl[inv_list[0]], avgdl, int(inv_list[1]), query[1], N, ni[query[0]])
-    #             if inv_list[0] in doc_score:
-    #                 doc_score[inv_list[0]] += bm25_score
-    #             else:
-    #                 doc_score[inv_list[0]] = bm25_score
-    #
-    #     # Sort the dictionary based on scores
-    #     doc_score = (sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True))
-    #
-    #     # Write the document into files
-    #     write_scores_into_files(index, doc_score)
-    #     index += 1
-    # f.close()
+    # retrieve_queries_from_cacm_query()
+
+    # Generate tf list
+    print("Calculating list of tf")
+    list_of_term_freq = get_unigrams_tf_list(dir_tokenized_dictionaries)
+
+    # Generate a dictionary for the term freq table
+    print("Calculating unigram inverted list")
+    unigram_inverted_dict = get_unigram_inverted_dict(list_of_term_freq)
+
+    query_index = 1
+    f = open('Refined_Query.txt', 'r')
+    counter = 1
+    for row in f:
+        queries_dict = create_queries_dict(row)
+        doc_score = {}
+
+        # Calculate score for every query with respect to every document in its inverted list
+        for query_word in queries_dict.items():
+            try: # For keyerror when a particular query word doesnt belong to any of the tokens
+                for inv_list in unigram_inverted_dict[query_word[0]]:
+                    # Calculate BM25 score
+                    bm25_score = calculate_bm25_score(dl[inv_list[0]], avgdl, int(inv_list[1]), query_word[1], N, ni[query_word[0]])
+                    if inv_list[0] in doc_score:
+                        doc_score[inv_list[0]] += bm25_score
+                    else:
+                        doc_score[inv_list[0]] = bm25_score
+
+                del bm25_score
+
+            except KeyError:
+                pass
+
+        # Sort the dictionary based on scores
+        doc_score = (sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True))
+
+        # Write the document into files
+        write_scores_into_files(query_index, doc_score)
+        query_index += 1
+
+        # print(counter)
+        # counter += 1
+
+    del queries_dict
+    del doc_score
+
+    f.close()
 
 
 # =====================================================================#
