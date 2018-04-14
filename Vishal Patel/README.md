@@ -1,4 +1,3 @@
 # IR-Project
-sfjhsdf
-a
-fksdf'pshfdbkjsan
+Indexing for the standard corpur
+query enrichment

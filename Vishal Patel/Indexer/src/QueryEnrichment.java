@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 public class QueryEnrichment {
     String query;
     public static void main(String[] args) throws FileNotFoundException, IOException {
-   new QueryEnrichment("Queries is this a about above").run();
+   new QueryEnrichment("Queries is this a about above");
 }
     public QueryEnrichment(String query){
         this.query=query;
