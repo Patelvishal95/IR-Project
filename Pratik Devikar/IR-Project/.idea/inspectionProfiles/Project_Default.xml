@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="Task1BM25" />
+          <option value="Task1TFID" />
         </list>
       </option>
     </inspection_tool>
