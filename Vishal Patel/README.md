@@ -1,3 +1,3 @@
 # IR-Project
-Indexing for the standard corpur
+Indexing for the standard corpus
 query enrichment
