@@ -31,6 +31,10 @@ public class Indexer {
                 for (String yxz : split) {
 //                    System.out.println("Before->" + yxz);
                     //starting punctuation handling
+                    //remove all numbers from the index
+                    if (yxz.matches("^\\d+$")) {
+                        continue;
+                    }
                     yxz = yxz.toLowerCase();
                     yxz = yxz.replaceAll("[	]{1,}", " ");
                     yxz = yxz.replaceAll("[`~#()\"'/]{0,}", "");
@@ -52,7 +56,7 @@ public class Indexer {
                     if (yxz.matches("^\\w+\\[\\w+$")) {// for punc word some punctuation
                         yxz = yxz.replaceAll("\\[", " ");
                     }
-                    yxz=yxz.replaceAll("[\\n]{1,}"," " );
+                    yxz = yxz.replaceAll("[\\n]{1,}", " ");
                     yxz = yxz.replaceAll("[:]{0,}", "");
                     if (yxz.matches("^\\w+.\\w+$")) {// for punc word some punctuation
                         yxz = yxz.replaceAll("\\.", " ");
@@ -81,16 +85,19 @@ public class Indexer {
                         if (yxz.matches("^[ ]{0,}$")) {
                             continue;
                         }
+                        if (yxz.matches("^\\d+$")) {
+                        continue;
+                    }
                         if (tm.containsKey(yxz)) {
                             tm.put(yxz, tm.get(yxz) + 1);
                         } else {
                             tm.put(yxz, 1);
                         }
                         if (total.containsKey(yxz)) {
-                                total.put(yxz, total.get(yxz) + 1);
-                            } else {
-                                total.put(yxz, 1);
-                            }
+                            total.put(yxz, total.get(yxz) + 1);
+                        } else {
+                            total.put(yxz, 1);
+                        }
                         //System.out.println(yxz +" ");
                     } else if (splitstr.length > 1) {
                         for (String xyz : splitstr) {
@@ -100,6 +107,9 @@ public class Indexer {
                             if (xyz.matches("[ ]{0,}")) {
                                 continue;
                             }
+                            if (xyz.matches("^\\d+$")) {
+                        continue;
+                    }
                             if (tm.containsKey(xyz)) {
                                 tm.put(xyz, tm.get(xyz) + 1);
                             } else {
@@ -117,28 +127,16 @@ public class Indexer {
                 //System.out.println(Arrays.toString(split));
                 //write tm to a xml file
                 //System.out.println(tm.toString());
-                WriteToXML.Write(tm,toopen.getName());
-              
+                WriteToXML.Write(tm, toopen.getName());
+
             } catch (IOException ex) {
                 System.out.println("ERROR:Unable to parse the file");
                 Logger.getLogger(Indexer.class.getName()).log(Level.SEVERE, null, ex);
             }
 
         }
-        WriteToXML.Write(total, "master");
+        WriteToXML.Write(total, "/Master/master");
 
     }
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
 }
