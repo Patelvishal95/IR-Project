@@ -26,6 +26,7 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
+import utilitySet.FileUtility;
 
 /**
  * To create Apache Lucene index in a folder and add files into this index based on the input of the
