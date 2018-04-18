@@ -50,6 +50,8 @@ public class LuceneIndexerAndSearch {
   private static String CACM_STEMMED_INDEX_LOCATION =
       "./output/lucene_indexer/Indexer_cacm_stem/";
   private static String CACM_STEMMED_DOCS_LOCATION = "./input/CACM_STEM/cacm_stem.txt";
+  private static String CACM_STEMMED_INDIV_DOCS_LOCATION =
+      "./input/CACM_STEM/Docs_Separated/";
   private static String CACM_STEMMED_QUERY_FILE_PATH = "./input/cacm_stem.query.txt";
   private static String CACM_STEMMED_RANKED_RESULTS_PATH =
       "./output/lucene_indexer/RankedResults_cacm_stem/";
@@ -277,6 +279,11 @@ public class LuceneIndexerAndSearch {
     doc.add(new StringField("filename", docName,
         Field.Store.YES));
     writer.addDocument(doc);
+
+    // Store an individual set of the documents as well in the disk
+    FileUtility fu = new FileUtility();
+    fu.writeStringToFile(sb.toString(),
+        CACM_STEMMED_INDIV_DOCS_LOCATION + docName + ".txt");
   }
 
   /**
