@@ -50,7 +50,7 @@ public class WriteToXML {
            Transformer transformer = transformerFactory.newTransformer();
            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
            DOMSource source = new DOMSource(doc);
-           StreamResult result = new StreamResult(new File("./src/index/"+name));
+           StreamResult result = new StreamResult(new File("./../../index/"+name));
            transformer.transform(source, result);
        } catch (ParserConfigurationException ex) {
            Logger.getLogger(WriteToXML.class.getName()).log(Level.SEVERE, null, ex);

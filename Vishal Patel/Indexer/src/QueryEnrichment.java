@@ -1,8 +1,10 @@
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,6 +15,16 @@ public class QueryEnrichment {
     String query;
     public static void main(String[] args) throws FileNotFoundException, IOException {
    new QueryEnrichment("Queries is this a about above");
+   File ftoread = new File("./../../Pratik Devikar/IR-Project/Task1/Refined_Query.txt");
+   File ftowrite = new File("./../../Pratik Devikar/IR-Project/Task1/Refined_Query_Enriched.txt");
+   BufferedReader b = new BufferedReader(new FileReader(ftoread));
+            BufferedWriter w = new BufferedWriter(new FileWriter(ftowrite));
+            String read = b.readLine();
+            while(read!=null){
+                w.write(new QueryEnrichment(read).getQuery()+"\n");
+                read = b.readLine();
+            }
+            w.close();
 }
     public QueryEnrichment(String query){
         this.query=query;
@@ -29,7 +41,7 @@ public class QueryEnrichment {
         Stemming();
         System.out.println("Query after->"+query); 
     }
-
+    //Stopping from the list of stop words provided
     private void Stopping()  {
         BufferedReader b = null;
         try {
@@ -62,10 +74,13 @@ public class QueryEnrichment {
     private void Stemming() {
         Stemmer s = new Stemmer();
         String[] split = query.split(" ");
+        
         for(int i=0;i<split.length;i++){
-            split[i]=s.StemWordWithWordNet(split[i]);
+            String append =s.StemWordWithWordNet(split[i]);
+            if(append==null){continue;}
+            if(append.equalsIgnoreCase(split[i])){continue;}
+            query = query.concat(" "+append);
         }
-        query=String.join(" ", split);
     s.Unload();
     }
 }

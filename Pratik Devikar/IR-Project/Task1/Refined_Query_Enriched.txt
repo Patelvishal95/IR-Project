@@ -1,0 +1,64 @@
+articles exist deal tss time sharing system operating system ibm computers article share operate computer
+interested articles written prieve udo pooch interest article write
+intermediate languages construction multitargeted compilers tcoll language compiler
+im interested mechanisms communicating disjoint processes possibly exclusively distributed environment  descriptions complete mechanisms implementations opposed theoretical work abstract problem  remote procedure calls messagepassing examples interests interest mechanism communicate process distribute description mechanism implementation oppose call example interest
+id papers design implementation editing interfaces windowmanagers command interpreters  essential issues human interface design views improvements user efficiency effectiveness satisfaction paper edit interface interpreter issue view improvement
+interested articles robotics motion planning geometric combinatorial aspects  interested dynamics arm motion interest article plan aspect interest dynamic
+interested distributed algorithms  concurrent programs processes communicate synchronize message passing areas interest include faulttolerance techniques understanding correctness algorithms interest distribute algorithm program process pass area technique understand algorithm
+addressing schemes resources networks resource addressing innetwork operating systems address scheme resource network address operate system
+security considerations local networks network operating systems distributed systems consideration network operate system distribute system
+parallel languages languages parallel computation language language
+setl high level languages language
+portable operating systems operate system
+code optimization space efficiency
+find discussions optimal implementations sort algorithms database management applications discussion implementation algorithm application
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization discussion loop
+find descriptions handling operating systems based multiple processes message passing description handle operate system base process pass
+optimization intermediate machine code
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction language compiler processor machine
+parallel algorithms algorithm
+graph theoretic algorithms applicable sparse matrices algorithm matrix
+computational complexity intractability classcomplete reductions algorithms efficiency reduction algorithm
+interested hiddenline hiddensurface algorithms cylinders toroids spheres cones  specialized topic computer graphics interest algorithm cylinder toroid sphere cone specialize graphic
+distributed computing structures algorithms distribute compute structure algorithm
+applied stochastic processes apply process
+performance evaluation modelling computer systems model system
+concurrency control mechanisms operating systems mechanism operate system
+memory management aspects operating systems aspect operate system
+information packet radio networks  interest algorithms packet routing dealing network topography  interested hardware network network algorithm route deal interest
+numbertheoretic algorithms especially involving prime number series sieves chinese remainder theorem algorithm involve sieve
+articles text formatting systems including systems  examples tnroff scribe bravo article format system include system example
+id find articles describing singular decomposition digital image processing  applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson article describe process application find approximation restore image andrew out expansion process andrew
+id find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph  im especially interested heuristic algorithms graph coloring graph isomorphism method article describe algorithm base interest algorithm color
+articles sensitivity eigenvalue decomposition real matrices zeroone matrices  im especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971davis kahn stewart article matrix matrix interest eigenvalue article bound subspace close operator davis
+interested isolation root polynomial recent material heindel interest
+probabilistic algorithms especially dealing algebraic symbolic manipulation  examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabinm algorithm deal example test identity
+fast algorithm contextfree language recognition parsing parse
+articles describing relationship data types concurrency type process  synchronization attempt  processes type correct  messagepassing system notion types messagesie check sender message receiver treating bit stream type article describe datum type process type treat bite
+type module	i dont want entire literature abstract data types im sure phrase avoid im interested questions check module matches contexts module datum type interest question match context
+type compatibility mean languages allow programmer defined types  want restrict extensible languages allow definition abstract data types programmersupplieddefinitions operators language define type language datum type operator
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed article deal datum type language reference paper language language interest structure miss
+theory distributed systems databases  subtopics special interest include reliability faulttolerance distributed systems atomicity distributed transactions synchronization algorithms  resource allocation lower bounds models asynchronous parallel systems  theory communicating processes protocols    box 2158 yale station haven conn  06520 distribute system database distribute system distribute transaction algorithm bound model system communicate process protocol
+computer performance evaluation techniques pattern recognition clustering la    70803 technique cluster
+analysis perception shape humans computers  shape descriptions shape recognition computer  twodimensional shapes measures circularity  shape matching human computer description shape measure match
+texture analysis computer	digitized texture analysis  texture synthesis perception texture digitize
+operations research models optimize information system performance  includes fine tuning decisions secondary index selection reorganization distributed databases operation model include tune decision distribute database
+application fuzzy subset theory clustering information retrieval problems  includes performance evaluation automaticindexing considerations cluster problem include consideration
+bayesian decision models optimize information retrieval system performance  includes stopping rules determine user cease scanning output retrieval search model include stop rule scan
+computer science principles data structures  numerical methods generating optimization linear programming algorithms  includes issues khachian russian ellipsoidal algorithm complexity algorithms principle datum structure method generate program algorithm include issue algorithm
+role information retrieval knowledge based systems expert systems base system system
+parallel processors information retrieval processor
+parallel processors paging algorithms processor page algorithm
+modelling simulation agricultural ecosystems model ecosystem
+mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210 integer coefficient relation
+semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 01003 program language include specification datum type proof
+dealing star height regular languages regular expressions regular events deal language expression event
+articles relation algebraic theory semigroups monoids study automata regular languages article automaton language
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629630 backus de millo lipton perlis abstract article program liberate program
+algorithms statistical packages anova regression squares generalized linear models  system design capabilities statistical formula interest  students test wilcoxon sign tests multivariate univariate components included algorithm package square generalize model capability student test component include
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems access method word item relate hash index method apply spell problem
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap  relational network codasyl hierarchical models systems system ims adabas total relate system package computer microcomputer attach head thing model system
+information retrieval articles gerard salton clustering bibliographic coupling citations cocitations vector space model boolean search methods inverted feedback salton article cluster couple citation method invert
+results relating parallel complexity theory prams uniform circuits result relate pram circuit
+algorithms parallel computation especially comparisons parallel sequential algorithms algorithm comparison algorithm
+list articles el1 ecl el1 el1 dont remember article el el el

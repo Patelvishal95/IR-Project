@@ -16,8 +16,8 @@ import org.xml.sax.SAXException;
 public class PopulateDictionary {
 
     public static void main(String[] args) throws FileNotFoundException, SAXException, ParserConfigurationException, IOException {
-        BufferedWriter b = new BufferedWriter(new FileWriter(new File("./src/cacmdic.txt")));
-        File inputFile = new File("./src/index/Master XML/master.xml");
+        BufferedWriter b = new BufferedWriter(new FileWriter(new File("./../../cacmdic.txt")));
+        File inputFile = new File("./../../Index/Master/master.xml");
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(inputFile);
