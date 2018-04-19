@@ -1,0 +1,16 @@
+algorithm 1
+ca620515 1
+cacm 1
+cundiff 1
+evalu 1
+fresnel 1
+integr 1
+j 1
+jb 1
+l 1
+mai1962 1
+march 1
+of 1
+pm 1
+sine 1
+the 1

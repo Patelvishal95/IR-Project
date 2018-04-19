@@ -1,0 +1,12 @@
+algorithm 1
+behrenz 1
+ca621115 1
+cacm 1
+integr 1
+jb 1
+march 1
+novemb 1
+pg 1
+pm 1
+s 1
+simpson 1

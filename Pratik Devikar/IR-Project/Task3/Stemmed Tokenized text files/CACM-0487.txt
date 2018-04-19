@@ -1,0 +1,9 @@
+algorithm 1
+ca620905 1
+cacm 1
+d 1
+jbmarch 1
+normdev 1
+pm 1
+septemb 1
+shafer 1

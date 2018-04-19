@@ -1,0 +1,10 @@
+a 1
+and 1
+ca620503 1
+cacm 1
+cobol 1
+compat 1
+jbmarch 1
+lippitt 1
+mai 1
+pm 1

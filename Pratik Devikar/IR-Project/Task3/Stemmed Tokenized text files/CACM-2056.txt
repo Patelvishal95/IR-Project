@@ -1,0 +1,17 @@
+263a 1
+algorithm 1
+ca700510 1
+cacm 1
+dual 1
+glinear 1
+gomori 1
+h 1
+integ 1
+jbfebruari 1
+l 1
+mai 1
+method 1
+pm 1
+program 1
+proll 1
+variabl 1

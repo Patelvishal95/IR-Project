@@ -1,0 +1,12 @@
+adapt 1
+algorithm 1
+am 1
+april 1
+butler 1
+ca640416 1
+cacm 1
+hs 1
+integr 1
+jb 1
+march 1
+nonrecurs 1

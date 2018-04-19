@@ -257,7 +257,7 @@ def main():
     N = 3204.0  # Number of documents
     dir_tokenized_dictionaries = 'D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\Tokenized text files - Stopping\\'
 
-    # convert_xml_to_txt()
+    convert_xml_to_txt()
 
     # Calculate document length of all files and their average length
     print("Calculating dl and avdl")

@@ -1,0 +1,16 @@
+adapt 1
+algorithm 1
+by 1
+c 1
+ca650309 1
+d1cacm 1
+integr 1
+jb 1
+m 1
+march 2
+numer 1
+pike 1
+pm 1
+rule 1
+s 1
+simpson 1

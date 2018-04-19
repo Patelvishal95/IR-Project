@@ -1,0 +1,9 @@
+algorithm 1
+am 1
+ca640308jb 1
+cacm 1
+g 1
+gauss 1
+gladfelt 1
+march 2
+w 1

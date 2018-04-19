@@ -1,0 +1,12 @@
+algorithm 1
+am369 1
+c 1
+ca610313 1
+cacm 1
+crout 1
+jb 1
+jrh 1
+march 2
+pivot 1
+thacher 1
+with 1

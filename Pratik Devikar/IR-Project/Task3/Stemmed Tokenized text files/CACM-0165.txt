@@ -1,0 +1,16 @@
+a 1
+algol 1
+august 1
+ca600801 1
+cacm 1
+dialect 1
+h 1
+halstead 1
+hd 1
+huskei 1
+jb 1
+m 1
+march 1
+neliac 1
+of 1
+pm 1

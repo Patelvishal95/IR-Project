@@ -1,0 +1,11 @@
+algorithm 1
+cacm 1
+chebyshev 1
+d1 1
+hillstrom 1
+jb 1
+kca670506 1
+mai 1
+march 1
+pm 1
+quadratur 1
