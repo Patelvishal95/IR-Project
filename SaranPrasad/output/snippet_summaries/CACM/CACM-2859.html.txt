@@ -1,0 +1,1 @@
+several memory modules. Exect results are computed for a simple model of such a system. The limiting value is derived for the relative degree of memory interference as the system 

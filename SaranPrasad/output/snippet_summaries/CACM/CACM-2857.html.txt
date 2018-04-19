@@ -1,0 +1,1 @@
+Referencing Lists by an Edge An edge reference into a list structure is a pair of pointers to adjacent nodes. Such a reference often requires little additional space, but its 

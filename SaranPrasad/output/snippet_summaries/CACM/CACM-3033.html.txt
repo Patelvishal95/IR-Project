@@ -1,0 +1,1 @@
+Optimizing Decision Trees Through Heuristically Guided Search Optimal decision table conversion has been tackled in the literature using two approaches, dynamic programming and branch-and-bound. The former technique is quite effective, 

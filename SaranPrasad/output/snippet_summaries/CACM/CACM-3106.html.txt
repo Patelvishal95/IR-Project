@@ -1,0 +1,1 @@
+A Fast Algorithm for Copying List Structures An algorithm is presented for copying an arbitrarily linked list structure into a block of contiguous storage locations without destroying the original list. 

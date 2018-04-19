@@ -1,0 +1,1 @@
+the time to search for an item in the tree. For sufficiently large trees, the execution times of all procedures for maintaining HB[1] trees are independent of the size of 

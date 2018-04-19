@@ -1,0 +1,1 @@
+for Polynomial Root Finding When searching for the root of a polynomial, it is generally difficult to know just when to accept a number as an adequate approximation to the 

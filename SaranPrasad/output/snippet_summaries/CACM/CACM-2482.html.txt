@@ -1,0 +1,1 @@
+Mixed Solutions for the Deadlock Problem Mixtures of detection, avoidance, and prevention provide more effective and practical solutions to the deadlock problem than any one of these alone. The individual 

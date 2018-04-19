@@ -1,0 +1,1 @@
+Recursive Data Structures in APL A mathematical study of three approaches for defining nested arrays in APL is presented. Theorems exhibiting the relationships between the definitional systems are given and 

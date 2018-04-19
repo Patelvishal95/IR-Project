@@ -1,0 +1,1 @@
+and by adding shadow buckets to an open chaining file. The keys are pre-hashed before the address division, to remove the effect of sequential properties in the key set. Shadow 

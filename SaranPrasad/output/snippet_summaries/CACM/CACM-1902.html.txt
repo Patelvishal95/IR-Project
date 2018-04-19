@@ -1,0 +1,1 @@
+An Automatic Grading Scheme for Simple Programming Exercises A discussion is given of alterations that were made to a typical university operating system to record the results of programming exercises 

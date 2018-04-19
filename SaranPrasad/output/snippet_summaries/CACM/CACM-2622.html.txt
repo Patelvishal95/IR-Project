@@ -1,0 +1,1 @@
+a Password Table which is available to only the authentication program. The integrity of the system depends on keeping the table secret. In this paper a password scheme is presented 

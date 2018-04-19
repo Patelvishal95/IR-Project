@@ -1,0 +1,1 @@
+The SMART Automatic Document Retrieval System-An Illustration A fully automatic document retrieval system operating on the IBM 7094 is described. The system is characterized by the fact that several hundred 

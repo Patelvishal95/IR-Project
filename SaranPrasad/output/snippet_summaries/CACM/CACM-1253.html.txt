@@ -1,0 +1,1 @@
+QUIKSCRIPT-A SIMSCRIPT- Like Language for the G-20 QUIKSCRIPT is a simulation language based on SIMSCRIPT and programmed entirely in an algebraic language, 20-GATE. The QUIKSCRIPT language, its internal implementation, and 

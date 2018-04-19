@@ -1,0 +1,1 @@
+for constructing a detailed deterministic simulation model of a system. In the model a control stream replaces the instruction and data streams of the real system. Simulation of the system 

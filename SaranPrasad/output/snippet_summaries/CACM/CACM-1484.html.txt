@@ -1,0 +1,1 @@
+A Language for Describing the Functions of Synchronous Systems* Before the design of a system is started, the exact function desired of it should be specified. It is suggested that 

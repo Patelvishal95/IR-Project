@@ -1,0 +1,1 @@
+Solution of Transcendental Equations by Series Reversion An algorithm is developed for expressing the solution Y, of the equation F(Y) = G(X) as a power series in (X - X0) 

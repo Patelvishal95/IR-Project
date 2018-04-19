@@ -1,0 +1,1 @@
+Approximation of Polygonal Maps by Cellular Maps The approximation of polygonal thematic maps by cellular maps, an important operation in geographical data processing, is analyzed. The data organization used for 

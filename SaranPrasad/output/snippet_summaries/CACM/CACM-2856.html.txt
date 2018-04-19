@@ -1,0 +1,1 @@
+The Synthetic Approach to Decision Table Conversion Previous approaches to the problem of automatically converting decision tables to computer programs have been based on decomposition. At any stage, one condition 

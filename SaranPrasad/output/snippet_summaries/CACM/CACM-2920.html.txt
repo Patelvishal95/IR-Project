@@ -1,0 +1,1 @@
+Game Interpretation of the Deadlock Avoidance Problem The deadlock avoidance problem may be defined informally as the determination, from some a priori information about the processes, resources, operating system, etc., 

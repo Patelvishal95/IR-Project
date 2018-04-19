@@ -1,0 +1,1 @@
+On Reversible Subroutines and Computers that Run Backwards A computer design is describe which permits subroutines to be executed backward as well as forward, either with their instructions unchanged or 

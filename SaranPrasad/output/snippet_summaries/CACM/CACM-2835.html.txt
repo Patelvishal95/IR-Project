@@ -1,0 +1,1 @@
+Compiler Optimization A relatively simple method for the detection of recursive use of procedures is presented for use in compiler optimization. Implementation considerations are discussed, and a modification of the 

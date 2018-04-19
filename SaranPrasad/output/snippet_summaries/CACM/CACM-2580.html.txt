@@ -1,0 +1,1 @@
+Traditional Music by Computer A method is described for composing musical rounds by computer. This method uses some music theory plus additional heuristics. Fundamental to the method is a set 

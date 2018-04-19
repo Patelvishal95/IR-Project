@@ -1,0 +1,1 @@
+Tests on a Computer Method for Constructing School Timetables* A previously proposed computer method for constructing timetables, based on an iteration involving Boolean matrices, is described. In limited tests the 

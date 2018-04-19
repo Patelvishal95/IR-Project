@@ -1,0 +1,1 @@
+Breaking Substitution Ciphers Using a Relaxation Algorithm Substitution ciphers are codes in which each letter of the alphabet has one fixed substitute, and the word divisions do not change. In 

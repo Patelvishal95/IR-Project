@@ -1,0 +1,1 @@
+Algorithm for Nonlinear Least Squares Problems Nonlinear least squares frequently arise for which the variables to be solved for can be separated into a linear and a nonlinear part. A 

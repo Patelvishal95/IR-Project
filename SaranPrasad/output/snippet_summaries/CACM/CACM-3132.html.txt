@@ -1,0 +1,1 @@
+Find Central Solutions for Pattern Classification In two-class pattern recognition, it is a standard technique to have an algorithm finding hyperplanes which separates the two classes in a linearly separable 

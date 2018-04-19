@@ -1,0 +1,1 @@
+FOCUS Microcomputer Number System FOCUS is a number system and supporting computational algorithms especially useful for microcomputer control and other signal processing applications. FOCUS has the wide-ranging character of floating-point 

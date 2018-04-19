@@ -1,0 +1,1 @@
+Garbage Collection for Virtual Memory Computer Systems In list processing there is typically a growing demand for space during program execution. This paper examines the practical implications of this growth 

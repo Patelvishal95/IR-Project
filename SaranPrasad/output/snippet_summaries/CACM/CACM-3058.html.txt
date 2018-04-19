@@ -1,0 +1,1 @@
+Technique When sequential file structures must be used and binary searching is not feasible, jump searching becomes an appealing alternative. This paper explores variants of the classic jump searching scheme 

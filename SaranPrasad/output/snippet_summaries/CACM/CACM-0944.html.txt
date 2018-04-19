@@ -1,0 +1,1 @@
+Storage and Search Properties of a Tree-Organized Memory System A memory with list properties [1] may be used to construct numeric, alphabetic or alphanumeric trees. Such trees have information storage 

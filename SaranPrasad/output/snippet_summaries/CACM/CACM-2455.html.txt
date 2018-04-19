@@ -1,0 +1,1 @@
+A Generalization of AVL Trees A generalization of AVL trees is proposed in which imbalances up to (triangle shape) is a small integer. An experiment is performed to compare these 

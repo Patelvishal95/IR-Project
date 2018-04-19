@@ -1,0 +1,1 @@
+An Inexpensive Braille Terminal Device The active use of time-shared facilities for blind programmers requires a braille terminal system. Details are given for the construction of a brailler from a 

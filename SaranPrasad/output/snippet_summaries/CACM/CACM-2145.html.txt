@@ -1,0 +1,1 @@
+Automation of Etching-Pattern Layout HELP (Heuristic Etching-Pattern Layout Program) is an application program developed to computerize the tedious and error-prone although vitally important wiring design of printed circuit boards. HELP 

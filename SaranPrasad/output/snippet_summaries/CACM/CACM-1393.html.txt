@@ -1,0 +1,1 @@
+PM, A System for Polynomial Manipulation PM is an IBM 7094 program system for formal manipulation of polynomials in any number of variables, with integral coefficients unrestricted in size. Some 

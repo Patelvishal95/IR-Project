@@ -1,0 +1,1 @@
+a function of n variables is to consider the function to assume its values at selected points in n-dimensional space. Although this picture is of value to the analyst, the 

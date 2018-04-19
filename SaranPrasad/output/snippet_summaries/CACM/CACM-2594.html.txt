@@ -1,0 +1,1 @@
+Structured Data Structures Programming systems which permit arbitrary linked list structures enable the user to create complicated structures without sufficient protection. Deletions can result in unreachable data elements, and there 

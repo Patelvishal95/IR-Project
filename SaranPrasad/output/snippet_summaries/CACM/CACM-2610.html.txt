@@ -1,0 +1,1 @@
+Gauss Harmonic Interpolation Formulas Let R be an open, bounded, simply connected region in the (x, y)-plane and let (x*, y*) be a point in R. Assuming R is starlike 

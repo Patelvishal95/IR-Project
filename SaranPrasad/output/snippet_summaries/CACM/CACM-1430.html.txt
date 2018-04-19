@@ -1,0 +1,1 @@
+Conversion from Decimal-to-Binary and Vice Versa Decimal-to-binary and binary-to-decimal floating-point conversion is often performed by using a table of the powers 10^i, (ia positive integer) for converting from base 10 

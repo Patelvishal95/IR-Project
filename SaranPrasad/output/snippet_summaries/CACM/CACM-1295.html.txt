@@ -1,0 +1,1 @@
+Topological Ordering A simplified technique is presented for PERT Time calculations without topological ordering. Each event is assigned a unique memory location. An activity is represented by a link. A 

@@ -1,0 +1,1 @@
+of the APT Language The APT (Automatically Programmed Tools) language for numerical control programming is described using the metalinguistic notation introduced in the ALGOL 60 report. Examples of APT usage 

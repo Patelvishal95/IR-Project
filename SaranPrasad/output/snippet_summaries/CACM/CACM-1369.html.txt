@@ -1,0 +1,1 @@
+Half Rotations in N-Dimensional Euclidean Space An iterative procedure is described for determining half rotations in n-dimensional Euclidean space. The method is a variant of the cyclic Jacobi procedure and 

@@ -1,0 +1,1 @@
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays In this report three thinning algorithms are developed: one each for use with rectangular, hexagonal, and triangular arrays. The approach to the 

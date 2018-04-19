@@ -1,0 +1,1 @@
+the Numerical Solution of Polynomial Equations Numerical techniques are presented for computing the roots of polynomial equations. By applying the recommended scaling and inversion rules, the basic Bairstow and Newton-Raphson 

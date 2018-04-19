@@ -1,0 +1,1 @@
+files, but the associated file organization is not readily adapted to the file alterations. Conversely, a chained file allocation permits efficient alteration but cannot be searched efficiently. A file organized 

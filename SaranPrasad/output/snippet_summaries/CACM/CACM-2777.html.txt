@@ -1,0 +1,1 @@
+the Cigarette Smoker's Problem (Without Conditional Statements) This report discusses a problem first introduced by Patil, who has claimed that the cigarette smoker's problem cannot be solved using the P 

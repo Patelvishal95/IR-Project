@@ -1,0 +1,1 @@
+Automatic Analysis of Electronic Digital Circuits Using List Processing A mapping from black diagrams of digital circuits to list structures is described, together with a list processing program written for 

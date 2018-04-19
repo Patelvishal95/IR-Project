@@ -1,0 +1,1 @@
+Expressions: The SQUARE Data Sublanguage This paper presents a data sublanguage called SQUARE, intended for use in ad hoc, interactive problem solving by non-computer specialists. SQUARE is based on the 

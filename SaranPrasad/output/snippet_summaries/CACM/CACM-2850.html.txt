@@ -1,0 +1,1 @@
+Symbolic Execution and Program Testing This paper describes the symbolic execution of programs. Instead of supplying the normal inputs to a program (e.g. numbers) one supplies symbols representing arbitrary values. 

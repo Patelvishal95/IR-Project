@@ -1,0 +1,1 @@
+of page accessing implies a need for more careful data organization in a paged memory than is typical of most inverted file and similar approaches to multi-key retrieval. This article 

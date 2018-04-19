@@ -1,0 +1,1 @@
+A matrix calculus is introduced with the intention of developing data structures suitable for a high level algorithmic language for mathematical programming. The paper investigates how the special structure of 

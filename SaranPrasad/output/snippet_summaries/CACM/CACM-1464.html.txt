@@ -1,0 +1,1 @@
+An ALGOL Compiler: Construction and Use in Relation to an Elaborate Operating System An ALGOL translator has been prepared and integrated into the IBSYS Operating System. Assembly and "go" features 

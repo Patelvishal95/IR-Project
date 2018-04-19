@@ -1,0 +1,1 @@
+A Comparison of Tree-Balancing Algorithms Several algorithms-height-balance (i.e. AVL and extensions), weight-balance (i.e. BB and WB), and total restructuring-for building balanced binary search trees are compared. The criteria for comparison 

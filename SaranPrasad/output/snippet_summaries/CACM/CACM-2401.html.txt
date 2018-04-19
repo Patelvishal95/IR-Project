@@ -1,0 +1,1 @@
+each pattern, is presented. This procedure may be used for counting patterns on a matrix, and a hardware implementation of the algorithm using large scale integrated technology is envisioned. The 

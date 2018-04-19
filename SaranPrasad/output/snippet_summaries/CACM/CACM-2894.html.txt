@@ -1,0 +1,1 @@
+Interactive Computer Service Measurement A measurement methodology applicable to in teractive computer service is described. Its primary purpose is to enable external, user-oriented assessment of computer performance, instead of the 

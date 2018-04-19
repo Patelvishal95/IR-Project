@@ -1,0 +1,1 @@
+paper discusses the design considerations for the architectural extensions that distinguish System/370 from System/360. It comments on some experiences with the original objectives for System/360 and on the efforts to 

@@ -1,0 +1,1 @@
+GRAD Assistant - A Program for Symbolic Algebraic Manipulation and Differentiation The General Recursive Algebra and Differentiation Assistant (GRAD Assistant) now under development is a set of LISP functions which 

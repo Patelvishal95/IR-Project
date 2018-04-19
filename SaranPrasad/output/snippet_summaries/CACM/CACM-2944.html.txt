@@ -1,0 +1,1 @@
+Shifting Garbage Collection Overhead to Compile Time This paper discusses techniques which enable automatic storage reclamation overhead to be partially shifted to compile time. The paper assumes a transaction oriented 

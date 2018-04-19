@@ -1,0 +1,1 @@
+A Method of Bivariate Interpolation and Smooth Surface Fitting Based on Local Procedures A method is designed for interpolating values given at points of a rectangular grid in a plane 

@@ -1,0 +1,1 @@
+Structural Pattern Recognition Of Carotid Pulse Waves Using A General Waveform Parsing System A general waveform parsing system with application to structural pattern recognition of carotid pulse waves is described. 

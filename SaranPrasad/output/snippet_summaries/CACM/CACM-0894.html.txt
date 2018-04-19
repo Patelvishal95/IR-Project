@@ -1,0 +1,1 @@
+An Iterative Factorization Technique for Polynomials An iterative technique is displayed whereby factors of arbitrary degree can be found for polynomials in one variable. Convergence is shown to occur always 

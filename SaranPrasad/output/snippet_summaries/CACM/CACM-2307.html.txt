@@ -1,0 +1,1 @@
+Dynamic Document Processing The current role of computers in automatic document processing is briefly outlined, and some reasons are given why the early promise of library automation and of the 

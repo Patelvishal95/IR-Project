@@ -1,0 +1,1 @@
+The Reactive Typewriter Program 84-character keyboard including alphabetical upper and lower case for good readability. If the machine is restricted to only a single case, the lower case is preferred. 

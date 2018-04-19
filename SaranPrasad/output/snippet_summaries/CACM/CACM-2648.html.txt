@@ -1,0 +1,1 @@
+A Design for a Number Theory Package with an Optimized Trial Division routine A number theory package is described which uses doubly linked list structures for storing multiprecise integers. The 

@@ -1,0 +1,1 @@
+Conversion of Decision Tables to Computer Programs by Rule Mark Techniques The rule mask technique is one method of converting limited entry decision tables to computer programs. Recent discussion suggest 

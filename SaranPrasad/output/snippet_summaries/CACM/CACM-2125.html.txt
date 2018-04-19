@@ -1,0 +1,1 @@
+A Note on Minimal Length Polygonal Approximation to a Digitized Contour A method for extracting a smooth polygonal contour from a digitized image is illustrated. The ordered sequence of contour 

@@ -1,0 +1,1 @@
+Determining the Minimum-Area Encasing Rectangle for an Arbitrary Closed Curve This paper describes a method for finding the rectangle of minimum area in which a given arbitrary plane curve can 

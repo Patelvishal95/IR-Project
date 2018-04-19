@@ -1,0 +1,1 @@
+Definitions in ALGOL An extension to ALGOL is proposed for adding new data types and operators to the language. Definitions may occur in any block heading and terminate with the 

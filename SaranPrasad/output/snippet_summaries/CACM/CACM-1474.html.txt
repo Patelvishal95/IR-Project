@@ -1,0 +1,1 @@
+of Roundoff Errors In any prolonged computation it is generally assumed that the accumulated effect of roundoff errors is in some sense statistical. The purpose of this paper is to 

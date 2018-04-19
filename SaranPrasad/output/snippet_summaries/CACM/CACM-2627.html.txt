@@ -1,0 +1,1 @@
+Scheduling Independent Tasks to Reduce Mean Finishing Time Sequencing to minimize mean finishing time (or mean time in system) is not only desirable to the user, but it also tends 

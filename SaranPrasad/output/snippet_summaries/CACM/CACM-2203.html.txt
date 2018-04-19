@@ -1,0 +1,1 @@
+Formatted Files The results of a study of eight different key-to-address transformation methods applied to a set of existing files are presented. As each method is applied to a particular 

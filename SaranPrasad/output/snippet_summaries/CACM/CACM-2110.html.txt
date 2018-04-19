@@ -1,0 +1,1 @@
+An Efficient Context-free Parsing Algorithm A parsing algorithm which seems to be the most efficient general context-free algorithm known is described. It is similar to both Knuth's LR(k) algorithm and 

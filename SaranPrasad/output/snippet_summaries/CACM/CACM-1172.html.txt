@@ -1,0 +1,1 @@
+Decision Tables to Computer Programs Decision tables are useful for describing a set of complex decision rules based on given sets of conditions. Algorithms that can efficiently convert the tables 

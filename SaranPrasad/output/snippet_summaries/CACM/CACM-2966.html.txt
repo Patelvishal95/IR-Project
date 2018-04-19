@@ -1,0 +1,1 @@
+The Choice of Reference Poin ts in Best-Match File Searching Improvements to the exhaustive search method of best-match file searching have previously been achieved by doing a preprocessing step involving 

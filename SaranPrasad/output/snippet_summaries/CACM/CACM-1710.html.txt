@@ -1,0 +1,1 @@
+Structure Package ASP is a general purpose Associative Data Structure Package in which an arbitrary number of data items and an arbitrary number of the relationships between these data items 

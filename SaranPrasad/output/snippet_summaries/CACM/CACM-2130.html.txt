@@ -1,0 +1,1 @@
+Automatic Segmentation of Cyclic Program Structures Based on Connectivity and Processor Timing Time-shared, multiprogrammed, and overlayed batch systems frequently require segmentation of computer programs into discrete portions. These program portions 

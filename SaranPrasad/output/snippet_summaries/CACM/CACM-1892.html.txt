@@ -1,0 +1,1 @@
+Degree of Multiprogramming in Page-on-Demand Systems A simple stochastic model is described which offers a base for understanding the relationship between the number of programs permitted to share memory (the 

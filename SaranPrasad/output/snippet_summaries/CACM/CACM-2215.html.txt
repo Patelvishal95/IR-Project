@@ -1,0 +1,1 @@
+test all the features of a pattern at once. Instead, it selects a feature to be tested. After receiving the result of that test, the procedure either classifies the unknown 

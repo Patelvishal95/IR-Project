@@ -1,0 +1,1 @@
+describes an approach for determining the minimum, maximum, and average times to parse sentences acceptable by a deterministic parser. These quantities are presented in the form of symbolic formulas, called 

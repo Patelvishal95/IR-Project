@@ -1,0 +1,1 @@
+readable for a beginner. However, experience has shown that once the report is explained it is in fact easy to learn ALGOL and to write algorithms in it. The language 

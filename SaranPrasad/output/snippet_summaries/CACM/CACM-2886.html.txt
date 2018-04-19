@@ -1,0 +1,1 @@
+programming languages and compilers; a formal definition of attribute grammars and a discussion of some of its important aspects are included. The paper concentrates on the evaluation of semantic attributes 

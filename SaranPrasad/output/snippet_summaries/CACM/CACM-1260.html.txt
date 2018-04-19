@@ -1,0 +1,1 @@
+Least-Squares Analysis of Resonance Spectra on Small Computers The problem of analyzing data from a Mossbauer effect experiment is discussed. By using the cut step procedure for convergence and by 

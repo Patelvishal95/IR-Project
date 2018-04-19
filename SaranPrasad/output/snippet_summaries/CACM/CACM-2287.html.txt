@@ -1,0 +1,1 @@
+A New Approach to Automatic Scanning of Contour Maps The problem of automatic digitizing of contour maps is discussed. The structure of a general contour map is analyzed, and its 

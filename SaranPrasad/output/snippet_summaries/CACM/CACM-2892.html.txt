@@ -1,0 +1,1 @@
+A Study of Line Overhead in the Arpanet The form, extent, and effect of the communication line overhead in the ARPANET are considered. The source of this over head is 

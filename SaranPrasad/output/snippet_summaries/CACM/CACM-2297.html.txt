@@ -1,0 +1,1 @@
+aspects of contention for main memory resources in a multiprogrammed computer system operating under demand paging. In the model presented, the number of page-frames of main memory allocated to a 

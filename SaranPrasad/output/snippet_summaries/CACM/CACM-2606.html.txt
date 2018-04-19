@@ -1,0 +1,1 @@
+A New Integration Algorithm for Ordinary Differential Equations Based on Continued Fraction Approximations A new integration algorithm is found, and an implementation is compared with other programmed algorithms. The new 

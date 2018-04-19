@@ -1,0 +1,1 @@
+New LISP Techniques for a Paging Environment The system described herein employs the block concept, and that of global and local variables, in addition to the methods applied in most 

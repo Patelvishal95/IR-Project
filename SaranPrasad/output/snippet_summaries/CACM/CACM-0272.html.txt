@@ -1,0 +1,1 @@
+A Storage Allocation Scheme for ALGOL 60 A storage allocation scheme for a machine with a 2048 instruction core store and a magnetic drum is described. The use of the 

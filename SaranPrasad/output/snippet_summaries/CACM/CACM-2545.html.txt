@@ -1,0 +1,1 @@
+of Discrete Patterns and Their Implementation in SNOBOL4 The notion of a discrete pattern is formalized and certain properties deduced. A pattern is shown to be a generalization of a 

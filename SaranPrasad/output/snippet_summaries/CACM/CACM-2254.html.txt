@@ -1,0 +1,1 @@
+Dynamic Partitioning for Array Languages The classical process of partitioning an array into subarrays is extended to a more useful array language operation. Various modes of partitioning are defined for 

@@ -1,0 +1,1 @@
+problem of producing sentences of a transformational grammar by using a random generator to create phrase structure trees for input to the lexical insertion and transformational phases is discussed. A 

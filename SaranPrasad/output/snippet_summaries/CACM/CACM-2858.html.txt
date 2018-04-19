@@ -1,0 +1,1 @@
+algorithm is presented for the assignment of instruction addresses and formats under the following conditions: (1) the length of the instruction varies as a function of the distance of the 

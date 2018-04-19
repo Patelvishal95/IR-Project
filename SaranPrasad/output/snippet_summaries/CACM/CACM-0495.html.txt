@@ -1,0 +1,1 @@
+A Procedure for Inverting Large Symmetric Matrices In the least squares method for simultaneous adjustment of several parameters, the coefficients of the normal equations are the elements of a symmetric 

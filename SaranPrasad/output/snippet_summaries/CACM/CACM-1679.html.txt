@@ -1,0 +1,1 @@
+procedure is presented for calculating the complex, discrete Fourier transform of real-valued time series. This procedure is described for an example where the number of points in the series is 

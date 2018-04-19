@@ -1,0 +1,1 @@
+Power Trees The new class of Pk trees is presented, where height balance is maintained for the nodes Iying on particular paths. The number of nodes of a Pk tree 

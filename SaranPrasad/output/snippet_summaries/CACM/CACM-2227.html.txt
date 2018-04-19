@@ -1,0 +1,1 @@
+Proof of a Program: FIND A proof is given of the correctness of the algorithm "Find." First, a informal description is given of the purpose of the program and the 

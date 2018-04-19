@@ -1,0 +1,1 @@
+Stat-Pack: A Biostatistical Programming Package A package of FORTRAN statistical programs for use on almost any small to medium size (40k characters or 8k words) for which a FORTRAN II 

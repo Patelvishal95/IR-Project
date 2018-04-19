@@ -1,0 +1,1 @@
+Conflict in Meetings Conflicts in scheduling can be treated as defining an undirected linear graph independently of the relation of the activities in conflict to additional constraints of time and 

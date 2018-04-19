@@ -1,0 +1,1 @@
+Eigenvectors of a 2n x 2n Matrix It has been known that the eigenvalues of a certain 2n x 2n matrix can be obtained by use of two smaller matrices 

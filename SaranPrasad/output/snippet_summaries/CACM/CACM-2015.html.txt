@@ -1,0 +1,1 @@
+for Precedence Grammars A technique is developed for generating almost optimal Floyd-Evans productions given a precedence grammar. A graph formulation is used for the problem of merging productions. The productions 

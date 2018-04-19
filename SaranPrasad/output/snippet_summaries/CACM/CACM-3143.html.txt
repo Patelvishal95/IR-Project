@@ -1,0 +1,1 @@
+A variety of concepts, laws, and notations are presented which facilitate reasoning about arrays. The basic concepts include intervals and their partitions, functional restriction, images, pointwise extension of relations, ordering, 

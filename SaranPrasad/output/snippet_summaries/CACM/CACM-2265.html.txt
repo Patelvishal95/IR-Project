@@ -1,0 +1,1 @@
+operands are compatible? The activity of answering this question is usually called type checking. This paper attempts to isolate the notion of type checking and presents a partial solution to 

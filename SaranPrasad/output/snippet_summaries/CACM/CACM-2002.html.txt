@@ -1,0 +1,1 @@
+is hardware-independent and has been implemented on a variety of installations, of different manufacturers, having diverse configurations. The elements common to all types of data plots are outlined and the 

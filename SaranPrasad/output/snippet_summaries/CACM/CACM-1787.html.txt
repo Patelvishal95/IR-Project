@@ -1,0 +1,1 @@
+Use of Transition Matrices in Compiling An algorithms is described which constructs from a suitable BNF grammar an efficient left-right recognizer for sentences of the corresponding language. The type of 

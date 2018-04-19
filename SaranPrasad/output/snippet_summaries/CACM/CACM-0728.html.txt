@@ -1,0 +1,1 @@
+Computer-Drawn Flowcharts* To meet the need for improved documentation of written computer programs, a simple system for effective communication is presented, which has shown great promise. The programmer describes his 

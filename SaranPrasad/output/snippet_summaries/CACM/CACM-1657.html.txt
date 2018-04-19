@@ -1,0 +1,1 @@
+Implementation of the SHARER2 Time-Sharing System A simple mechanism is described for the execution of part of a program with its own memory protection. This allows such a program to 

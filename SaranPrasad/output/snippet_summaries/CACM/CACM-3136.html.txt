@@ -1,0 +1,1 @@
+Price/Performance Patterns of U. Computer Systems Econometric models of the U. computer market have been developed to study the relationships between system price and hardware performance. Single measures of price/performance 

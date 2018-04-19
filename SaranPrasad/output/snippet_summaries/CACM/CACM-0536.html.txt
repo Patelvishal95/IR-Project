@@ -1,0 +1,1 @@
+Nonlinear Regression and the Solution of Simultaneous Equations If one has a set of observables (Z1, ..., Zm) which are bound in a relation with certain parameters (A1, ..., An) 

@@ -1,0 +1,1 @@
+A Weighted Buddy Method for Dynamic Storage Allocation An extension of the buddy method, called the weighted buddy method, for dynamic storage allocation is presented. The weighted buddy method allows 

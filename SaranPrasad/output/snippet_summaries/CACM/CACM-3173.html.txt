@@ -1,0 +1,1 @@
+A Psychology of Learning BASIC This paper addresses the question: What does a person know following learning of BASIC programming? Several underlying conceptual structures are identified: (1) a transaction is 

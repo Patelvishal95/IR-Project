@@ -1,0 +1,1 @@
+rules. By this is meant that patterns may be prescribed, each being associated with a skeleton, so that a series of such pairs may be searched until a pattern is 

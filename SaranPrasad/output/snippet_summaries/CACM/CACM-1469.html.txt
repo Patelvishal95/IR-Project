@@ -1,0 +1,1 @@
+A family of unimplemented computing languages is described that is intended to span differences of application area by a unified framework. This framework dictates the rules about the uses of 

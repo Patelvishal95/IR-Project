@@ -1,0 +1,1 @@
+Permutation Enumeration: Four New Permutation Algorithms Classical permutation enumeration algorithms encounter special cases requiring additional computation every nth permutation when generating the n! permutations on n marks. Four new algorithms 

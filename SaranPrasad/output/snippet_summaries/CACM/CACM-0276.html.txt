@@ -1,0 +1,1 @@
+Program Organization and Record Keeping for Dynamic Storage Allocation The material presented in this paper is part of the design plan of the core allocation portion of the ASCII-MATIC Programming 

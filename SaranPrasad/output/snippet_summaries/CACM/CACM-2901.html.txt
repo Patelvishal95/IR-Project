@@ -1,0 +1,1 @@
+An Encoding Method for Multifield Sorting and Indexing Sequences of character strings with an order relation imposed between sequences are considered. An encoding scheme is described which produces a single, 

@@ -1,0 +1,1 @@
+A Comparison of Numerical Techniques in Markov Modeling This paper presents several numerical methods which may be used to obtain the stationary probability vectors of Markovian models. An example of 

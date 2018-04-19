@@ -1,0 +1,1 @@
+calculate the intersection points of two plane curves. The theory of singular points off a system of two differential equations is used in developing the method. The intersection point to 

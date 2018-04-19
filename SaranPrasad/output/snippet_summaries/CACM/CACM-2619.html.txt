@@ -1,0 +1,1 @@
+Graph Coloring Conditions for the Existence of Solutions to the Timetable Problem A necessary and sufficient condition is presented for the existence of a solution to the Gotlieb class-teacher timetable 

@@ -1,0 +1,1 @@
+A syntax checker was designed based on the syntax of ALGOL as described in the ALGOL 60 Report [Communications of the ACM, May, 1960]. Since the definition of the elements 

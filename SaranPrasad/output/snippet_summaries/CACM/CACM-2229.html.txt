@@ -1,0 +1,1 @@
+Construction of Rational and Negative Powers of a Formal Series Some methods are described for the generation of fractional and negative powers of any formal series, such as Poisson series 

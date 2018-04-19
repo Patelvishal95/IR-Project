@@ -1,0 +1,1 @@
+Extensible Machines One of the most salient characteristics of extensible machines (EM) is the facility for providing system control over program-to-program and program-to-data linkage (e.g., address connection). It is the 

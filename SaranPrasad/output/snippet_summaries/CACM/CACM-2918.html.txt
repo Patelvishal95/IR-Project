@@ -1,0 +1,1 @@
+Multiprocessor Memory Organization and Memory Interference The structure of shared memory in a multiprocessor computer system is examined with particular attention to nonin terleaved memory. Alternative memory organizations are compared 

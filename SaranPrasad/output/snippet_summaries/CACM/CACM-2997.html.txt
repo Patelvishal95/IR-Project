@@ -1,0 +1,1 @@
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions The convex hulls of sets of n poin ts in two and three dimensions can be determined 

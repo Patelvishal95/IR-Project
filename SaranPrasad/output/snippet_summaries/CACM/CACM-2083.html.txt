@@ -1,0 +1,1 @@
+A method is described for the definition of a user's COMMON structure and the automatic generation of the necessary COMMON, DIMENSION, EQUIVALENCE, and type declarations for each of the user's 

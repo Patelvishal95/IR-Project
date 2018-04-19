@@ -1,0 +1,1 @@
+Mathematical Experimentation in Time-Lag Modulation Equations of the form du/dt = g(u(t), u(h(t))) arise in a number of scientific contexts. The authors point out some interesting properties of the solution 

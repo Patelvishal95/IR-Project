@@ -1,0 +1,1 @@
+written in 7040 SIMSCRIPT and the other in 7040 FORTRAN IV are compared. The comparison is made in terms of basic program design decisions, storage requirements, computer time used, and 

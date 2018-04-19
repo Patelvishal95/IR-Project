@@ -1,0 +1,1 @@
+On the Construction of a Representative Synthetic Workload A general method of constructing a drive workload representative of a real workload is described. The real workload is characterized by its 

@@ -1,0 +1,1 @@
+A Lightpen-Controlled Program For On-Line Data Analysis This paper describes a technique designed to ease the use of a data processing system by a person, in particular, a scientist, who 

@@ -1,0 +1,1 @@
+A Man-Machine Approach Toward Solving the Traveling Salesman Problem The traveling salesman problem belongs to an important class of scheduling and routing problems. It is also a subproblem in solving 

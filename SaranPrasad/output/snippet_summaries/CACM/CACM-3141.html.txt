@@ -1,0 +1,1 @@
+in Circular Configurations of Processes This note presents an improvement to LeLann's algorithm for finding the largest (or smallest) of a set of uniquely numbered processes arranged in a circle, 

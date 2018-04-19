@@ -1,0 +1,1 @@
+data on the relative performance of first-fit and best-fit and a better understanding of the reasons underlying observed differences. The time-memory-product efficiencies of first-fit and best-fit were generally within 1 

@@ -1,0 +1,1 @@
+of Ordinary Differential Equations A formula for numerical integration is prepared, which involves an exponential term. This formula is compared to two standard integration methods, and it is shown that 

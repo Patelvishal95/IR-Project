@@ -1,0 +1,1 @@
+of Non-normal Matrices The problem considered is to give bounds for finite perturbations of simple and multiple eigenvalues of nonnormal matrices, where these bounds are in terms of the eigenvalues, 

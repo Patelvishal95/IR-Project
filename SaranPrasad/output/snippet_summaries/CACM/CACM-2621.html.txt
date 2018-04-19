@@ -1,0 +1,1 @@
+Log-in Procedure The protection of time sharing systems from unauthorized users is often achieved by the use of passwords. By using one-way ciphers to code the passwords, the risks involved 

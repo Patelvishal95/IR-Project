@@ -1,0 +1,1 @@
+Regular Right Part Grammars and Their Parsers This paper in troduces an alternative to context-free grammars called regular right part (RRP) grammars, which resemble PASCAL syntax diagrams. Formally, RRP grammars 

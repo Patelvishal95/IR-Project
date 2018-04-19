@@ -1,0 +1,1 @@
+Exception Handling: Issues and a Proposed Notation This paper defines exception conditions, discusses the requirements exception handling language features must satisfy, and proposes some new language features for dealing with 

@@ -1,0 +1,1 @@
+Symbolic Factoring of Polynomials in Several Variables An algorithm for finding the symbolic factors of a multi-variate polynomial with integer coefficients is presented. The algorithm is an extension of a 

@@ -1,0 +1,1 @@
+General Equations for Idealized CPU-I/O Overlap Configurations General equations are derived for estimating the maximum possible utilization of main storage partitions, CPU and I/O devices under different conditions in an 

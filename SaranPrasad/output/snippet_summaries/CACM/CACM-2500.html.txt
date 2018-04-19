@@ -1,0 +1,1 @@
+Resources and Avoiding Deadlocks Resource scheduling and allocation can be expensive with regard to time and space in multiprogramming or time-sharing environments involving large numbers of tasks and resources with 

@@ -1,0 +1,1 @@
+method of simulation organization, called the significant event method, with an old one, called the clock pulse method, using as examples two automobile traffic models. The significant event method is 

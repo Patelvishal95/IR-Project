@@ -1,0 +1,1 @@
+Execution Characteristics of Programs in a Page-on-Demand System Data are presented which show the execution characteristics of two types of commonly used programs in a large-scale, time-shared computer system. A 

@@ -1,0 +1,1 @@
+descending sequences. The basic approach is to find a termination function that maps the values of the program variables into some well-founded set, such that the value of the termination 

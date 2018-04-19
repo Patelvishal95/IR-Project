@@ -1,0 +1,1 @@
+list structure copying using bounded workspace. The first, of primarily theoretical interest, shows that without cell tag bits the task can be performed in time n^2. The second algorithm, assuming 

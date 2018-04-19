@@ -1,0 +1,1 @@
+Logic-Structure Tables Logic tables are an excellent way of developing and expressing the logic required in procedures, operations, systems and circuits. A set of rules for writing and using logic 

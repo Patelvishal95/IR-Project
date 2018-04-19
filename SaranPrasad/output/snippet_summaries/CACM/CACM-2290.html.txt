@@ -1,0 +1,1 @@
+Immediate Predominators in a Directed Graph [H] (Algorithm A430) CACM August, 1972 Purdom Jr., P. W. Moore, E. F. predominator, immediate predominator, graph theory, directed graph, shortest path, articulation, connectivity, 

@@ -1,0 +1,1 @@
+Multiple Terminals Under User Program Control in a Time-Sharing Environment User-written programs on the Dartmouth Time-Sharing system can communicate with many remote terminals simultaneously and can control the interactions between 

@@ -1,0 +1,1 @@
+Analysis of Variance A major problem in using the analysis of variance, as the number of factors increases, is the exponential rise in the number of interactions. Even though the 

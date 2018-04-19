@@ -1,0 +1,1 @@
+organization which possesses a number of different computers and which frequently acquires new ones. To maintain cohesion, a system must be developed, written in a high level language, which minimizes 

@@ -1,0 +1,1 @@
+finite range with the variable Xi taking on Pi possible values and that the values of the variables are changing with time. It is supposed further that it is desired 

@@ -1,0 +1,1 @@
+Three Fonts of Computer Drawn Letters Detailed descriptions are given for three fonts of letters. Letter shapes are entirely described by numbers. The basic vectors are in a general form 

@@ -1,0 +1,1 @@
+Integral Equations of Immunology The inversion of a particular integral equation of the first (Fredholm) kind is the basic problem considered. The strategy which yielded success consisted of three essential 

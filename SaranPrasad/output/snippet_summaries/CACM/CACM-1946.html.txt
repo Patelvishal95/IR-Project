@@ -1,0 +1,1 @@
+Computing Polynomial Resultants: Bezout's Determinant vs. Collins' Reduced P. Algorithm Algorithms for computing the resultant of two polynomials in several variables, a key repetitive step of computation in solving systems 

@@ -1,0 +1,1 @@
+facets of the design and implementation of mathematical expression manipulation algorithms are discussed. Concrete examples are provided by the FORMAC EXPAND and differentiation algorithms, a basic FORMAC utility routine, and 

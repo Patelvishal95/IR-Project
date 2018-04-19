@@ -1,0 +1,1 @@
+A Card Format for Reference Files in Information Processing This paper proposes a card format suitable for a variety of reference files in information processing. An 80-column IBM card is 

@@ -1,0 +1,1 @@
+to the belief that the creative design and evaluation of management information systems requires a thorough understanding of the related computer technology. Concepts such as paging and priority interrupt systems 

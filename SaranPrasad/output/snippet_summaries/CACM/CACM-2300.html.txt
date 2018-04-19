@@ -1,0 +1,1 @@
+Political Redistricting by Computer The problems of political redistricting are considered and a computer method for redistricting is presented. Criteria for acceptable redistricting are discussed, including population equality, compactness, contiguity, 

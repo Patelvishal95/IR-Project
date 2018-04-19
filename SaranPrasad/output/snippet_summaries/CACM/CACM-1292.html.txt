@@ -1,0 +1,1 @@
+On a Divide-and-Correct Method For Variable Precision Division Described in this paper is a divide-and-correct method for variable precision division in digital computers. Unlike the earlier methods of Stein and 

@@ -1,0 +1,1 @@
+constructs, and a supervisory system organization are proposed for the design and coding of large shared data base systems. The bases for this organization are a generalized interrupt structure and 

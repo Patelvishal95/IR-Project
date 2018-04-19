@@ -1,0 +1,1 @@
+A Hardware Architecture for Implementing Protection Rings Protection of computations and information is an important aspect of a computer utility. In a system which uses segmentation as a memory addressing 

@@ -1,0 +1,1 @@
+DATA-DIAL: Two-Way Communication with Computers From Ordinary dial Telephones An operating system is described which allows users to call up a remotely located computer from ordinary dial telephones. No special 

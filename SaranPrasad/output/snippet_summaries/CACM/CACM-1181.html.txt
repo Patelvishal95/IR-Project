@@ -1,0 +1,1 @@
+A Simple Data Transmission System Using the Office Telephone A method has evolved for transmitting data of a type originating in many laboratory situation direct to a central computer. The 

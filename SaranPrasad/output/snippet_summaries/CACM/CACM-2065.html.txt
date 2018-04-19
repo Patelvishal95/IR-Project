@@ -1,0 +1,1 @@
+A Programming System for the On-line Analysis of Biomedical Images A preliminary description of the software for a computer-display system is given with special emphasis on the man-machine interaction. This 

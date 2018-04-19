@@ -1,0 +1,1 @@
+behavior can be characterized in terms of its residence in localities of various sizes and lifetimes, and the transitions between these localities. In this paper the concept of a locality 

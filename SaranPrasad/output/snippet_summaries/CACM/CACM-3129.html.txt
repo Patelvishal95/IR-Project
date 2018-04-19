@@ -1,0 +1,1 @@
+Optimal Storage Allocation for Serial Files A computer system uses several serial files. The files reside on a direct-access storage device in which storage space is limited. Records are added 

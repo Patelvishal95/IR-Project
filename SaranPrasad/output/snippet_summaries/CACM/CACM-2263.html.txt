@@ -1,0 +1,1 @@
+The Conversion of Limited-Entry Decision Tables to Optimal and Near-Optimal Flowcharts: Two New Algorithms Two new algorithms for deriving optimal and near-optimal flowcharts from limited entry decision tables are presented. 

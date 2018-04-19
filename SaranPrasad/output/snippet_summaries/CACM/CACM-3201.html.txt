@@ -1,0 +1,1 @@
+Symbolic Manipulation of Poisson Series Poisson series of three variables are manageable symbolically through as a set of formal subroutines written partially in the IBM 7094 machine language, but to 

@@ -1,0 +1,1 @@
+An Evaluation of Statistical Software in the Social Sciences Several hundred college and university computer installations now offer various types of statistical packages for general use. Among those most widely 

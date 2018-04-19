@@ -1,0 +1,1 @@
+Form of the Inverse Linear Programming Codes This paper describes a new algorithm for the selection of the pivot row in matrix inversion when using the product form of the 

@@ -1,0 +1,1 @@
+a file organization scheme designed to replace the use of the popular secondary index filing scheme (or inverted files on secondary key fields) is described. Through the use of redundancy 

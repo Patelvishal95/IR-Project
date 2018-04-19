@@ -1,0 +1,1 @@
+Programming Language Standards Activities This paper reviews the current state of programming language standards activities with respect to the anomalies which exist between the various published and proposed standards for 

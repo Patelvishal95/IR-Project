@@ -1,0 +1,1 @@
+An Algebraic Compiler for the FORTRAN Assembly Program An algebraic compiler has been written which may be added to the FORTRAN Assembly Program. This compiler will expand all algebraic statements 

@@ -1,0 +1,1 @@
+Inference The question-answering aspects of the Protosynthex III pro totype language processing system are described and exemplified in detail. The system is written in LISP 1.5 and operates on the 

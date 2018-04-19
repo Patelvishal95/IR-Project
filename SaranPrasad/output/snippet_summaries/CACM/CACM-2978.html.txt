@@ -1,0 +1,1 @@
+Analysis of Design Alternatives for Virtual Memory Indexes A class of index structures for use in a virtual memory environment is described. Design alternatives within this class of index structures 

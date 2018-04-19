@@ -1,0 +1,1 @@
+Optimizing the Performance of a Relational Algebra Database Interface An approach for implementing a "smart" interface to support a relational view of data is proposed. The basic idea is to 

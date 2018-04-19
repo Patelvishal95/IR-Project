@@ -1,0 +1,1 @@
+Time Using Bounded Workspace A bounded workspace copying algorithm for arbitrary list structures is given. This algorithm operates in linear time and does not require tag bits. The best previous 

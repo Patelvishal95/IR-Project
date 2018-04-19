@@ -1,0 +1,1 @@
+the IBM 360 The familiar multiplicative congruential generator is examined in the context of the type of two's complement arithmetic used in the IBM 360 series. Different sequences of residues 

@@ -1,0 +1,1 @@
+which programs can be written and proofs of programs carried out. The proofs are particularly easy to follow and straightforward to produce because the statements in a Lucid program are 

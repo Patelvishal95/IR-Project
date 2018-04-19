@@ -1,0 +1,1 @@
+The Altran System for Rational Function Manipulation-A Survey Altran is a complete system for symbolic computation with rational functions in several variables with integer coefficients. It has been designed and 

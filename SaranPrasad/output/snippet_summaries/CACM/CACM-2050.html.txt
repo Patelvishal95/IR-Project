@@ -1,0 +1,1 @@
+Automatic Parsing for Content Analysis Although automatic syntactic and semantic analysis is not yet possible for all of an unrestricted natural language text, some applications, of which content analysis is 

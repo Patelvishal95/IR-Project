@@ -1,0 +1,1 @@
+The Organization of Symbol Tables An efficient symbol table organization is an important feature in the design of any compiler. During the construction of the Virginia ALGOL 60 compiler for 

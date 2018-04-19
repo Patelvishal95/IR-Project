@@ -1,0 +1,1 @@
+Retrieval-Update Speed Tradeoffs Using Combined Indices In a paper in the November 1970 Communications of the ACM, V. Y. Lum introduced a technique of file indexing named combined indices. This 

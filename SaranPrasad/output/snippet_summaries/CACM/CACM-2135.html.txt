@@ -1,0 +1,1 @@
+Rapid Computation of General Interpolation Formulas and Mechanical Quadrature Rules Let f have n continuous on a closed interval [a, b] and let L be a linear functional. The attempt 

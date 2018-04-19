@@ -1,0 +1,1 @@
+A New Uniform Pseudorandom Number Generator A new multiplicative congruential pseudorandom number generator is discussed, in which the modulus is the largest prime within accumulator capacity and the multiplier is 

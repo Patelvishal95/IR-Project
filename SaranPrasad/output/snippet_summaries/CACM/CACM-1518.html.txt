@@ -1,0 +1,1 @@
+An Experimental Model of System/360 The problem of predicting the performance of modern computer systems is formidable. One general technique which can ease this problem is macroscopic simulation. This paper 

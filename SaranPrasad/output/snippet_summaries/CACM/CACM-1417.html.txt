@@ -1,0 +1,1 @@
+Economies of Scale and the IBM System/360 Cost functions among five System/360 models are analyzed through examinations of instruction times, program kernels and a "typical" instruction mix. Comparisons are made 

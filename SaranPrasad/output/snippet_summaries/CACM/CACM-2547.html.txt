@@ -1,0 +1,1 @@
+Representation of Contours ad Regions for Efficient Computer Search A novel computer-searchable representation for the three basic pictorial features, contour maps, region coverage, and line structures, is described. The representation, 

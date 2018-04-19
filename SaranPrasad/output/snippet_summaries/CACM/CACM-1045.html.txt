@@ -1,0 +1,1 @@
+Programming Analysis of Variance by Sequences of Operators and Isomorphic Mappings A special operator calculus developed by Hartley in 1956 together with a new mapping scheme has been found to 

@@ -1,0 +1,1 @@
+subproblems, in the form of parallel programs, and informal proofs of correctness have been given for these solutions. In this paper a system of parallel processes is regarded as a 

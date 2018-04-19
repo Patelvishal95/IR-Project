@@ -1,0 +1,1 @@
+An algorithm is presented for minimizing the sum of the lengths of the blocks of coding produced by an assembler or compiler when (1) the length of each computer instruction 

@@ -1,0 +1,1 @@
+An Exercise in Proving Parallel Programs Correct A parallel program, Dijkstra's on-the-fly garbage collector, is proved correct using a proof method developed by Owicki. The fine degree of in terleaving 

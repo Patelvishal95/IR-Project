@@ -1,0 +1,1 @@
+derive the equations of mathematical physics in any curvilinear coordinate system requested by the user. The effectiveness of the technique is demonstrated by using it to derive the Navier-Stokes equations 

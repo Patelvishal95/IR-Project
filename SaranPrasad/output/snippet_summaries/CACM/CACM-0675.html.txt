@@ -1,0 +1,1 @@
+Coding Clinical Laboratory Data For Automatic Storage and Retrieval A series of clinical laboratory codes have been developed to accept and store urin analysis, blood chemistry, and hematology test results 

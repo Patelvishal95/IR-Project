@@ -1,0 +1,1 @@
+introduced and described informally in terms of values and side-effects. A translator is defined which translates the language into flowcharts for a simple machine. The action of the machine in 

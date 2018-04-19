@@ -1,0 +1,1 @@
+Preserving Average Proximity in Arrays Programmers and data structure designers are often forced to choose between alternative structures. In storing these structures, preserving logical adjacencies or "proximity" is usually an 

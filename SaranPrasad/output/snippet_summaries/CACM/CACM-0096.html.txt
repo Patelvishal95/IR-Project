@@ -1,0 +1,1 @@
+Radiation Integrals The relative merit and cost of four ways of evaluating typical radiation integrals containing spherical Bessel functions are investigated. These methods are desk machine evaluation of a finite 

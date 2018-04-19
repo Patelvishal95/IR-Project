@@ -1,0 +1,1 @@
+N-Dimensional Codes for Detecting and Correcting Multiple Errors The paper introduces a new family of codes for detecting and correcting multiple errors in a binary-coded message. The message itself is 

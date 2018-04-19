@@ -1,0 +1,1 @@
+A Conceptual Framework for a Nonprocedural Programming Language A sequential programming language forces the programmer to prescribe explicitly the order in which the operations in his program have to be 

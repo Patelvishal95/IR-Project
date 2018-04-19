@@ -1,0 +1,1 @@
+An Extension of Fibonaccian Search To Several Variables A technique which uses Fibonaccian search concepts has been developed to solve optimization problems involving unimodal functions of several variables. The technique 

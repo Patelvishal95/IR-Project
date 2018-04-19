@@ -1,0 +1,1 @@
+A Relational Model of Data for Large Shared Data Banks Future users of large data banks must be protected from having to know how the data is organized in the 

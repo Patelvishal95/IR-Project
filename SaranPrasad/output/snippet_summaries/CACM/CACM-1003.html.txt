@@ -1,0 +1,1 @@
+a computer program was developed which gives the temperature distribution of the system as a function of radius and time. This distribution is corrected at each step by a subroutine 

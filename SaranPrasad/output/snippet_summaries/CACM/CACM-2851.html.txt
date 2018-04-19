@@ -1,0 +1,1 @@
+model and a parallel-program model. The former model does not distinguish between control and data states. The latter model includes the capability for the representation of an infinite set of 

@@ -1,0 +1,1 @@
+The paper describes an efficient method for reduction of the binary matrices which arise in some school time-tabling problems. It is a development of that described by John Lions. It 

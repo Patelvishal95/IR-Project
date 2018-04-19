@@ -1,0 +1,1 @@
+Experiments with an Automated Instructional System for Numerical Methods A computer system was developed at Purdue University to teach portions of an undergraduate course in numerical methods. Each instructional unit 

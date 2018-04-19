@@ -1,0 +1,1 @@
+characters of pat are matched starting with the last character of pat. The information gained by starting the match at the end of the pattern often allows the algorithm to 

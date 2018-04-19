@@ -1,0 +1,1 @@
+Updating Mean and Variance Estimates: An Improved Method A method of improved efficiency is given for updating the mean and variance of weighted sampled data when an additional data value 

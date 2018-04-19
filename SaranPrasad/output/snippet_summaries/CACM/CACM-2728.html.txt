@@ -1,0 +1,1 @@
+Consecutive Storage of Relevant Records with Redundancy This paper studies the properties of a new class of file organizations (CRWR) where records relevant to every query are stored in consecutive 

@@ -1,0 +1,1 @@
+Combining Decision Rules in a Decision Table The techniques for minimizing logic circuits are applied to the simplification of decision tables by the combining of decision rules. This method is 

@@ -1,0 +1,1 @@
+is quite natural for us to view the process of designing a data base as that of constructing a tree or a graph. A general method for constructing such a 

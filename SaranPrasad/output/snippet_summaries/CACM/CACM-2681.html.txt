@@ -1,0 +1,1 @@
+Dynamic Memory Repacking A probabilistic model of a multiprogramming system is exercised in order to determine the conditions under which the dynamic repacking of main memory is beneficial. An expression 

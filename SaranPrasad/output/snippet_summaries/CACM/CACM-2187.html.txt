@@ -1,0 +1,1 @@
+Framework for Curriculum Planning Two views of computer science are considered: a global view which attempts to capture broad characteristics of the field and its relationships to other fields, and 

@@ -1,0 +1,1 @@
+An Anomaly in Disk Scheduling: A Comparison of FCFS and SSTF Seek Scheduling Using an Empirical Model for Disk Accesses A model for disk accesses based on published measurements is 

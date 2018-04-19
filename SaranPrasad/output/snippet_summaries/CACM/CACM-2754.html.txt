@@ -1,0 +1,1 @@
+A Syntactic Algorithm for Peak Detection in Waveforms with Applications to Cardiography Peaks in a digitized waveform are detected by an algorithm incorporating piecewise linear approximation and tabular parsing techniques. 

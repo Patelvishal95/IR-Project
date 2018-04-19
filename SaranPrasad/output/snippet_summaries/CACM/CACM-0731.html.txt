@@ -1,0 +1,1 @@
+Symmetric List Processor A list processing system in which each list cell contains both a forward and a backward link as well as a datum is described. This system is 

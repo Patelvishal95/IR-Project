@@ -1,0 +1,1 @@
+The Performance of a System for Automatic Segmentation of Programs Within an ALGOL Compiler (GIER ALGOL) The GIER ALGOL compiler makes use of an automatic system for handling the transfers 

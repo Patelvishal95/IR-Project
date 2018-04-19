@@ -1,0 +1,1 @@
+computers is a potent source of programming pitfalls and errors, and that it therefore may heavily contribute to the unreliability of programs making use of it. A programming scheme is 

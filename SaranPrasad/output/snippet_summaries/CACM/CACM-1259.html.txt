@@ -1,0 +1,1 @@
+Applications of Binary Numbers In Computer Routines A binary number can be thought of as an alternate form of expression for either a set of letters or a decimal number. 

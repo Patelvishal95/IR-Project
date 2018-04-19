@@ -1,0 +1,1 @@
+Block Structures, Indirect Addressing, and Garbage Collection Programming languages have included explicit or implicit block structures to provide a naming convenience for the programmer. However, when indirect addressing is used, 

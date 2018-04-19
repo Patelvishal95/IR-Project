@@ -1,0 +1,1 @@
+Computer Generation of Gamma Random Variates with Non-integral Shape Parameters When the shape parameter, a, is integral, generating gamma random variables with a digital computer is straightforward. There is no 

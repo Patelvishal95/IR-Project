@@ -1,0 +1,1 @@
+Data Manipulation and Programming Problems in Automatic Information Retrieval Automatic information retrieval programs require the manipulation of a variety of different data structures, including linear text, sparse matrices, and tree 

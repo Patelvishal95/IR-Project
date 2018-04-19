@@ -1,0 +1,1 @@
+the Design of Distributed Information Systems A macro model of a distributed information system in presented. The model describes the major costs of using an information system from the perspective 

@@ -1,0 +1,1 @@
+class of sparse matrices which can be tridiagonalized using only row and corresponding column permutations. The advantages of using such a transformation include the absence of round-off errors and improved 

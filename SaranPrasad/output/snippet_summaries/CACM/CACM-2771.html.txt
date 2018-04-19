@@ -1,0 +1,1 @@
+The Synthesis of Solids Bounded by Many Faces A technique is presented which allows a class of solid objects to be synthesized and stored using a computer. Synthesis begins with 

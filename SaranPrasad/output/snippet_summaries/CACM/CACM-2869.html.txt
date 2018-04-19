@@ -1,0 +1,1 @@
+Security Kernel Validation in Practice A security kernel is a software and hardware mechanism that enforces access controls within a computer system. The correctness of a security kernel on a 

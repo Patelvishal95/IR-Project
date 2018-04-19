@@ -1,0 +1,1 @@
+is proved that the diagonals of the LU decomposition converges when floating-point precision. It is also proved that the computed LU decomposition converges when floating-point arithmetic is used and that 

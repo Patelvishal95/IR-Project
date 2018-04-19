@@ -1,0 +1,1 @@
+Estimation of Heart Parameters Using Skin Potential Measurements A fundamental problem of vector cardiography is the estimation of the state of the heart on the basis of skin potential measurements. 

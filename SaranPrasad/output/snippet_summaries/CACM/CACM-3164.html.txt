@@ -1,0 +1,1 @@
+Progressive Acyclic Digraphs-A Tool for Database Integrity A progressive acyclic digraph (PAD) algorithm accepts are requests and maintains a graph in an acyclic state. When a request creates a cycle, 

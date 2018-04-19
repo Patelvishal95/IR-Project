@@ -1,0 +1,1 @@
+and Shaw specified single computer words as elements of a list. This report describes the use of two or more consecutive words as one element. Such use results in a 

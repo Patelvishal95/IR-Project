@@ -1,0 +1,1 @@
+The Programmer's Workbench-A Machine for Software Development On almost all software development projects the assumption is made that the program development function will be done on the same machine on 

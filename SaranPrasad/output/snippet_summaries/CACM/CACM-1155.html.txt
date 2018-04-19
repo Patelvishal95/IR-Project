@@ -1,0 +1,1 @@
+When given 68 facts, DEDUCOM answered 10 questions answerable from the facts. A fact tells DEDUCOM either some specific information or a method of answering a general kind of question. 

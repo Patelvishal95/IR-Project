@@ -1,0 +1,1 @@
+Representation of Many-Sided Polygons and Polygonal Lines for Rapid Processing A representation for polygons and polygonal lines is described which allows sets of consecutive sides to be collectively examined. The 

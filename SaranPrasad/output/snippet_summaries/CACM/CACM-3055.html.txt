@@ -1,0 +1,1 @@
+An Analysis of Algorithms for the Dutch National Flag Problem Solutions to the Dutch National Flag Problem have been given by Dijkstra [1] and Meyer [3]. Dijkstra starts with a 

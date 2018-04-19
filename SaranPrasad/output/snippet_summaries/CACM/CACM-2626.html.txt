@@ -1,0 +1,1 @@
+Protection and the Control of Information Sharing in Multics The design of mechanisms to control the sharing of information in the Multics system is described. Five design principles help provide 

@@ -1,0 +1,1 @@
+POSE: A Language for Posing Problems to a Computer A language, POSE, is described which is a drastic departure from the FORTRAN/ALGOL type, though it does utilize FORTRAN formula and 

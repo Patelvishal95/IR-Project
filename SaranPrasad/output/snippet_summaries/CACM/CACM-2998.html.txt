@@ -1,0 +1,1 @@
+An Empirical Study of List Structure in Lisp Static measurements of the list structure of five large Lisp programs are reported and analyzed in this paper. These measurements reveal substantial 

@@ -1,0 +1,1 @@
+Mechanization of Tedious Algebra-the e Coefficients of Theoretical Chemistry A table of formulas for certain integrals involving Legendre functions has been constructed mechanically by a program which performed algebraic operations. 

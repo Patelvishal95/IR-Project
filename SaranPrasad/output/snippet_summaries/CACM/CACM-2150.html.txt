@@ -1,0 +1,1 @@
+The problem of the mutual exclusion of several independent processes from simultaneous access to a "critical section" is discussed for the case where there are two distinct classes of processes 

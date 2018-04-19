@@ -1,0 +1,1 @@
+GROOVE-A Program to Compose, Store, and Edit Functions of Time A program which makes possible creating, storing, reproducing, and editing functions of time is described. The functions are typical of 

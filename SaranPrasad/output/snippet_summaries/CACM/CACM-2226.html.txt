@@ -1,0 +1,1 @@
+Further Evidence for the Analysis of Algorithms for the Zero-One Programming Problem The purpose of this note is to report computational experience additional to that recently summarized by Gue et 

@@ -1,0 +1,1 @@
+for teaching programming. The features of the SP/k language were chosen to encourage structured problem solving by computers, to make the language easy to learn and use, to eliminate confusing 

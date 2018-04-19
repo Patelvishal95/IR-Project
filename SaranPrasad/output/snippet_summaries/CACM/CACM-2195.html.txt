@@ -1,0 +1,1 @@
+recognizing systems of lines is presented. In this technique the heuristic of the problem is not embedded in the recognition algorithm but is expressed in a figure of merit. A 

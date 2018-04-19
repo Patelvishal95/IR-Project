@@ -1,0 +1,1 @@
+A System Organization for Resource Allocation This paper introduces a system for resource management using the concepts of "process, " facility, " and "event." Except for the processor no attempt 

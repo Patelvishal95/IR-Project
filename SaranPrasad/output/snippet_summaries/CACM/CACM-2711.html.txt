@@ -1,0 +1,1 @@
+A Vector Space Model for Automatic Indexing In a document retrieval, or other pattern matching environment where stored entities (documents) are compared with each other or with incoming patterns (search 

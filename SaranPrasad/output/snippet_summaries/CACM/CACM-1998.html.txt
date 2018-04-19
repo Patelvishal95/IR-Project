@@ -1,0 +1,1 @@
+Complex Matrix Inversion Versus Real A comparison of complex matrix with real matrix inversion is made. It is shown that the complex inversion can be up to twice as fast 

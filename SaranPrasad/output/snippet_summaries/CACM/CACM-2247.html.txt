@@ -1,0 +1,1 @@
+the flexibility ad comprehensibility of a system while allowing the shortening of its development time. The effectiveness of a "modularization" is dependent upon the criteria used in dividing the system 

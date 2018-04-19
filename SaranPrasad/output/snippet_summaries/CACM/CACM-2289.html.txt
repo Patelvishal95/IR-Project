@@ -1,0 +1,1 @@
+Cellular Arrays for the Solution of Graph Problems A cellular array is a two-dimensional, checkerboard type interconnection of identical modules (or cells), where each cell contains a few bits of 

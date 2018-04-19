@@ -1,0 +1,1 @@
+the Use of Ambiguous Decision Tables and Their Conversion to Computer Programs This paper comments upon recently published work on decision table translation using methods similar to the rule-mask technique. 

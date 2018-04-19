@@ -1,0 +1,1 @@
+inline substitution is analyzed. The optimization consists of replacing a procedure invocation by a modified copy of the procedure body. The general problem of using inline substitution to minimize execution 

@@ -1,0 +1,1 @@
+assembly. It focuses on the preparation and editing of continuously displayed 23, 040-character text strings (manuscripts) which can be positioned anywhere by the user and edited by simply adding and 

@@ -1,0 +1,1 @@
+a Digital Computer The 7090 at NYU has been modified to include a "Significance Mode" of operation which is intended to facilitate the identification of significant bits in the results 

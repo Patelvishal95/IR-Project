@@ -1,0 +1,1 @@
+Flow Diagrams, Turing Machines And Languages With Only Two Formation Rules In the first part of the paper, flow diagrams are introduced to represent inter al. mappings of a set 

@@ -1,0 +1,1 @@
+Optimal Conversion of Extended-Entry Decision Tables with General Cost Criteria A general dynamic programming algorithm for converting limited, extended, or mixed entry decision tables to optimal decision trees is presented 

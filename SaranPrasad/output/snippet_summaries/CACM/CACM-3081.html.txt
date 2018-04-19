@@ -1,0 +1,1 @@
+Shallow Binding in Lisp 1.5 Shallow binding is a scheme which allows the value of a variable to be accessed in a bounded amount of computation. An elegant model for 

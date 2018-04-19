@@ -1,0 +1,1 @@
+Interval Arithmetic Determinant Evaluation and Its Use in Testing for a Chebyshev System Two recent papers, one by Hansen and one by Hansen and R. R. Smith, have shown how 

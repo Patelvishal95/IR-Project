@@ -1,0 +1,1 @@
+BUGSYS: A Programming System for Picture Processing-Not for Debugging BUGSYS is a picture processing and measuring system that depends upon a pictorial input to the computer's memory. BUGSYS can be 

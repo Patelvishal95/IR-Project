@@ -1,0 +1,1 @@
+graphics method has been developed for the rapid generation of arbitrary shaped three-dimensional surfaces. The method is a synthesis of spline theory and algorithms, an in teractive means for man-machine 

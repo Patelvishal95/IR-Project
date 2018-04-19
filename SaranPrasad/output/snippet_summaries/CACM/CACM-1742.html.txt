@@ -1,0 +1,1 @@
+On the Design of Display Processors The flexibility and power needed in the data channel for a computer display are considered. To work efficiently, such a channel must have a 

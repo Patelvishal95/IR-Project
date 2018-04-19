@@ -1,0 +1,1 @@
+aspects of programming are illuminated through analogies with similar aspects of mathematics and natural languages. The split between pure and applied mathematics is found similarly in programming. The development of 

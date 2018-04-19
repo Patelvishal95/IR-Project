@@ -1,0 +1,1 @@
+A Fast Algorithm for Computing Longest Common Subsequences Previously published algorithms for finding the longest common subsequence of two sequences of length n have had a best-case running time of 

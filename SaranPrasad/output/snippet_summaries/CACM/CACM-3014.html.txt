@@ -1,0 +1,1 @@
+(Intermittent Assertions in Proving Program Correctness) This paper explores a technique for proving the correctness and termination of programs simultaneously. This approach, the intermittent-assertion method, involves documenting the program with 

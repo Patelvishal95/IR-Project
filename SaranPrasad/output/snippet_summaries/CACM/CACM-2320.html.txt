@@ -1,0 +1,1 @@
+Structured Multiprogramming This paper presents a proposal for structured representation of multiprogramming in a high level language. The notation used explicitly associates a data structure shared by concurrent processes with 

@@ -1,0 +1,1 @@
+Protection in Operating Systems A model of protection mechanisms in computing systems is presented and its appropriateness is argued. The "safety" problem for protection systems under this model is to 

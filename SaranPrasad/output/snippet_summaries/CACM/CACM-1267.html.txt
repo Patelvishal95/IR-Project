@@ -1,0 +1,1 @@
+Transmission Transfer Rate of Information Bits -An ASA Tutorial Standard Information thruput as a characteristic of systems performance is discussed. This discussion includes the pertinent aspects of information transfer, of 

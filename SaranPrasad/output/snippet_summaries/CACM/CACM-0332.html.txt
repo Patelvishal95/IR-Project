@@ -1,0 +1,1 @@
+Chaining Method for Addressing on Secondary Keys Methods for entering random access files on the basis of one key are briefly surveyed. The widely used chaining method, based on a 

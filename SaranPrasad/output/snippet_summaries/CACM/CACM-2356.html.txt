@@ -1,0 +1,1 @@
+A Technique for Software Module Specification with Examples This paper presents an approach to writing specifications for parts of software systems. The main goal is to provide specifications sufficiently precise 

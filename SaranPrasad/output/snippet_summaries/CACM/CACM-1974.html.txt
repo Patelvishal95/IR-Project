@@ -1,0 +1,1 @@
+NEATER2: A PL/I Source Statement Reformatter NEATER2 accepts a PL/I source program and operates on it to produce a reformatted version. When in the LOGICAL mode, NEATER2 indicates the logical 

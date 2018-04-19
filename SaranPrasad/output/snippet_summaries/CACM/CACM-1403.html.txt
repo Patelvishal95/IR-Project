@@ -1,0 +1,1 @@
+A Method for Finding the m Smallest Values of a Monotonic Function Defined on Ordered Sets of Positive Integers The minimum value of a monotonic increasing function defined on a 

@@ -1,0 +1,1 @@
+Methods of Numerical Integration Applied to a System Having Trivial Function Evaluations A study has been made to determine which methods of numerical integration require the least computation time for 

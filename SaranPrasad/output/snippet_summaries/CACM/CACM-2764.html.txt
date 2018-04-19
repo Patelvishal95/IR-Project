@@ -1,0 +1,1 @@
+An Intelligent Analyzer and Understander of English The paper describes a working analysis and generation program for natural language, which handles paragraph length input. Its core is a system of 

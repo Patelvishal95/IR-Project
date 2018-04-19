@@ -1,0 +1,1 @@
+Moving Algorithm An efficient, nonrecursive algorithm is given for moving any LISP-type list. In particular, the algorithm requires no storage other than the new nodes into which the list is 

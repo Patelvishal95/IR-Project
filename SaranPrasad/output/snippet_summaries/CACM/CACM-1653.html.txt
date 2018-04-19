@@ -1,0 +1,1 @@
+Survey and Appraisal The state of the art of system performance evaluation is reviewed and evaluation goals and problems are examined. Throughput, turnaround, and availability are defined as fundamental measures 

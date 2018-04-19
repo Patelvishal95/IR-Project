@@ -1,0 +1,1 @@
+Symbol Manipulation in FORTRAN-SASP I Subroutines A set of subroutines for use in FORTRAN are described whose purpose is to synthesize output strings from (i) input strings which have been 

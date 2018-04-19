@@ -1,0 +1,1 @@
+A Fourier Series Method for the Numerical Solution of a Class of Parabolic Partial Differential Equations* A Fourier series method is described which, when applied to a certain class of 

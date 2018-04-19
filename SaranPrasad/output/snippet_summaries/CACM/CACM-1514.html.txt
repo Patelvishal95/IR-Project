@@ -1,0 +1,1 @@
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems A file adjustment procedure based on maximizing the Bayes expected gain proposed for matched term retrieval systems. The expected 

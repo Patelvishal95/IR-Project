@@ -1,0 +1,1 @@
+Solution of Systems of Polynomial Equations By Elimination The elimination procedure as described by Williams has been coded in LISP and FORMAC and used in solving systems of polynomial equations. 

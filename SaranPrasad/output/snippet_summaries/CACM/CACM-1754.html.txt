@@ -1,0 +1,1 @@
+Dynamic Storage Allocation Systems In many recent computer system designs, hardware facilities have been provided for easing the problems of storage allocation. A method of characterizing dynamic storage allocation systems-according 

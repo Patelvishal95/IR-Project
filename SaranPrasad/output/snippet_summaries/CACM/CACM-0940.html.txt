@@ -1,0 +1,1 @@
+Random Variables in a Computer This note is concerned with details of how to instruct a computer to choose one from many things with assigned probabilities. The method uses a 

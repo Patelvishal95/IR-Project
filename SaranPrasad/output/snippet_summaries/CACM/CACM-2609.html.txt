@@ -1,0 +1,1 @@
+new interpolation function is introduced. It has infinitely many continuous derivatives and is a composition of ramp functions with smoothed bends called Rounded Ramp Functions. How the interpolation function can 

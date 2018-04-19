@@ -1,0 +1,1 @@
+An Efficient Bit Table Technique for Dynamic Storage Allocation of 2^n-word Blocks An efficient bit table technique for dynamic storage allocation of 2^n-word blocks, which requires a minimized amount of 

@@ -1,0 +1,1 @@
+Programming The problem of approximation to a given function, or of fitting a given set of data, where the approximating function is required to have certain of its derivations of 

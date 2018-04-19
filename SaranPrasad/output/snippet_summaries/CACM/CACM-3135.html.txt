@@ -1,0 +1,1 @@
+Atoms in Chemical Structures An algorithm for detecting occurrences of a three-dimensional pattern of objects within a larger structure is presented. The search technique presented uses the geometric structure of 

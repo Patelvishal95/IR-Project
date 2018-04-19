@@ -1,0 +1,1 @@
+for the IBM 7090/7094 computer is described. In little more than half of the 32k word core memory PUFFT provides a monitor for job sequencing, a translator for the full 

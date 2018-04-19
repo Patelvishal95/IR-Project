@@ -1,0 +1,1 @@
+Symbolic Integration: The Stormy Decade Three approaches to symbolic integration in the 1960's are described. The first, from artificial intelligence, led to Slagle's SAINT and to a large degree to 

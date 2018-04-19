@@ -1,0 +1,1 @@
+Allocator A fast storage bookkeeping method is described which is particularly appropriate for list-structure operations and other situations involving many sizes of blocks that are fixed in size and location. 

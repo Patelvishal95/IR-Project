@@ -1,0 +1,1 @@
+Random Variables A method for generating values of continuous symmetric random variables that is relatively fast, requires essentially no computer memory, and is easy to use is developed. The method, 

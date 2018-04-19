@@ -1,0 +1,1 @@
+Synchronization of Communicating Processes Formalization of a well-defined synchronization mechanism can be used to prove that concurrently running processes of a system communicate correctly. This is demonstrated for a system 

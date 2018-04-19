@@ -1,0 +1,1 @@
+A Base for a Mobile Programming System An algorithm for a macro processor which has been used as the base of an implementation, by bootstrapping, of processors for programming languages 

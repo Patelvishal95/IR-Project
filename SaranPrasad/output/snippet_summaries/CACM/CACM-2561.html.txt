@@ -1,0 +1,1 @@
+are presented which have been developed to perform inferences by generalizing from available information. The procedures make use of a similarity structure which is imposed on the data base using 

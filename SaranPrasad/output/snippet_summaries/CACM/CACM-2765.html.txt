@@ -1,0 +1,1 @@
+Analysis and performance of Inverted Data Base Structures The need to envision and architecture data base systems in a hierarchical level by level framework is stressed. The inverted data base 

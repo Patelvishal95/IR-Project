@@ -1,0 +1,1 @@
+Optimal Starting Values for Newton-Raphson Calculation of SQRT(x) The problem of obtaining starting values for the Newton-Raphson calculation of SQRT(x) on a digital computer is considered. It is shown that 

@@ -1,0 +1,1 @@
+Music and Computer Composition The problem discussed is that of simulating human composition of Western popular music by computer and some relevant theories of music and harmony are given. Problems 

@@ -1,0 +1,1 @@
+Complex Gamma Function with Error Control [S14] (Algorithm A421) CACM April, 1972 Kuki, H. complex gamma function, gamma function, complex log gamma function, loggamma function, round-off error control, inherent error 

@@ -1,0 +1,1 @@
+Extending the Information Theory Approach to Converting Limited-Entry Decision Tables to Computer Programs This paper modifies an earlier algorithm for converting decision tables into flowcharts which minimize subsequent execution time 

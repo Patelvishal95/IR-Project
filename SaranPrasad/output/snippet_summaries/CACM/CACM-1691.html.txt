@@ -1,0 +1,1 @@
+A Comparison of the Correlational Behavior of Random Number Generators for the IBM 360 Hutchinson states that the "new" (prime modulo) multiplicative congruential pseudorandom generator, attributed to D. H. Lehmer, 

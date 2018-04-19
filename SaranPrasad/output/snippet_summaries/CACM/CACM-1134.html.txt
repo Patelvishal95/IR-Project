@@ -1,0 +1,1 @@
+Some Effects of the 6600 Computer on Language Structures* The problem of compiling efficient 6600 codes prompted the development of an intermediate language reflecting the structure of the machine, that 

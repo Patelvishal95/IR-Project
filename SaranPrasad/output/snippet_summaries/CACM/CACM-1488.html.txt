@@ -1,0 +1,1 @@
+Programming Decision Tables in FORTRAN, COBOL or ALGOL A simple broad-based approach for programming decision tables in FORTRAN or COBOL is developed and presented. With inputs in standard form, as 

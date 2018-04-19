@@ -1,0 +1,1 @@
+System The service received by a process from a time-sharing operating system can be characterized by a resource count SUM{w[i]R[ij]} where R[ij] is the number of units of service received 

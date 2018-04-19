@@ -1,0 +1,1 @@
+An Efficient Data Structure for the Simulation Event Set Recently algorithms have been presented for the realization of event scheduling routines suitable for general purpose discrete event simulation systems. Several 

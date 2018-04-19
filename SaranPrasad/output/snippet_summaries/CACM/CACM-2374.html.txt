@@ -1,0 +1,1 @@
+A Study of Storage Partitioning Using a Mathematical Model of Locality Both fixed and dynamic storage partitioning procedures are examined for use in multiprogramming systems. The storage requirement of programs 

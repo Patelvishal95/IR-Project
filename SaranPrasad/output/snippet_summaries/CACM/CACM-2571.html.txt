@@ -1,0 +1,1 @@
+An Analytic Model of the Hasp Execution Task Monitor The HASP Execution Task Monitor periodically rearranges the OS/360 dispatching chain to give tasks preemptive execution priority in inverse order to 

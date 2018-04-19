@@ -1,0 +1,1 @@
+An Alternative to Event Queues for Synchronization in Monitors In the monitor concept, as proposed by Brinch Hansen and Hoare, event are used for synchronization. This paper describes another synchronizing 

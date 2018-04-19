@@ -1,0 +1,1 @@
+On the Problem of Communicating Complex Information The nature of the difficulty involved in communicating mathematical results between scientists using a computer based information retrieval system is examined. The problem 

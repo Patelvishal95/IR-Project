@@ -1,0 +1,1 @@
+the cycle time of the machine (50-100 nsec). This microstorage is used to contain both data and subroutines. The (micro) instructions in such a processor differ from the conventional in 

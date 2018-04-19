@@ -1,0 +1,1 @@
+Certification of Programs for Secure Information Flow This paper presents a certification mechanism for verifying the secure flow of information through a program. Because it exploits the properties of a 

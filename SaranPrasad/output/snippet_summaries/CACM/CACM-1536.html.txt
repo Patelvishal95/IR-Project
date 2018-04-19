@@ -1,0 +1,1 @@
+Dynamic Computation of Derivatives It is shown how Wengert's procedure for computation of derivatives can be implemented conveniently by use of compiler-generated complex addition, subtraction, and linkage to complex arithmetic 

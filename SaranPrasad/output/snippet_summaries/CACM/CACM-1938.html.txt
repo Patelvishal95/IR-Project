@@ -1,0 +1,1 @@
+Time-Sharing System Performance Time-sharing systems, as defined in this article, are those multiaccess systems which permit a terminal user to utilize essentially the full resources of the system while sharing 

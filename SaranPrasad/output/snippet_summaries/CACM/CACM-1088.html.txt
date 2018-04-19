@@ -1,0 +1,1 @@
+Menu Planning by Computer A computer code has been developed which plans menus by finding minimum cost combinations of menu items such that the daily dietary, gastronomic and production requirements 

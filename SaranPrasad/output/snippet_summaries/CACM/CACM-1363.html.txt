@@ -1,0 +1,1 @@
+A General Method of Systematic Interval Computation for Numerical Integration of Initial Value Problems A procedure is given for continuously computing and monitoring the step size to be used by 

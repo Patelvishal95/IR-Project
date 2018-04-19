@@ -1,0 +1,1 @@
+extensions of this algorithm in the areas of texture simulation and lighting models. The parameterization of a patch defines a coordinate system which is used as a key for mapping 

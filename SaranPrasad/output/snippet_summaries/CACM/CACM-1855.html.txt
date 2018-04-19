@@ -1,0 +1,1 @@
+A Program for the Syntactic Analysis of English Sentences A program is described which produces syntactic analyses of English sentences with respect to a transformational grammar. The main features of 

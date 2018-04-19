@@ -1,0 +1,1 @@
+algorithm for global flow analysis on reducible graphs is presented. The algorithm is shown to treat a very general class of function spaces. For a graph of e edges, the 

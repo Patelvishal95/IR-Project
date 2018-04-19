@@ -1,0 +1,1 @@
+Telecommunications Using a Front-End Minicomputer The use of a front-end minicomputer to provide varied remote terminal access to a large scale computer is considered. The problems of embedding telecommunications I/O 

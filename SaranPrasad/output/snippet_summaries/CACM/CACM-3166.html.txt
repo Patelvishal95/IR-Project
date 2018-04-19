@@ -1,0 +1,1 @@
+Four algorithms for the numerical computation of the standard deviation of (unweighted) sampled data are analyzed. Two of the algorithms are well-known in the statistical and computational literature; the other 

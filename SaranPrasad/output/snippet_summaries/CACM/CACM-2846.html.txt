@@ -1,0 +1,1 @@
+in information retrieval systems. It has the same underlying m-ary tree structure as a trie, where m is a parameter of the trie, but whereas the fields of the nodes 

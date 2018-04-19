@@ -1,0 +1,1 @@
+Two Languages for Estimating Program Efficiency Two languages enabling their users to estimate the efficiency of computer programs are presented. The program whose efficiency one wishes to estimate is written 

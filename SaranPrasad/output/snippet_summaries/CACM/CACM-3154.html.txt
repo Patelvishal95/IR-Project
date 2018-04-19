@@ -1,0 +1,1 @@
+Algorithm = Logic + Control An algorithm can be regarded as consisting of a logic component, which specifies the knowledge to be used in solving problems, and a control component, 

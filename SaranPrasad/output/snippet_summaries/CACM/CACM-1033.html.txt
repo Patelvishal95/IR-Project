@@ -1,0 +1,1 @@
+Experimental Personalized Array Translator System A system designed for intimate man-machine interaction in a general-purpose problem-solving environment is experimentally operational. The system utilizers an array-oriented symbolic source language containing powerful 

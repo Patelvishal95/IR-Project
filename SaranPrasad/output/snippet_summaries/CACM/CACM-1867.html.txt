@@ -1,0 +1,1 @@
+On the Expected Lengths of Sequences Generated in Sorting by Replacement Selecting In the replacement-selecting technique of sorting, one is interested in the ratio L(j) of the expected length of 

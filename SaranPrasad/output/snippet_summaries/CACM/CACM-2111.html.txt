@@ -1,0 +1,1 @@
+specialized techniques are shown for efficiently incorporating spelling correction algorithms in to compilers and operating systems. These include the use of syntax and semantics information, the organization of restricted keyword 

@@ -1,0 +1,1 @@
+An interactive computer system operational on a graphical computer terminal is described. This system was designed to demonstrate a method of programming by computer interpretation of a flowchart. The user 

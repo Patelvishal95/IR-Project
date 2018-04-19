@@ -1,0 +1,1 @@
+Parallel Numerical Methods for the Solution of Equations Classical iterative procedures for the numerical solution of equations provide at each stage a single new approximation to the root in question. 

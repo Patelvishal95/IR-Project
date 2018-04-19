@@ -1,0 +1,1 @@
+Operations on Generalized Arrays with the Genie Compiler Operations on vectors, matrices, and higher dimensional storage arrays are standard features of most compilers today. The elements of such structures are 

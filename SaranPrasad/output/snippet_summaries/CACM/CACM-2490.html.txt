@@ -1,0 +1,1 @@
+Graph Manipulation [H] (Algorithm A447) Efficient algorithms are presented for partitioning a graph into connected components, biconnected components and simple paths. The algorithm for partitioning of a graph into simple 

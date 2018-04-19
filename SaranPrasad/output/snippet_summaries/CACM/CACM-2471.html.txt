@@ -1,0 +1,1 @@
+A Learning Program Which Plays Partnership Dominoes A learning program has been written is BASIC to play four-player partnership dominoes. Because dominoes is a game of incomplete information, the program 

@@ -1,0 +1,1 @@
+A Language for Modeling and Simulating Dynamic Systems The general objective of this language is to facilitate both the modeling and experimental aspects of simulation studies. The ability to represent 

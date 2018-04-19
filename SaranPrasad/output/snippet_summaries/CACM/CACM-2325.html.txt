@@ -1,0 +1,1 @@
+Numerical Mathematics and Computer Science Numerical mathematics is viewed as the analysis of continuous algorithms. Four of the components of numerical mathematics are discussed. These are: foundations (finite precision number 

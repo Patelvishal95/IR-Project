@@ -1,0 +1,1 @@
+a System for General Space Planning A computer language and a set of programs within that language are described which allow the formulating and solving of a class of space 

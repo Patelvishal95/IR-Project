@@ -1,0 +1,1 @@
+online use with a graphical input-output console device. It is a computational aid for the casual user, which provides basic facilities for graphical and numeric input and display, online and 

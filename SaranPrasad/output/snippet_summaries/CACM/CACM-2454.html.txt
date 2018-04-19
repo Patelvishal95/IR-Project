@@ -1,0 +1,1 @@
+Closed Queueing Networks with Exponential Servers Methods are presented for computing the equilibrium distribution of customers in closed queueing networks with exponential servers. Expressions for various marginal distributions are also 

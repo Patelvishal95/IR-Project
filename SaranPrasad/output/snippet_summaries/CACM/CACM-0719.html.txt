@@ -1,0 +1,1 @@
+Variable Width Stacks Character addressable, variable field computers permit ready establishment and manipulation of variable width stacks. Single machine commands may push variable field items down into such stacks or 

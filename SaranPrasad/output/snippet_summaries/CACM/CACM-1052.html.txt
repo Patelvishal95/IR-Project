@@ -1,0 +1,1 @@
+Reducing Truncation Errors by Programming In accumulating a sum such as in a numerical integration with a large number of intervals, the sum itself becomes much larger than the individual 

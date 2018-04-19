@@ -1,0 +1,1 @@
+Full Table Quadratic Searching for Scatter Storage The quadratic residue search method for hash tables avoids much of the clustering experienced with a linear search method. The simple quadratic search 

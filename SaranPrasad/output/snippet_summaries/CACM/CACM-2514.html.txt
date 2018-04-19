@@ -1,0 +1,1 @@
+An Array Grammar Programming System A package of Fortran programs has been developed that permits a user to interactively design and test array grammars. The user can control the rule 

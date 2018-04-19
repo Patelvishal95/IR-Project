@@ -1,0 +1,1 @@
+Garbage-Collector for Virtual-Memory Computer Systems In this paper a garbage-collection algorithm for list-processing systems which operate within very large virtual memories is described. The object of the algorithm is more 

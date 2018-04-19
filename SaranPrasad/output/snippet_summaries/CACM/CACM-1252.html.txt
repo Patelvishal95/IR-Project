@@ -1,0 +1,1 @@
+Statistical Tables and an Approach Towards Automatic System Design The preparation of statistical tables is an important function of the data processing systems of some organizations, and a symbolic notation 

@@ -1,0 +1,1 @@
+Cobol Under Control A sample set of Cobol programming standards is offered. These standards constrain code to be developed in a "structured" form for both data and control structures. They 

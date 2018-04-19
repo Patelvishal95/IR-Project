@@ -1,0 +1,1 @@
+Writing an Outline Debugging Program for the Experienced User Presently available online debugging routines are often unsatisfactory for the experienced user because they require unnecessarily rigid and complicated typing formats, 

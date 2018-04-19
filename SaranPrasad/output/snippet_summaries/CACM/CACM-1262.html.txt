@@ -1,0 +1,1 @@
+Procedure-Oriented Language Statements to Facilitate Parallel Processing Two statements are suggested which allow a programmer writing in a procedure-oriented language to indicate sections of program which are to be executed 

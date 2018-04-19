@@ -1,0 +1,1 @@
+A Comparison of the Primal-Simplex and Primal-Dual Algorithms for Linear Programming A statistical comparison of the primal-dual and the more commonly used primal-simplex algorithm for solving linear programming problems has 

@@ -1,0 +1,1 @@
+A Controller for a Braille Terminal CACM September, 1972 Rubinstein, R. Feldman, J. blind programming aid, braille, braille character set, braille character translation, braille computer communication, braille computer terminal, braille 

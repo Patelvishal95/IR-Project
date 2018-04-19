@@ -1,0 +1,1 @@
+SHARER, a Time Sharing System for the CDC 6600 A time sharing system embedded within the standard batch processing system for the CDC 6600 is described. The system is general 

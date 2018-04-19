@@ -1,0 +1,1 @@
+for the CDC G21 computer, which is a general purpose, batch-processing system with remote entry. The existing G21 system and the graphics hardware are described. The graphic monitor is a 

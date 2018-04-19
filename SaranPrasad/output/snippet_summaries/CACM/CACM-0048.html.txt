@@ -1,0 +1,1 @@
+In this communication the use of a shift-register code with n = 10 is described for calling 64 wireless telemetering stations in a fixed cyclical order. A high degree of 

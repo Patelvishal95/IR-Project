@@ -1,0 +1,1 @@
+Command Language An interrogation scheme is described for the retrieval and manipulation of data file records. The language of the interrogation scheme allows for selecting file records with the are 

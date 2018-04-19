@@ -1,0 +1,1 @@
+CHAMP-Character Manipulation Procedures A new programming language facility for symbol manipulation is described. String procedures may be declared and called in a standard ALGOL context. ALGOL procedures can in turn 

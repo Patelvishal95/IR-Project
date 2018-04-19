@@ -1,0 +1,1 @@
+and Formal Derivation of Programs So-called "guarded commands" are introduced as a building block for alternative and repetitive constructs that allow nondeterministic program components for which at least the activity 

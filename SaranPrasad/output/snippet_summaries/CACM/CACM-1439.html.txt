@@ -1,0 +1,1 @@
+Mechanization of the Curve Fitting Process: DATAN A process for fitting a curve to approximate data and the problem it creates for the engineer-programmer is defined. An approach has also 

@@ -1,0 +1,1 @@
+A Comparison of the FORTRAN Language Implementation for Several Computers A feature-by-feature comparison is made of five different implementations of FORTRAN IV representing three different manufacturers. A table is constructed 

@@ -1,0 +1,1 @@
+Techniques The internal organization of string processing systems is discussed. Six techniques for data structures are presented and evaluated on the basis of: (1) creation of strings; (2) examination of 

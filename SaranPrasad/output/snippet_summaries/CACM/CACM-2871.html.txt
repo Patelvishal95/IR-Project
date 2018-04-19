@@ -1,0 +1,1 @@
+Logical Analysis of Programs Most present systems for verification of computer programs are incomplete in that intermediate inductive assertions must be provided manually by the user, termination is not proven, 

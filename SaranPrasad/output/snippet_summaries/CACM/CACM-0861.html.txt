@@ -1,0 +1,1 @@
+Read-Backward Polyphase Sorting Read-backward Polyphase sorting provides more efficient use of the tapes available to a sort than most other sorting techniques. Backward Polyphase produces a continuous merging process from 

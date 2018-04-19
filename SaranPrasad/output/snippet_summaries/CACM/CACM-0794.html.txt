@@ -1,0 +1,1 @@
+Storage Technique for Alphameric Information A method which is economic in terms of space and time is proposed for the storage and manipulation of character strings of arbitrary length in 

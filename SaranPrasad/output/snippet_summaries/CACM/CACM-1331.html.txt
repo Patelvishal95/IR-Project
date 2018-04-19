@@ -1,0 +1,1 @@
+Protection and Manipulation of Variable-Length Items When items are made up of a variable number of characters, each containing the same number of bits, certain control information (partition symbols) is 

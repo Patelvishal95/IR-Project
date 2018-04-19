@@ -1,0 +1,1 @@
+experimental English language question-answering systems which are programmed and operating are described and reviewed. The systems range from a conversation machine to programs which make sentences about pictures and systems 

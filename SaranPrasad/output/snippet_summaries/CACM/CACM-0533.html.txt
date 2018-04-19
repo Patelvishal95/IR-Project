@@ -1,0 +1,1 @@
+Digital Synthesis of Correlated Stationary Noise In this note we propose a method of generating stationary noise with a prescribed auto-covariance function by digital methods. The need for such a 

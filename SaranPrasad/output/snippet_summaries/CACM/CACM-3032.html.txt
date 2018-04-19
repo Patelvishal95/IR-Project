@@ -1,0 +1,1 @@
+Reverse Path Forwarding of Broadcast Packets A broadcast packet is for delivery to all nodes of a network. Algorithms for accomplishing this delivery through a store-and-forward packet switching computer network 

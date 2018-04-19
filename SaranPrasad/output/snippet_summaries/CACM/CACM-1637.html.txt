@@ -1,0 +1,1 @@
+The Comparison of Means and the Length of Sample Records Research is continued into statistical analysis of simulation experiments containing autocorrelated time series. It is shown how to estimate the 

@@ -1,0 +1,1 @@
+Group of the CODASYL Development Committee This report represents the results of the first phase of the work of the Language Structure Group. The goal of this work is to 

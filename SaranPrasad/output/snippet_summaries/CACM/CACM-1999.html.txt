@@ -1,0 +1,1 @@
+Optimal Starting Approximations for Generating Square Root for Slow or No Divide On machine with slow or no division, it is preferable to use an iterative scheme for the square 

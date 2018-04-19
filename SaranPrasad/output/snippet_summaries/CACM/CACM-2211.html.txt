@@ -1,0 +1,1 @@
+Scanned-Display Computer Graphics A television-like scanned-display system has been successfully implemented on a Honeywell DDP-224 computer installation. The scanned image is stored in the core memory of the computer, and 

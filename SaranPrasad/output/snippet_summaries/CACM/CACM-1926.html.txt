@@ -1,0 +1,1 @@
+Description of FORMAT, a Text-Processing Program FORMAT is a production program which facilitates the editing and printing of "finished" documents directly on the printer of a relatively small (64k) computer 

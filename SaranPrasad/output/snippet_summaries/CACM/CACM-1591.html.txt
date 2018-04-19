@@ -1,0 +1,1 @@
+A Model for a Multifunctional Teaching System A teaching system model that was incorporated into an operating system of a large computer is described. The model transferred control to the 

@@ -1,0 +1,1 @@
+On the Probability Distribution of the Values of Binary Trees An integral equation is derived for the generating function for binary tree values, the values reflecting sorting effort. The analysis 

@@ -1,0 +1,1 @@
+Length of Strings for a Merge Sort Detailed statistics are given on the length of maximal sorted strings which result form the first (internal sort) phase of a merge sort 

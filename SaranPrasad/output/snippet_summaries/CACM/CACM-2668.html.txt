@@ -1,0 +1,1 @@
+Computation of Page Fault Probability from Program Transition Diagram An algorithm is given for calculating page fault probability in a virtual memory system operating under demand paging with various memory 

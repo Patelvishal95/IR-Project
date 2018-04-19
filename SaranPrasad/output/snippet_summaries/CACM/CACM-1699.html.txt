@@ -1,0 +1,1 @@
+Experimental Evaluation of Information Retrieval Through a Teletypewriter Experiments designed to evaluate the capabilities of mechanized information retrieval systems, with emphasis on interactive (man-machine) language and on some of the 

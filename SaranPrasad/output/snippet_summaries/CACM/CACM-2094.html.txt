@@ -1,0 +1,1 @@
+for Nonlinear Minimax Approximation Certain nonlinear minimax approximation problems are characterize d by properties which permit the application of special algorithms, mainly based on the exchange algorithms of Remes (1934, 

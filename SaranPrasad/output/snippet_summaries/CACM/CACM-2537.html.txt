@@ -1,0 +1,1 @@
+Common Phrases and Minimum-Space Text Storage A method for saving storage space for text strings, such as compiler diagnostic messages, is described. The method relies on hand selection of a 

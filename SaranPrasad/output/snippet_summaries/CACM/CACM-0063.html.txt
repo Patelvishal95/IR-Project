@@ -1,0 +1,1 @@
+Octal Diagrams of Binary Conception and Their Applicability to Computer Design Logic This paper dates back the genesis of binary conception circa 5000 years ago, and octal diagrams about 4800 

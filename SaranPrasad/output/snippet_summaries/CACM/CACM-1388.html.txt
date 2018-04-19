@@ -1,0 +1,1 @@
+AUTOMAST: Automatic Mathematical Analysis and Symbolic Translation A procedure for numerically solving systems of ordinary differential equation is shown to also generate symbolic solutions. The procedure is based on a 

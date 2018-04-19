@@ -1,0 +1,1 @@
+Use of a Conditional Base Number System for Encoding Sequences of Correlated Characters A procedure is described for the relatively efficient encoding of sequences of characters which have predecessor-successor selection 

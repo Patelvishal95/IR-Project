@@ -1,0 +1,1 @@
+dealt with. The systems are assumed to be described as a network of interconnected sequential processes. Briefly reviewed are the common techniques used to handle such simulations when simultaneous events 

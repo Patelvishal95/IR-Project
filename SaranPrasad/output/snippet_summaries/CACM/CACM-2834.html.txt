@@ -1,0 +1,1 @@
+Efficient Generation of the Binary Reflected Gray Code and Its Applications Algorithms are presented to generate the n-bit binary reflected Gray code and codewords of fixed weight in that code. 

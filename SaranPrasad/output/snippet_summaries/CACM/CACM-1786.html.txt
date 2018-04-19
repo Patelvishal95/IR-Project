@@ -1,0 +1,1 @@
+An Improved Hash Code for Scatter Storage Introduced is a hash coding method based on fixed-point division rather than multiplication or logical operations. This new method allows the hash table 

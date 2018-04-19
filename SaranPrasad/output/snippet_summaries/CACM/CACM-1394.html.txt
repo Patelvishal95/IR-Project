@@ -1,0 +1,1 @@
+Computation of Algebraic Properties of Elementary Particle Reactions Using a Digital Computer A large number of calculations in high-energy elementary particle physics involve the manipulation of complicated algebraic expressions containing 

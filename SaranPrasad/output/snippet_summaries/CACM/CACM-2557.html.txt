@@ -1,0 +1,1 @@
+On the Time Required for a Sequence of Matrix Products This paper discusses the multiplication of conformable sequences of row vectors, column vectors, and square matrices. The minimum time required 

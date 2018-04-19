@@ -1,0 +1,1 @@
+A Modular Computer Sharing System An alternative approach to the design and organization of a general purpose interactive multiterminal computing system is presented. The system organization described is a conceptually 

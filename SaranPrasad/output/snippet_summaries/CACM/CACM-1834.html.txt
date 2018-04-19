@@ -1,0 +1,1 @@
+paper an attempt is made to explore the logical foundations of computer programming by use of techniques which were first applied in the study of geometry and have later been 

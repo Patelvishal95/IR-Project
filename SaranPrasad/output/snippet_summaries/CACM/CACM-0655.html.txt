@@ -1,0 +1,1 @@
+COMIT as an IR Language Many of the features that make COMIT a good all around symbol manipulation language also render it well suited to various types of information retrieval 

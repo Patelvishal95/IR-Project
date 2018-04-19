@@ -1,0 +1,1 @@
+Technique for Stepwise Regression Analysis The computational technique conventionally used for stepwise multiple linear regression requires the storage of an n X n matrix of data. When the number of 

@@ -1,0 +1,1 @@
+conflicts and described a heuristic algorithm which solves a certain combinatorial optimization problem in connection with this method. This optimization problem is here shown to be equivalent to the problem 

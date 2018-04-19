@@ -1,0 +1,1 @@
+Use of Decision Tables in Computer Programming A decision table is a tabular form for displaying decision logic. Decision tables have many inherent advantages. The technique to be illustrated puts 

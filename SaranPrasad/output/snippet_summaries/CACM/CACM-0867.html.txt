@@ -1,0 +1,1 @@
+Planes to Surfaces Using Dynamic Programming Dynamic programming has recently been used by Stone, by Bellman and by Gluss to determine the closet fit of broken line segments to a 

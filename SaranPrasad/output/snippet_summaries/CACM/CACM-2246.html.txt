@@ -1,0 +1,1 @@
+Levels of Language for Portable Software An increasing amount of software is being implemented in a portable form. A popular way of accomplishing this is to encode the software in 

@@ -1,0 +1,1 @@
+An Exponential Method for the Solution of Systems of Ordinary Differential Equations An explicit, coupled, single-step method for the numerical solution of initial value problems for systems of ordinary differential 

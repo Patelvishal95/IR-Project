@@ -1,0 +1,1 @@
+A Computer System for Transformational Grammar A comprehensive system for transformational grammar has been designed and implemented on the IBM 360/67 computer. The system deals with the transformational model of 

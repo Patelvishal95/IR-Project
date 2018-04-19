@@ -1,0 +1,1 @@
+Synthesis of Decision Rules Decision tables can be used as an effective tool during an interview to record the logic of processes to be automated. The result of such an 

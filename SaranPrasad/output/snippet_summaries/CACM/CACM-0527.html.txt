@@ -1,0 +1,1 @@
+The Description List of Concepts A concept is defined as a class of objects whose members can be distinguished by processing its properties. Property is defined to mean a partition 

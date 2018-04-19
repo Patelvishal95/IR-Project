@@ -1,0 +1,1 @@
+A Preliminary System for the Design of DBTG Data Structures The functional approach to database design is introduced. In this approach the goal of design is to derive a data 

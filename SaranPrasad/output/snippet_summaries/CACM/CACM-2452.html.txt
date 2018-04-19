@@ -1,0 +1,1 @@
+File Organization-A Model and System This work first discusses the factors that affect file (data base) organization performance, an elusive subject, and then presents a methodology, a model and a 

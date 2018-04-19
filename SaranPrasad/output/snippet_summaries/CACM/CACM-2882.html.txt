@@ -1,0 +1,1 @@
+A Stochastic Evaluation Model for Database Organization in Data Retrieval Systems Experimental work in the valuation of large scale data retrieval systems has been scarce due to its difficulty and 

@@ -1,0 +1,1 @@
+of the processors can simultaneously execute separate tasks of a single job, thus cooperating to decrease the solution time of a computational problem. The processors have independent instruction counters, meaning 

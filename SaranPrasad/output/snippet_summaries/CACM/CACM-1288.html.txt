@@ -1,0 +1,1 @@
+CLP-The Cornell List Processor Presented in this paper are the highlights of CLP, a teaching language which has been employed at Cornell University and was constructed to serve as a 

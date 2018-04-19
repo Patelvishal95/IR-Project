@@ -1,0 +1,1 @@
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience Clenshaw-Curtis quadrature is a particularly important automatic quadrature scheme for a variety of reasons, especially the high accuracy obtained from relatively few integrand 

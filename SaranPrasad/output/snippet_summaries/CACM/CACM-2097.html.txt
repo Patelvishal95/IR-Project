@@ -1,0 +1,1 @@
+A Program to Teach Programming The TEACH system was developed at MIT to ease the cost and improve the results of elementary instruction in programming. To the student, TEACH offers 

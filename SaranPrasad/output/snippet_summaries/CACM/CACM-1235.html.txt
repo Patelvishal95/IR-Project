@@ -1,0 +1,1 @@
+A Stochastic Approach to the Grammatical Coding of English A computer program is described which will assign each word in an English text to its form class or part of 

@@ -1,0 +1,1 @@
+requires the description of the stochastic processes governing the user inputs and the program activity. This paper provides a statistical description of the user input process in the SDC-ARPA general-purpose 

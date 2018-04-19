@@ -1,0 +1,1 @@
+Analysis of a File Addressing Method This paper presents a new file addressing method based on the calculation of an address from the identification of a record. For large recirculating 

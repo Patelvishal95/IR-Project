@@ -1,0 +1,1 @@
+An Extended Arithmetic Package In many fields, for example algebraic number theory, arithmetic must be carried out to a degree of precision which exceeds the normal hardware capacity of most 

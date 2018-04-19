@@ -1,0 +1,1 @@
+Automatic Error Analysis for Determining Precision The problem considered is that of evaluating a rational expression to within any desired tolerance on a computer which performs variable-precision floating-point arithmetic operations. 

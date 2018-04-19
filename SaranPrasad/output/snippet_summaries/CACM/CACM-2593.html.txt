@@ -1,0 +1,1 @@
+A Back-end Computer for Data Base Management It is proposed that the data base management function be placed on a dedicated back-end computer which accepts commands (in a relatively high 

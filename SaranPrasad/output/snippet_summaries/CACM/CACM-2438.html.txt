@@ -1,0 +1,1 @@
+A Model and Stack Implementation of Multiple Environments Many control and access environment structures require that storage for a procedure activation exist at times when control is not nested within 

@@ -1,0 +1,1 @@
+Depending on the hardware environment in which the expression is to be executed, these subexpressions can be evaluated in serials, in parallel, or in a combination of these modes. This 

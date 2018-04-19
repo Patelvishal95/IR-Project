@@ -1,0 +1,1 @@
+Key Frame Animation A significant increase in the capability for controlling motion dynamics in key frame animation is achieved through skeleton control. This technique allows an animator to develop a 

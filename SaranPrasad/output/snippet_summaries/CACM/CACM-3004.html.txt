@@ -1,0 +1,1 @@
+for Application Programmers Techniques for designing and writing Cobol programs are presented. Previous work in structured programming is drawn upon and adapted. The presentation is informal: the terminology is nonmathematical 

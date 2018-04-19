@@ -1,0 +1,1 @@
+A Practical Interprocedural Data Flow Analysis Algorithm A new interprocedural data flow analysis algorithm is presented and analyzed. The algorithm associates with each procedure in a program information about which 

@@ -1,0 +1,1 @@
+(e.g. in electron microscopy and X-ray photography) in which it is desirable to estimate the gray levels of a digital picture at the individual points from the sums of the 

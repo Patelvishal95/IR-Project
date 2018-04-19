@@ -1,0 +1,1 @@
+demarcation of the various regions of the page for guiding the scanner, is implemented by means of a joystick and a CRT display. This mode, for which some performance figures 

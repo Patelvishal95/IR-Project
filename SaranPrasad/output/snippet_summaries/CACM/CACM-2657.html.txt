@@ -1,0 +1,1 @@
+An Improved Program-Synthesizing Algorithm and Its Correctness An improved program-synthesizing algorithm based on the algorithm proposed by Waldinger and Lee in 1969 is given. In the old algorithm, the program-synthesizing 

@@ -1,0 +1,1 @@
+Environment for Online Data Acquis ition and Analysis An experimental system for acquis ition and analysis of large bodies of data derived from scientific experiments is described. Its architecture and 

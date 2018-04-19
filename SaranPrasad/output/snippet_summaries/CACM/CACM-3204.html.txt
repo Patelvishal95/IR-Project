@@ -1,0 +1,1 @@
+An On-Line Program for Non-Numerical Algebra The goal of this program is to make a step toward te design of an automated mathematical assistant. Some requirements for such a program 

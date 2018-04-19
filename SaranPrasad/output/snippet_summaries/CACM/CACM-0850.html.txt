@@ -1,0 +1,1 @@
+Conversion, Reconversion and Comparison Techniques In Variable-Length Sorting The logic is described for converting highly variable input records into a format that can be easily and efficiently processed by a 

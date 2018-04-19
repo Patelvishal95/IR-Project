@@ -1,0 +1,1 @@
+Toward a Discipline of Real-Time Programming Programming is divided into three major categories with increasing complexity of reasoning in program validation: sequential programming, multiprogramming, and real-time programming. By adhering to 

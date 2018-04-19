@@ -1,0 +1,1 @@
+An Optimal Real-Time Algorithm for Planar Convex Hulls An algorithm is described for the construction in real-time of the convex hull of a set of n points in the plane. 

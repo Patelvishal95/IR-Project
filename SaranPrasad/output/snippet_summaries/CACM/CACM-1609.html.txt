@@ -1,0 +1,1 @@
+Scheduling University Course Examinations by Computer A new approach to the problem of scheduling course examinations is presented. In principle, an examination schedule which requires a minimum number of examination 

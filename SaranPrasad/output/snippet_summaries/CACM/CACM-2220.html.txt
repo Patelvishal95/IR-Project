@@ -1,0 +1,1 @@
+Conversion of Limited-Entry Decision Tables to Computer Programs-A Proposed Modification to Pollack's Algorithm Pollack has proposed an algorithm for converting decision tables into flowcharts which minimize subsequent execution time when 

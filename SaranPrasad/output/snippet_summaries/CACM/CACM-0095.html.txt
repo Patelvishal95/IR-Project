@@ -1,0 +1,1 @@
+Elimination of Special Functions from Differential Equations A set of ordinary differential equations which contains mathematical functions requiring the use of subroutines for numerical solution by electronic computer, tabular data 

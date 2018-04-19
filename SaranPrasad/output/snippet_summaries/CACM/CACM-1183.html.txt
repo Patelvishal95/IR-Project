@@ -1,0 +1,1 @@
+A Note on the Use of a Digital Computer for Doing Tedious Algebra and Programming A special purpose compiler was written with FORTRAN II language and made possible the writing 

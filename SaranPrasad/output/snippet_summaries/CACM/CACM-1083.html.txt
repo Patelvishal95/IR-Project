@@ -1,0 +1,1 @@
+An Experiment in a User-Oriented Computer System A version of a software-hardware system for the purpose of facilitating the programming and analysis of well-formulated problems is described. A modified Flexowriter 

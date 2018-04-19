@@ -1,0 +1,1 @@
+Use of the LRU Stack Depth Distribution for Simulation of Paging Behavior Two families of probability distributions were needed for use by a virtual memory simulation model: headway between page 

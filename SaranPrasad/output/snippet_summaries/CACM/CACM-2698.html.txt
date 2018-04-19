@@ -1,0 +1,1 @@
+A Practical Approach A least-errors recognizer is developed informally using the well-known recognizer of Earley, along with elements of Bellman's dynamic programming. The analyzer takes a general class of context-free 

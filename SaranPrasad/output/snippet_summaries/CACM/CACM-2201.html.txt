@@ -1,0 +1,1 @@
+Animator: An On-Line Two-dimensional Film Animation System Animator is a computer animation system which was designed to overcome some of the inherent disadvantages associated with conventional computer animation techniqueshe DEC-338 

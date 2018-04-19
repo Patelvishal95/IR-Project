@@ -1,0 +1,1 @@
+Comparison of Several Algorithms for Computation of Means, Standard Deviations and Correlation Coefficients Several algorithms for computation of basic statistics are compared by their performance on systematically generated test data. 

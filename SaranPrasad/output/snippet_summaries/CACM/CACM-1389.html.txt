@@ -1,0 +1,1 @@
+A Programmer's Description of L^6 Bell Telephone Laboratories' Low-Linked List Language L^6 (pronounced "L-six") is a new programming language for list structure manipulations. It contains many of the facilities which 

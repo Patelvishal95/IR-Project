@@ -1,0 +1,1 @@
+A Variation of the Goodman-Lance Method for the Solution of Two-Point Boundary Value Problems A recently published method for the interpolative solution of nonlinear equations is improved, and applied to 

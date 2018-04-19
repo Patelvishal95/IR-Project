@@ -1,0 +1,1 @@
+Implementation of AMBIT, A Language for Symbol Manipulation A brief description is given of the implementation technique for the replacement rule of the AMBIT programming language. The algorithm for the 

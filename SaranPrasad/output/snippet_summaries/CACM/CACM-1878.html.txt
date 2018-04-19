@@ -1,0 +1,1 @@
+Recovery of Reentrant List Structures in SLIP One consequence of the reference-count-based space-recovery system employed by SLIP is that reentrant list structures are not recovered even when explicitly erased. LISP-like 

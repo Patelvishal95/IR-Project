@@ -1,0 +1,1 @@
+Requirements for Advanced Programming Systems for List Processing List processing systems should be designed to facilitate production of large programs to manipulate large complex symbolic data stores. This paper presents 

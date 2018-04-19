@@ -1,0 +1,1 @@
+in which it is practical to determine the instantaneous drum position, a popular discipline for determining the sequence in which the records are to be accessed is the so-called shortest-latency-time-first, 

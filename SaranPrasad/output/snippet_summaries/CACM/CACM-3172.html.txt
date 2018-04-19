@@ -1,0 +1,1 @@
+Among Polyhedral Obstacles This paper describes a collision avoidance algorithm for planning a safe path for a polyhedral object moving among known polyhedral objects. The algorithm transforms the obstacles so 

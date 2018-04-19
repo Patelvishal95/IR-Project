@@ -1,0 +1,1 @@
+Approach to Language Translation The possibility of natural language translation by means of fixed operations on example translations is considered. The conception of sentence translation which motivates the work is 

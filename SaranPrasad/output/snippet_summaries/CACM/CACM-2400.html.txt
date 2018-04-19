@@ -1,0 +1,1 @@
+Use of the Hough Transformation ToDetect Lines and Curves in Pictures Hough has proposed an interesting and computationally efficient procedure for detecting lines in pictures. This paper points out that 

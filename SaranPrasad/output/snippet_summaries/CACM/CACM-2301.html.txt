@@ -1,0 +1,1 @@
+Generating Parsers for Affix Grammars Affix grammars are two-level grammars which are similar to van Wijngaarden's two-level grammars used in the definition of Algol 68. Affix grammars are shown by 

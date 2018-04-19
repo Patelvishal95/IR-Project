@@ -1,0 +1,1 @@
+An Approach to the Optimum Design of Computer Graphics Systems Display system designers are faced with the difficult task of selecting major subsystems in an intelligent way. Each subsystem is 

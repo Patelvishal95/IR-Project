@@ -1,0 +1,1 @@
+software systems involving elaborate, changing data structure is dynamic storage allocation for flexible problem modeling. The Free Storage Package of the AED-1 Compiler Systems allows blocks of available storage to 

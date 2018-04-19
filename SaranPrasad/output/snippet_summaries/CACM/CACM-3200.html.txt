@@ -1,0 +1,1 @@
+A FORMAC Program for the Solution of Linear Boundary and Initial Value Problems A computer program is described which has been developed for obtaining approximate solutions to linear initial and 

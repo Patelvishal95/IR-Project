@@ -1,0 +1,1 @@
+An Interactive Display for Approximation by Linear Programming An interactive program with a graphical display has been developed for the approximation of data by means of a linear combination of 

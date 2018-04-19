@@ -1,0 +1,1 @@
+A Comparative Study of Computer Programs for Integrating Differential Equations A study comparing the performance of several computer programs for integrating systems of ordinary differential equations is reported. The integration 

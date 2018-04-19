@@ -1,0 +1,1 @@
+Programming by Questionnaire: An Effective Way To Use Decision Tables Programming by questionnaire combines aspects of decision table programming and general purpose programming by using decision tables to construct an 

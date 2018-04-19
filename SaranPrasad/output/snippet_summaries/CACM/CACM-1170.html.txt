@@ -1,0 +1,1 @@
+word classes are the depth in the dependency tree of each word, the direction of its governor and the same features for each of its immediate neighbors. Syntactic rules of 

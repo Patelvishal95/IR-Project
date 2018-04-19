@@ -1,0 +1,1 @@
+Information Reference Coding Items in business systems have to be identified by reference codes, which can later be used as data codes and file keys in an associated data processing 

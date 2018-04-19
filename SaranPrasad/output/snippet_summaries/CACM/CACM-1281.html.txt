@@ -1,0 +1,1 @@
+by Question and Answer A data input scheme for a time-sharing computer is described in this paper. Instead of using format statements to determine the input, the computer asks the 

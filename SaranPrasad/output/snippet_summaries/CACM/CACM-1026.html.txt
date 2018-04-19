@@ -1,0 +1,1 @@
+Divide-and-Correct Methods for Multiple Precision Division A division problem is defined and notation to relate it to the problem of multiple precision operation in a digital computer is introduced. A 

@@ -1,0 +1,1 @@
+High-Level Binding with Low-Level Linkers An easy to implement scheme is described by which a compiler can enforce agreement between complex data types in separately compiled modules. The scheme is 

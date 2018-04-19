@@ -1,0 +1,1 @@
+stable method is presented for the problem of updating an orthogonal decomposition of a matrix of column (or row) vectors. The fundamental idea is to add a column (or row) 

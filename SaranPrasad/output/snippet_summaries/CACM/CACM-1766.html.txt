@@ -1,0 +1,1 @@
+Quasilinearization and the Estimation of Differential Operators from Eigenvalues Given a linear ordinary differential operator containing several unknown constants and a number of its eigenvalues, the values of the unknown 

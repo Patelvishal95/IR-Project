@@ -1,0 +1,1 @@
+A Formalism for Translator Interactions A formalism is presented for describing the actions of processors for programming languages-compilers, interpreters, assemblers-and their interactions in complex systems such as compiler-compilers or extendible 

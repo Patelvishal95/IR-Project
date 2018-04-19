@@ -1,0 +1,1 @@
+Symbolic Derivatives Without List Processing, Subroutines, or Recursion A routine has been developed which computes and prints out the symbolic derivative of an absolutely continuous elementary function of one or 

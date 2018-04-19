@@ -1,0 +1,1 @@
+A Model for Verification of Data Security in Operating Systems Program verification applied to kernel architectures forms a promising method for providing uncircumventably secure, shared computer systems. A precise definition 

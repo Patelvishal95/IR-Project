@@ -1,0 +1,1 @@
+emerge. Such a compiler translates the parsed source code into lower level code by a sequence of steps. Each step expands higher level statements into blocks of lower level code 

@@ -1,0 +1,1 @@
+B-trees Re-examined The B-tree and its variants have, with increasing frequency, been proposed as a basic storage structure for multiuser database applications. Here, three potential problems which must be dealt 

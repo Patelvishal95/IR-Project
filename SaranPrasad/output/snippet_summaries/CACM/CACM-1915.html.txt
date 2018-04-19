@@ -1,0 +1,1 @@
+presented causes the elimination of hidden lines in the representation of a perspective view of concave and convex plane-faced objects on the picture plane. All the edges of the objects 

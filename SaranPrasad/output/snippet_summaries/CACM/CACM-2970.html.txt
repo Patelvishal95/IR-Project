@@ -1,0 +1,1 @@
+the use of the regenerative property of queueing systems in the analysis of simulation output. In particular, it describes a sequential estimation method which when used with the regenerative property 

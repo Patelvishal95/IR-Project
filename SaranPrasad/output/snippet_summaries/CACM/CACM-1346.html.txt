@@ -1,0 +1,1 @@
+On the Application of the Process of Equalization of Maxima to Obtain Rational Approximation to Certain Modified Bessel Functions The second Remes algorithm as originally established for polynomials, may converge 

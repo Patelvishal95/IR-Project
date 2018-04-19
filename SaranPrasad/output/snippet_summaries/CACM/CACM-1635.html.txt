@@ -1,0 +1,1 @@
+Parameters for Pseudo Runge-Kutta Methods The object of this note is to present a choice of the free parameters in the third- and fourth-order pseudo Runge-Kutta methods involving two points. 

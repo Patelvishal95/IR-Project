@@ -1,0 +1,1 @@
+Partitioning Algorithms for Finite Sets The partitions of a set with n elements are represented by certain n-tuples of positive integers. Algorithm are described which generate without repetitions the n-tuples 

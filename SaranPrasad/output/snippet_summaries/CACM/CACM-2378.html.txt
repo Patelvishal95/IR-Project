@@ -1,0 +1,1 @@
+the Concept of a Supervisory Computer An operating system which is organized as a small supervisor and a set of independent processes are described. The supervisor handles I/O with external 

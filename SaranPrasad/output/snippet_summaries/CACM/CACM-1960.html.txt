@@ -1,0 +1,1 @@
+the Multiaccess System ESOPE The main design principles of the multiaccess system ESOPE are described. Emphasis is placed on basic ideas underlying the design rather than on implementation details. The 

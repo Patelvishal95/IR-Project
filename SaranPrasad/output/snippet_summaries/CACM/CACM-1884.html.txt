@@ -1,0 +1,1 @@
+An Anomaly in Space-Time Characteristics of Certain Programs Running in a Paging Machine The running time of programs in a paging machine generally increases as the store in which programs 

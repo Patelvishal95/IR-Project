@@ -1,0 +1,1 @@
+for the calculation of sums of squares in the analysis of variance of complete factorial experiments and in the computation of main effect or interaction means is described. The method 

@@ -1,0 +1,1 @@
+A Formal System for Information Retrieval from Files A generalized file structure is provided by which the concepts of keyword, index, record, file, directory, file structure, directory decoding, and record 

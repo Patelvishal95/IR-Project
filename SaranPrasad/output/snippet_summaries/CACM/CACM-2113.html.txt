@@ -1,0 +1,1 @@
+concatenation patterns that are presented to the analyzer in the form of linear strings. Particular emphasis is given to the system of "significant addresses" by means of which processing times 

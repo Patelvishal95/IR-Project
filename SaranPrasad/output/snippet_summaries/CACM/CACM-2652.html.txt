@@ -1,0 +1,1 @@
+groups of users can often be constructed by removing unwanted features from a general purpose language. This paper describes the use of simulation techniques to predict the savings in compilation 

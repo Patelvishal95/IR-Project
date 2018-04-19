@@ -1,0 +1,1 @@
+On Implementation of Label Variables Variables of label mode are conventionally implemented with a technique which fails to trap certain programming errors. Fine-grained calendar clocks have recently become available; these 

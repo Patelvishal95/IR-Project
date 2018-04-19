@@ -1,0 +1,1 @@
+Synchronizing Processors with Memory-Content-Generated Interrupts Implementations of the "Lock-Unlock" method of synchronizing processors in a multiprocessor system usually require uninterruptable, memory-pause type instructions. An interlock scheme called read-interlock, which does 

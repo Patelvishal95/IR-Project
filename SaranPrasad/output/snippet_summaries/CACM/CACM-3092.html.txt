@@ -1,0 +1,1 @@
+Characteristics of Application Software Maintenance Maintenance and enhancement of application software consume a major portion of the total life cycle cost of a system. Rough estimates of the total systems 

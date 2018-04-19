@@ -1,0 +1,1 @@
+LEM-1, Small Size General Purpose Digital Computer Using Magnetic (Ferrite) Elements The paper examines some of the questions of development and construction of a general purpose digital computer using contactless 

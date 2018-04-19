@@ -1,0 +1,1 @@
+words allowable in a language given in terms of a subset of regular expressions. The output of the system is a lexical processor which reads a string of characters and 

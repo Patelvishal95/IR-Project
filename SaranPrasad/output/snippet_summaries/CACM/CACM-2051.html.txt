@@ -1,0 +1,1 @@
+A PL/I Program to Assist the Comparative Linguist A practical PL/I program is described which can assist comparative linguists to determine the regular sound correspondences between genetically related languages. The 

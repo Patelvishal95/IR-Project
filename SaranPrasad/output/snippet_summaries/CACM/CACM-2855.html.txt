@@ -1,0 +1,1 @@
+Algorithm Using Constant Workspace An efficient algorithm is presented for moving arbitrary list structures, using no storage (apart from program variables) other than that required to hold the original list 

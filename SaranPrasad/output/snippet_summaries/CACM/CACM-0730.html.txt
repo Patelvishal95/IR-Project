@@ -1,0 +1,1 @@
+Mathematical Notation And Plain English A pilot version of the compiler MIRFAG, now in operation, is described. The chief features of the system, which is intended for the solution of 

@@ -1,0 +1,1 @@
+A Comparison of Multivariate Normal Generators Three methods for generating outcomes on multivariate normal random vectors with a specified variance-covariance matrix are presented. A comparison is made to determine which 

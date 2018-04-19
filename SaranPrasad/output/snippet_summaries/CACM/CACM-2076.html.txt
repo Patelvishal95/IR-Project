@@ -1,0 +1,1 @@
+Cubic Splines on Uniform Meshes A very simple procedure is presented for constructing cubic splines, periodic or nonperiodic, on uniform meshes. Arcs of two cubics suffice to construct a basis 

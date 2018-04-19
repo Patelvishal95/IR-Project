@@ -1,0 +1,1 @@
+A Heuristic Problem Solving Design System for Equipment or Furniture Layouts The Designer Problem Solver (DPS) demonstrates that the computer can perform simple design tasks. In particular, it designs furniture 

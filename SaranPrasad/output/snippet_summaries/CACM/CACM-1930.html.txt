@@ -1,0 +1,1 @@
+Extremely Portable Random Number Generator Extremely portable subroutines are sometimes needed for which moderate quality and efficiency suffice. Typically, this occurs for library functions (like random number generation and in 

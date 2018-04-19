@@ -1,0 +1,1 @@
+TRAC, A Procedure-Describing Language for the Reactive Typewriter A description of the TRAC (Text Reckoning And Compiling) language and processing algorithm is given. The TRAC language was developed as the 

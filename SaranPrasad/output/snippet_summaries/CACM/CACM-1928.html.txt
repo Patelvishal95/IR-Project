@@ -1,0 +1,1 @@
+Exclusive Simulation of Activity in Digital Networks A technique for simulating the detailed logic networks of large and active digital systems is described. Essential objectives sought are improved ease and 

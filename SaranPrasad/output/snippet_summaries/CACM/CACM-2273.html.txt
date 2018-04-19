@@ -1,0 +1,1 @@
+algorithms for generating computer programs from decision tables are described. The algorithms allow handling limited entry, extended entry, and mixed entry tables. The algorithms are based on the rule mask 

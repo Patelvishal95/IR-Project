@@ -1,0 +1,1 @@
+pointers. Since this is not always convenient, the Swym system permits a list to be chained, compact, or any combination of the two. A description is given of that list 

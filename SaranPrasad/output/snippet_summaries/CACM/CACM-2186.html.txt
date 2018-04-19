@@ -1,0 +1,1 @@
+this paper the Ritz-Trefftz algorithm is applied to the computer solution of the state regulator problem. The algorithm represents a modification of the Ritz direct method and is designed to 

@@ -1,0 +1,1 @@
+The properties of an edge are embedded in a figure of merit and the edge detection problem becomes the problem of minimizing the given figure of merit. This problem can 

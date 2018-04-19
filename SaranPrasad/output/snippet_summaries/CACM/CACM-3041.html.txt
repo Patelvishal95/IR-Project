@@ -1,0 +1,1 @@
+for Frequently Occuring Keys Split trees are a new technique for searching sets of keys with highly skewed frequency distributions. A split tree is a binary search tree each node 

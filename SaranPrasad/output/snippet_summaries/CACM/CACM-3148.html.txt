@@ -1,0 +1,1 @@
+High Level Programming for Distributed Computing Programming for distributed and other loosely coupled systems is a problem of growing interest. This paper describes an approach to distributed computing at the 

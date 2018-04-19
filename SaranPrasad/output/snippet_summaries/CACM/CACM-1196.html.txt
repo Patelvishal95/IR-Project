@@ -1,0 +1,1 @@
+Applications of Differential Equations in General Problem Solving A large class of problems leading to digital computer processing can be formulated in terms of the numerical solution of systems of 

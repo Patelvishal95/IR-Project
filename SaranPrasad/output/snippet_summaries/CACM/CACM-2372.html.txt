@@ -1,0 +1,1 @@
+On the Implementation of Security Measures in Information Systems The security of an information system may be represented by a model matrix whose elements are decision rules and whose row 

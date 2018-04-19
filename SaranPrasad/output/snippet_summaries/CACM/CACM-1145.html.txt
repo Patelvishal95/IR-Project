@@ -1,0 +1,1 @@
+GIT-A Heuristic Program for Testing Pairs of Directed Line Graphs for Isomorphism* Given a pair of directed line graphs, the problem of ascertaining whether or not they are isomorphic is 

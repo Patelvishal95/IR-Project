@@ -1,0 +1,1 @@
+and of a corresponding subroutine that enables a computer to perform syntactic analysis. The input to this subroutine consists of a string to be analyzed and a description of the 

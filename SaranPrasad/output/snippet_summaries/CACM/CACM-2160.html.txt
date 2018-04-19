@@ -1,0 +1,1 @@
+Canonical Structure in Attribute Based File Organization A new file structure for attribute based retrieval is proposed in this paper. It allows queries involving arbitrary Boolean functions of the attribute-value 

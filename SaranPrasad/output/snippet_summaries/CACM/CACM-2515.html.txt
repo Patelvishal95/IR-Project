@@ -1,0 +1,1 @@
+Minimal Event-Node Network of Project Precedence Relations A procedure for constructing a minimal event-node network to represent a set of precedence relations without parallel activities is presented. A minimal event-node 

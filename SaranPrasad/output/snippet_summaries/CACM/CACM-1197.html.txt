@@ -1,0 +1,1 @@
+Finding Zeros of a Polynomial by the Q-D Algorithm A method which finds simultaneously all the zeros of a polynomial, developed by H. Rutishauser, has been tested on a number 

@@ -1,0 +1,1 @@
+A Technique for Computer Detection and Correction of Spelling Errors* The method described assumes that a word which cannot be found in a dictionary has at most one error, which 

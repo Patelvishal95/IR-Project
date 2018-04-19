@@ -1,0 +1,1 @@
+performs t-digit base B floating-point addition with exponents in the range -m to M. An algorithm is given for accurately summing N t-digit floating-point numbers. Each of these N numbers 

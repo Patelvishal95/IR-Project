@@ -1,0 +1,1 @@
+Objects Composed of Quadric Surfaces An algorithm for drawing pictures of three-dimensional objects, with surfaces made up of patches of quadric surfaces, is described. The emphasis of this algorithm is 

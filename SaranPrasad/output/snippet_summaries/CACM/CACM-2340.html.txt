@@ -1,0 +1,1 @@
+Method for the Computation of Linear Precedence Functions A modified version of Bell's Boolean matrix method for the computation of linear precedence functions associated with a conflict-free matrix of precedence 

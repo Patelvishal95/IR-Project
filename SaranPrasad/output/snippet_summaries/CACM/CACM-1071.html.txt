@@ -1,0 +1,1 @@
+Computer-Usage Accounting for Generalized Time-Sharing Systems The current development of general time-sharing systems requires a revision of accounting procedures for computer usage. Since time-sharing system users operate concurrently, it is 

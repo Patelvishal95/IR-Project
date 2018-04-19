@@ -1,0 +1,1 @@
+Space Disk Files In most database organizations, the cost of accessing the database will increase due to structural changes caused by updates and insertions. By reorganizing the database, the access 

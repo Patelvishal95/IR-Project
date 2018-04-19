@@ -1,0 +1,1 @@
+Mechanical Program Analysis One means of analyzing program performance is by deriving closed-form expressions for their execution behavior. This paper discusses the mechanization of such analysis, and describes a system, 

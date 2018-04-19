@@ -1,0 +1,1 @@
+Language The relational model of data, the XRM Relational Memory System, and the SEQUEL language have been covered in previous papers and are reviewed. SEQUEL is a relational data sublanguages 

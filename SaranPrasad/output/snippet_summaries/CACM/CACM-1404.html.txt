@@ -1,0 +1,1 @@
+Computational Aspects of Multiple Covariance Analysis on a Multifactor Structure The computational procedure for the analysis of multiple covariance in statistics is discussed with reference to the analysis of variance. 

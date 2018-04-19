@@ -1,0 +1,1 @@
+An Algorithm for Class Scheduling With Section Preference An algorithm for assignment of students to classes in a fixed time schedule that allows students to give a preference for sections 

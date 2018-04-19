@@ -1,0 +1,1 @@
+A Comparative Analysis of Disk Scheduling Policies Five well-known scheduling policies for movable head disks are compared using the performance criteria of expected seek time (system oriented)and expected waiting time 

@@ -1,0 +1,1 @@
+A Mathematical Model for Mechanical part Description The flexibility of a mathematical model takes advantage of the common information requirements of computer-aided engineering drawing, numerical control tape generation, and physical 

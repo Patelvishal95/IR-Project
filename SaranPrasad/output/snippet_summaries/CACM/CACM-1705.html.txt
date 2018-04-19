@@ -1,0 +1,1 @@
+using the fixed point or the floating point representation, and rounds properly. Variants can easily be written because of the explicit call of the procedures decompose integer and decompose real. 

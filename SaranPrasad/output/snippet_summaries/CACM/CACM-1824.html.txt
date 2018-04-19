@@ -1,0 +1,1 @@
+APAREL-A Parse-Request Language APAREL is described: this language is an extension to an algorithmic language (PL/I) that provides the pattern-matching capabilities normally found only in special purpose languages such as 

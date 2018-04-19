@@ -1,0 +1,1 @@
+Rehabilitated? This note is concerned with the efficiency of the Top-to-Bottom parsing algorithm as used in connection with programming language grammars. It is shown, for instance, that retracing of unprofitable 

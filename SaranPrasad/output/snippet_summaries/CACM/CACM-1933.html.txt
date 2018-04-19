@@ -1,0 +1,1 @@
+Coding the Lehmer Pseudo-random Number Generator An algorithm and coding technique is presented for quick evaluation of the Lehmer pseudo-random number generator modulo 2**31 - 1, a prime Mersenne number 

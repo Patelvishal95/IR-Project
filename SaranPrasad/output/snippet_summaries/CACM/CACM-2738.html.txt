@@ -1,0 +1,1 @@
+Use of the Concept of Transparency in the Design of Hierarchically Structured Systems This paper deals with the design of hierarchically structured programming systems. It develops a method for evaluating 

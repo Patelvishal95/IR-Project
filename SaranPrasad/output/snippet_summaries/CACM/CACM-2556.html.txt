@@ -1,0 +1,1 @@
+Adaptive Correction of Program Statements A method of analyzing statements in a programming language which can tolerate a considerable inaccuracy in their specification is proposed. This method involves principles at 

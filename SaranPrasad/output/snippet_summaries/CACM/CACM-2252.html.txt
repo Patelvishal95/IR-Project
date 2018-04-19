@@ -1,0 +1,1 @@
+A method of incremental compilation is presented which applies especially to programming languages in which statements can be nested (such as Algol and PL/I). The method permits editing of the 

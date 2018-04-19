@@ -1,0 +1,1 @@
+Wengert's Numerical Method for Partial Derivatives, Orbit Determination and Quasilinearization In a recent article in the Communications of the ACM, R. Wengert suggested a technique for machine evaluation of the 

@@ -1,0 +1,1 @@
+Decimal or Binary Representation) The binary number system offers many advantages over a decimal representation for a high-performance, general-purpose computer. The greater simplicity of a binary arithmetic unit and the 

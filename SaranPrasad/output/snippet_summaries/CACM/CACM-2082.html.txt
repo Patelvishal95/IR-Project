@@ -1,0 +1,1 @@
+is used as a concrete basis for illustrating an idea called syntax-directed documentation. This idea is (1) to use the phrase structure of a program to define the structure of 

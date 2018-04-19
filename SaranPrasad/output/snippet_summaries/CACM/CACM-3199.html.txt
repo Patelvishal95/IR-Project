@@ -1,0 +1,1 @@
+Manipulator ALGEM is a package of subprograms written in Slip, FORTRAN IV and MAP 7094 II to manipulate algebraic expressions. Algem's basic algebraic operations are additions, subtractions, multiplications, division and 

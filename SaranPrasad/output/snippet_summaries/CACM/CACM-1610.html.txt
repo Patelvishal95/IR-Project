@@ -1,0 +1,1 @@
+A Method for the Solution of Transportation Problems with Tall Matrices A method is presented for the solution of the transportation problem having a cost matrix with few columns. The 

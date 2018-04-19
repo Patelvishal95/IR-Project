@@ -1,0 +1,1 @@
+Dribble Posting a Master File Many business applications employ sequential magnetic tape rather than random-access storage techniques to process a very small number of transactions against a voluminous master file. 

@@ -1,0 +1,1 @@
+Language The idea of constructing a computer design language by making use of an ALGOL-like programming language is presented. A computer designer can benefit from using a design language at 

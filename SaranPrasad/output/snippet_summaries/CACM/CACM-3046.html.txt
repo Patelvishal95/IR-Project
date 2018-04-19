@@ -1,0 +1,1 @@
+Computer Generation of Gamma Random Variables - II A rejection method is proposed for generating gamma variates with nonintegral shape parameter a, a > 1. This method is similar to 

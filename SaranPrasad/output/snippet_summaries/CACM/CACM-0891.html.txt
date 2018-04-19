@@ -1,0 +1,1 @@
+Everyman's Information Retrieval System The information retrieval problem whose solution is presented here was posed by a technical library with limited bubget and personnel. The solution, however, is quite general 

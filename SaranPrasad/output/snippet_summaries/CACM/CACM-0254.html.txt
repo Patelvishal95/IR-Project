@@ -1,0 +1,1 @@
+SMALGOL-61 Prior to and during the 1961 Western Joint Computer Conference, several people in the Joint Users Groups had expressed interest in defining a "smalgol" language. This is to be 

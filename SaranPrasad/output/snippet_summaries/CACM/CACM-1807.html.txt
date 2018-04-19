@@ -1,0 +1,1 @@
+is presented. The method is based on a linear analysis of the definition points of the variables and the branching and DO loop structure of the program. The objectives of 

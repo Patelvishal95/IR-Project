@@ -1,0 +1,1 @@
+on Computer: Appendix In the main text of the paper [Comm. ACM 9, 12 (Dec. 196), 864], a FORMAC program was discussed which is capable of calculating various quantities of 

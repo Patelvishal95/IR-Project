@@ -1,0 +1,1 @@
+storage reclamation problem for a system such as Lisp that allocates storage automatically from a heap, and does not require the programmer to give any indication that particular items are 

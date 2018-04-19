@@ -1,0 +1,1 @@
+A Tape File Merge Pattern Generator A routine is presented which specifies the sequence of merge cycles to effect the merging of sorted tape files. The routine is designed to 

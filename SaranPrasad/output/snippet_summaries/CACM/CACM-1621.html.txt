@@ -1,0 +1,1 @@
+Computer Typesetting of ALGOL An application of computer-aided typesetting is introduced. A working method is described for publishing ALGOL by computerized translation from Hardware into Reference representation, computerized planning of 

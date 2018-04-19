@@ -1,0 +1,1 @@
+Design of a Separable Transition-Diagram Compiler* A COBOL compiler design is presented which is compact enough to permit rapid, one-pass compilation of a large subset of COBOL on a moderately 

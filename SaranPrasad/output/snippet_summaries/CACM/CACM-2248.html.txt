@@ -1,0 +1,1 @@
+A New Method for the Solution of the Cauchy Problem for Parabolic Equations An integral equation representation is given for parabolic partial differential equations. When the equations are defined in 

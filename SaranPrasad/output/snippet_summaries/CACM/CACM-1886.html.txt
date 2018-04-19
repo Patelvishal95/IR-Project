@@ -1,0 +1,1 @@
+Generation of Optimal Code for Expressions via Factorization Given a set of expressions which are to be compiled, methods are presented for increasing the efficiency of the object code produced 

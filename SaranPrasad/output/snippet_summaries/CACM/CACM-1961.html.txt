@@ -1,0 +1,1 @@
+to Find the Elementary Circuits of a Graph A theoretically most efficient search algorithm is presented which uses an exhaustive search to find all of the elementary circuits of a 

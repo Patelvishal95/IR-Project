@@ -1,0 +1,1 @@
+a Differential-Difference Equation with a Decreasing Time-Lag Systems in which variable time-lags are present are of common occurrence in biology. Variable flow rates are a common cause of these variable 

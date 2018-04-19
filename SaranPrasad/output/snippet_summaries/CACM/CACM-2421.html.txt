@@ -1,0 +1,1 @@
+in the XY or random scan format. Scan converters, hardware or software, must be provided to translate the picture description from the XY format to the raster format. Published scan 

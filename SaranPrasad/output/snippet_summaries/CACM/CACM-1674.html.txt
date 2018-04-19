@@ -1,0 +1,1 @@
+One-Line Random Number Generators and Their Use in Combinations Some one-line random number generators, i.e. generators requiring a single FORTRAN instruction are discussed, and some short FORTRAN programs which mix 

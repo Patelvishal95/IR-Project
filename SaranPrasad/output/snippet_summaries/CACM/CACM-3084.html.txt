@@ -1,0 +1,1 @@
+is a method of retrieving a desired record by key in an ordered file by using the value of the key and the statistical distribution of the keys. It is 

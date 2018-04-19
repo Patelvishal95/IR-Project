@@ -1,0 +1,1 @@
+Mechanization of Tedious Algebra: The Newcomb Operators of Planetary Theory A computer program has been written to generate tables of formulas for the Newcomb operators of planetary theory. The Newcomb 

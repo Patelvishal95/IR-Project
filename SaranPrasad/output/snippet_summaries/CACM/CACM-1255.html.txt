@@ -1,0 +1,1 @@
+A Method of Data List Processing With Application to EEG Analysis A set of subroutines is discussed, which is designed to aid in the programming of computations on indexed lists 

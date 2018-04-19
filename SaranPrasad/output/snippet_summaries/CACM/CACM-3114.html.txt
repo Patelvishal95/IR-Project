@@ -1,0 +1,1 @@
+differences between two files. One application is the comparing of two versions of a source program or other file in order to display all differences. The algorithm isolates differences in 

@@ -1,0 +1,1 @@
+Formal Requirements for Virtualizable Third Generation Architectures Virtual machine systems have been implemented on a limited number of third generation computer systems, e.g. CP-67 on the IBM 360/67. From previous 

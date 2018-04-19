@@ -1,0 +1,1 @@
+Toward an Understanding of Data Structures This paper presents a notation and formalism for describing the semantics of data structures. This is based on directed graphs with named edges and 

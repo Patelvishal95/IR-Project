@@ -1,0 +1,1 @@
+the Munkres Algorithm for the Assignment Problem to Rectangular Matrices The assignment problem, together with Munkres proposed algorithm for its solution in square matrices, is presented first. Then the authors 

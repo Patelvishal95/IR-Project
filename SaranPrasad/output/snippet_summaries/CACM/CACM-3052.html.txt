@@ -1,0 +1,1 @@
+Cold-Start vs. Warm-Start Miss Ratios In a two-level computer storage hierarchy, miss ratio measurements are often made from a "cold start, " that is made with the first-level store initially 

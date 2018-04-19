@@ -1,0 +1,1 @@
+A General-Purpose Display Processing and Tutorial System ADEPT (A display-Expedited Processing and Tutorial) system is described. This system was designed to improve man-computer communications by employing a display unit to 

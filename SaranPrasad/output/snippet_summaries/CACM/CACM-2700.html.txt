@@ -1,0 +1,1 @@
+of Proving Properties of Parallel Programs When proving that a parallel program has a given property it is often convenient to assume that a statement is indivisible, i.e. that the 

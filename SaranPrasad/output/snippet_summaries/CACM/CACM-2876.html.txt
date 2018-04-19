@@ -1,0 +1,1 @@
+Intentional Resolution of Privacy Protection in Database Systems Traditionally, privacy protection in database systems is understood to be the control over what information a given user can get from a 

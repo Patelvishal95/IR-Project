@@ -1,0 +1,1 @@
+A Futures Market in Computer time An auction method is described for allocating computer time that allows the price of computer time to fluctuate with the demand and the relative 

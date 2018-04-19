@@ -1,0 +1,1 @@
+Manipulation of Algebraic Expressions An algorithm for algebraically manipulating expressions of the form SUM{CiPi, i=1, ..., n}; has been developed in conjunction with the development of programs for systems analysis 

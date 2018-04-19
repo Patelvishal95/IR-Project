@@ -1,0 +1,1 @@
+Syntactic Source to Source Transforms and Program Manipulation Syntactic transforms are the source to source program transformations which preserve the history of computation, and thus do not modify the execution 

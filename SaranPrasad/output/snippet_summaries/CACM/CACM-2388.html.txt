@@ -1,0 +1,1 @@
+from binary trees grown with a form of the Algorithm Quicksort in an average time proportional to log n, where n is the number of items in the tree. The 

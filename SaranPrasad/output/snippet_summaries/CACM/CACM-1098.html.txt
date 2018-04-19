@@ -1,0 +1,1 @@
+A Comparison of List-Processing Computer Languages (Including a Detailed Comparison of COMIT, IPL-V, LISP 1.5, and SLIP) A detailed comparison is presented of COMIT, IPL-V, LISP 1.5 and SLIP - 

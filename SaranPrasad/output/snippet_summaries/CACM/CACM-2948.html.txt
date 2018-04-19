@@ -1,0 +1,1 @@
+A Terminal-Oriented Communication System This paper describes a system for full-duplex communication between a time-shared computer and its terminals. The system consists of a communications computer directly connected to the 

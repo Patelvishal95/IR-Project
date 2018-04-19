@@ -1,0 +1,1 @@
+and Economics A survey is offered of techniques for transferring programs, and especially compilers, from one computer to another. Of the methods examined, the "bootstrap" technique is singled out for 

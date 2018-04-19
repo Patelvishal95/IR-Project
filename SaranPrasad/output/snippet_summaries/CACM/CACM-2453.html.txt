@@ -1,0 +1,1 @@
+the Conversion of Decision Tables to Computer Programs Using ideas from information theory, this paper develops a heuristic algorithm that converts a limited entry decision table to a tree structured 

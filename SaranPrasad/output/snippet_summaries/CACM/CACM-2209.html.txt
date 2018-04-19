@@ -1,0 +1,1 @@
+Algorithm for a Computer Assisted Registration System This paper presents the scheduling algorithm used in the Computer Assisted Registration System at the University of Tennessee. Notation is defined and the 

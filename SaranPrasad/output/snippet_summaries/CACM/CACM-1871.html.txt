@@ -1,0 +1,1 @@
+Some methods for contour mapping by means of a digital plotter are discussed, and a new method is presented that is simple enough to be implemented by programs with a 

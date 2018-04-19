@@ -1,0 +1,1 @@
+of a sequence beginning with the i-th element (i>1) is proved to be 2F, in accordance with a conjecture of E. H. Friend, where F is the number of memory 

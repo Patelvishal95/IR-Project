@@ -1,0 +1,1 @@
+Computing Connected Components on Parallel Computers We present a parallel algorithm which uses n2 processors to find the connected components of an undirected graph with n vertices in time O(log2n). 

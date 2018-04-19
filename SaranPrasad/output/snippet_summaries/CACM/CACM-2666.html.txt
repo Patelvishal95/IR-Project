@@ -1,0 +1,1 @@
+On Lions' Counter Example for Gotlieb's Method for the Construction of School Timetables The timetable problem is an essentially discrete problem. Although the discrete problem may have no feasible solution, 

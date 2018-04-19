@@ -1,0 +1,1 @@
+A Model for Automating File and Program Design in Business Application Systems This paper discusses a model for finding an efficient implementation of a business application system whose logical specifications 

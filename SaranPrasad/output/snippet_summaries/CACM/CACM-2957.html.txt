@@ -1,0 +1,1 @@
+Database Abstractions: Aggregation Aggregation is in troduced as an abstraction which is important in conceptualizing the real world. Aggregation transforms a relationship between objects into a higher-level object. A new 

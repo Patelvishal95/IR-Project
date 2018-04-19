@@ -1,0 +1,1 @@
+The Synthesis of Loop Predicates Current methods for mechanical program verification require a complete predicate specification on each loop. Because this is tedious and error prone, producing a program with 

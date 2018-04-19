@@ -1,0 +1,1 @@
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures An experimental system that uses LISP to make a conceptual dictionary is described. The dictionary associates with each English 

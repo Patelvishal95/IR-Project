@@ -1,0 +1,1 @@
+Methods of Convergence Improvement for Some Improper Integrals In the numerical integration of an improper integral of the first kind, it is customary to truncate the integral when the change 

@@ -1,0 +1,1 @@
+Techniques for the Simulation of Computer Logic The simulation of a digital computer is an integral part of most computer design automation systems. The evaluation of the Boolean functions which 

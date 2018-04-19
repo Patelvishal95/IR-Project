@@ -1,0 +1,1 @@
+Languages A method is presented for calculating a string B, belonging to a given regular language L, which is "nearest" (in number of edit operations) to a given input string 

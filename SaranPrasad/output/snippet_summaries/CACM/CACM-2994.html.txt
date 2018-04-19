@@ -1,0 +1,1 @@
+A Linear Algorithm for Incremental Digital Display of Circular Arcs Circular arcs can be drawn on an incremental display device such as a cathode ray tube, digital plotter, or matrix 

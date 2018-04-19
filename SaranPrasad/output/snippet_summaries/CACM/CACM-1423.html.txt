@@ -1,0 +1,1 @@
+A Simple Algorithm for Computing the Generalized Inverse of a Matrix The generalized inverse of a matrix is important in analysis because it provides an extension of the concept of 

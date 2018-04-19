@@ -1,0 +1,1 @@
+Algorithm and Bound for the Greatest Common Divisor of n Integers A new version of the Euclidean algorithm for finding the greatest common divisor of n integers a(i) and multipliers 

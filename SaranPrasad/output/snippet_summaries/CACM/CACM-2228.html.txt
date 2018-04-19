@@ -1,0 +1,1 @@
+of System Deadlocks Habermann's method of deadlock prevention is discussed, where deadlock is defined as a system state from which resource allocations to certain processes are not possible. It is 

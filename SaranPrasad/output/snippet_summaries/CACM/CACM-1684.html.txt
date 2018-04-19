@@ -1,0 +1,1 @@
+Ambiguity in Limited Entry Decision Tables The use of decision tables as a tool in systems analysis and for program specification is now becoming accepted. Rules on redundancy, contradiction, and 

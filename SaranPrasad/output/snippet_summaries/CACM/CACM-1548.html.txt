@@ -1,0 +1,1 @@
+Parsing of Decision Tables Reduction in the size of decision tables can be accomplished by several techniques. The techniques considered in this paper are on the parsing of decision tables 

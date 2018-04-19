@@ -1,0 +1,1 @@
+On the Complexity of Computing the Measure of U[ai, bi] The decision tree complexity of computing the measure of the union of n (possibly overlapping) intervals is shown to be 

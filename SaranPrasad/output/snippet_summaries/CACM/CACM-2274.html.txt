@@ -1,0 +1,1 @@
+Generating English Discourse from Semantic Networks A system is described for generating English sentences from a form of semantic nets in which the nodes are word-sense meanings and the paths 

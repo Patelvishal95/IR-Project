@@ -1,0 +1,1 @@
+Subgoal Induction A proof method, subgoal induction, is presented as an alternative or supplement to the commonly used inductive assertion method. Its major virtue is that it can often be 

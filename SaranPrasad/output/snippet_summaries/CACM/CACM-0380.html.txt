@@ -1,0 +1,1 @@
+Comparison of Iterative Methods for the Calculation of nth Roots Three iterative methods for calculation of nth roots (including one proposed by the author) are compared in two ways: (1) 

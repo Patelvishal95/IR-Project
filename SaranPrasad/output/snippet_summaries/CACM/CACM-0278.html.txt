@@ -1,0 +1,1 @@
+A General Formulation of storage Allocation Formalization of a general computer storage allocation process is attempted. With a given computer M is associated a fictitious computer M' essentially identical to 

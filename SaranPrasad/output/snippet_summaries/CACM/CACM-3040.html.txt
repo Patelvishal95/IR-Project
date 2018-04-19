@@ -1,0 +1,1 @@
+Synthesizing Constraint Expressions A constraint network representation is presented for a combinatorial search problem: finding values for a set of variables subject to a set of constraints. A theory of 

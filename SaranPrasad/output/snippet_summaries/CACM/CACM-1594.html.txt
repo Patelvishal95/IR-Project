@@ -1,0 +1,1 @@
+An Algorithm for Generating Permutations An algorithm is described which under repeated application generates all permutations of K elements. Only the previously generated permutation, the constant K, and a temporary 

@@ -1,0 +1,1 @@
+Complex Gamma Function with Error Control An algorithm to compute the gamma function and log gamma function of a complex variable is presented. The standard algorithm is modified in several 

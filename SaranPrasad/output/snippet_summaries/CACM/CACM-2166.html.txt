@@ -1,0 +1,1 @@
+in Celestial Mechanics In this paper we consider some of the applications of automated algebraic manipulation which have been made in celestial mechanics. Particular attention is paid to the use 

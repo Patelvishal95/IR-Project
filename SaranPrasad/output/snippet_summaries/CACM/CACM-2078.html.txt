@@ -1,0 +1,1 @@
+the arrangement of objects in two- or three-space where the objective function primarily consists of derivatives of the distance between objects or their arrangement are called space planning problems. The 

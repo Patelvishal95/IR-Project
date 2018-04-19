@@ -1,0 +1,1 @@
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual? The operation of "folding" a program into the available memory is discussed. Measurements by Brown et al. and by Nelson 

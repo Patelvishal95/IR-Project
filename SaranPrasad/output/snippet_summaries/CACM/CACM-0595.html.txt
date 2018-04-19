@@ -1,0 +1,1 @@
+Guides to Teaching COBOL The teaching of COBOL can be divided into three main subject areas. They are the syntax of COBOL, the use of such syntax in solving any 

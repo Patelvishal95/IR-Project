@@ -1,0 +1,1 @@
+Addition in an Arbitrary Base Without Radix Conversion This paper presents a generalization of an old programming technique; using it, one may add and subtract numbers represented in any radix, 

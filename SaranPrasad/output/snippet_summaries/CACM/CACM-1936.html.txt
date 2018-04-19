@@ -1,0 +1,1 @@
+Sussenguth suggests in a paper (1963) that a file should be organized as a doubly-chained tree structure if it is necessary both to search and to update frequently. Such a 

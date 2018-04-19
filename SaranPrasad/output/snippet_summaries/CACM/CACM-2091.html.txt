@@ -1,0 +1,1 @@
+Differential Equations Conventional computer methods available to solve continuous system problems characterized by partial differential equations are very time-consuming and cumbersome. A convenient, easy to learn and to use, high 

@@ -1,0 +1,1 @@
+Reentrant Polygon Clipping A new family of clipping algorithms is described. These algorithms are able to clip polygons against irregular convex plane-faced volumes in three dimensions, removing the parts of 

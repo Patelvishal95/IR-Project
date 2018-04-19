@@ -1,0 +1,1 @@
+Automatic Error Bounds on Real Zeros of Rational Functions A procedure for implementing an interval arithmetic version of the Newton-Raphson method is proposed. The procedure require only a starting interval 

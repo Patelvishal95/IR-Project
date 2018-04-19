@@ -1,0 +1,1 @@
+Organizing Matrices and Matrix Operations for Paged Memory Systems Matrix representations and operations are examined for the purpose of minimizing the page faulting occurring in a paged memory system. It 

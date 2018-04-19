@@ -1,0 +1,1 @@
+Weighted Increment Linear Search for Scatter Tables A new linear search for hash tables whose increment step is a function of the key being addressed is presented. Comparisons with known 

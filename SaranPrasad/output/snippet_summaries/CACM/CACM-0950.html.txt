@@ -1,0 +1,1 @@
+paper is dedicated to the proposition that, in order to take full advantage for real-time computations of highly parallel computers as can be expected to be available in the near 

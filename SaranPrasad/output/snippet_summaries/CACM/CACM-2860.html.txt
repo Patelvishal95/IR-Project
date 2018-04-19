@@ -1,0 +1,1 @@
+A Practitioner's Guide To Addressing Algorithms This paper consolidates a number of popular rules of thumb which have been suggested for the design of record addressing algorithms, and discusses the 

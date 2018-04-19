@@ -1,0 +1,1 @@
+for Solving a Special Class of Tridiagonal Systems of Linear Equations An algorithm is presented for solving a system of linear equation Bu=k where B is tridiagonal and of a 

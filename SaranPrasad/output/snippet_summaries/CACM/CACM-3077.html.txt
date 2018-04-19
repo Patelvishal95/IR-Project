@@ -1,0 +1,1 @@
+Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs Conventional programming languages are growing ever more enormous, but not stronger. Inherent defects 

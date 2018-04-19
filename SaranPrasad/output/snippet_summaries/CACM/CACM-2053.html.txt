@@ -1,0 +1,1 @@
+On the Conversion of Decision Tables to Computer Programs The use of execution time diagnostics in pinpointing ambiguities in decision tables is discussed. It is pointed out that any attempt 

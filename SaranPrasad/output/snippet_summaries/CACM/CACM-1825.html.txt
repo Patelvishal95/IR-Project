@@ -1,0 +1,1 @@
+A Practical Method for Constructing LR(k) Processors A practical method for constructing LR(k) processors is developed. These processors are capable of recognizing and parsing an input during a single no-backup 

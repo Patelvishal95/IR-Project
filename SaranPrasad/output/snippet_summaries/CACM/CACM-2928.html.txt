@@ -1,0 +1,1 @@
+Hardware Estimation of a Process' Primary Memory Requirements A minor hardware extension to the Honeywell 6180 processor is demonstrated to allow the primary memory requirements of a process in Multics 

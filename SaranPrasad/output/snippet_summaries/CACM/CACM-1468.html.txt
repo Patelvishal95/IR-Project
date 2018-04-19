@@ -1,0 +1,1 @@
+Syntax-Directed Interpretation of Classes of Pictures A descriptive scheme for classes of pictures based on labeling techniques using parallel processing algorithms was proposed by the author some years ago. Since 

@@ -1,0 +1,1 @@
+Autosate An automated data system analysis technique is described. The technique is designed to alleviate some of the principal problems that beset current analysis-large data workloads, long span of time 

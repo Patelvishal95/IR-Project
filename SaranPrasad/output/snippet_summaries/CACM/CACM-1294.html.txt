@@ -1,0 +1,1 @@
+Note on Triple-Precision Floating-Point Arithmetic with 132-Bit Numbers In a recent paper, Gregory and Raney described a technique for double-precision floating-point arithmetic. A similar technique can be developed for triple-precision 

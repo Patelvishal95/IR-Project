@@ -1,0 +1,1 @@
+Ethernet: Distributed Packet Switching for Local Computer Networks Ethernet is a branching broadcast communication system for carrying digital data packets among locally distributed computing stations. The packet transport mechanism provided 

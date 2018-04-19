@@ -1,0 +1,1 @@
+and algorithms for masking the rotational latency of a disk or drum. It discusses the anticipatory input and output of blocks of data to buffer and primary memories for a 

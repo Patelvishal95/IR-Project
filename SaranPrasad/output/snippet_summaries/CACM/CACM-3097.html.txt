@@ -1,0 +1,1 @@
+Optimal Shift Strategy for a Block-Transfer CCD Memory For the purposes of this paper, a block-transfer CCD memory is composed of serial shift registers whose shift rate can vary, but 

@@ -1,0 +1,1 @@
+in a Family of Operating Systems This paper describes the design philosophy used in the construction of a family of operating systems. It is shown that the concepts of module 

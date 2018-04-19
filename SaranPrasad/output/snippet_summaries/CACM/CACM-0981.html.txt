@@ -1,0 +1,1 @@
+A common requirement in commercial data processing is that the sum of a set of numbers, rounded in a generally understood manner, be equal to the sum of the numbers 

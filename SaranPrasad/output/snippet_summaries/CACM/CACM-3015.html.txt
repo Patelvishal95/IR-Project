@@ -1,0 +1,1 @@
+Relaxation Methods for Image Reconstruction The problem of recovering an image (a function of two variables) from experimentally available integrals of its grayness over thin strips is of great importance 

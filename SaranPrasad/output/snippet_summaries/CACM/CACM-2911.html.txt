@@ -1,0 +1,1 @@
+Anomalous Behavior of the Fifty-Percent Rule in Dynamic Memory Allocation This paper reports simulation data showing that, in dynamic memory allocation, the average free-to-allocated-block ratio can differ considerably and in 

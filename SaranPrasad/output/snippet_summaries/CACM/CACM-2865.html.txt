@@ -1,0 +1,1 @@
+Verifying Properties of Parallel Programs: An Axiomatic Approach An axiomatic method for proving a number of properties of parallel programs is presented. Hoare has given a set of axioms for 

@@ -1,0 +1,1 @@
+On the Numerical Solution of an N-Point Boundary Value Problem for Linear Ordinary Differential Equations A method for the numerical solution of then-point boundary value problem for homogeneous linear ordinary 

@@ -1,0 +1,1 @@
+GAN, a System for Generating and Analyzing Activity Networks GAN, a system for generating activity networks, is designed to save time in the preparation of activity networks and to deal 

@@ -1,0 +1,1 @@
+Transition Network Grammars for Natural Language Analysis The use of augmented transition network grammars for the analysis of natural language sentences is described. Structure-building actions associated with the arcs of 

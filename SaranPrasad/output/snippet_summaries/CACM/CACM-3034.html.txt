@@ -1,0 +1,1 @@
+in Decision Table Programs In this paper an algorithm to detect logical errors in a limited-entry decision table and in loop-free programs with embedded decision tables is developed. All the 

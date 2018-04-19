@@ -1,0 +1,1 @@
+and Trees A description is given of how a tree representing the evaluation of an arithmetic expression can be drawn in such a way that the number of accumulators needed 

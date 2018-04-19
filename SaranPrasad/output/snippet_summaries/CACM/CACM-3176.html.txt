@@ -1,0 +1,1 @@
+Storing a Sparse Table The problem of storing and searching large sparse tables is ubiquitous in computer science. The standard technique for storing such tables is hashing, but hashing has 

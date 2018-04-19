@@ -1,0 +1,1 @@
+A String Language for Symbol Manipulation Based on ALGOL 60 An artificial computer programming language is proposed for describing the manipulation of strings of characters and symbols. The concept of 

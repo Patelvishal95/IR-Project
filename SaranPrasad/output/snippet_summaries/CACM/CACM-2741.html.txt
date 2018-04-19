@@ -1,0 +1,1 @@
+step-by-step approach to model the dynamic behavior and evaluate the performance of computing systems is proposed. It is based on a technique of variable aggregation and the concept of nearly 

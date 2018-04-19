@@ -1,0 +1,1 @@
+Practical Error Coefficients for Estimating Quadrature Errors for Analytic Functions All published error coefficients for estimating quadrature errors for analytic functions were computed on the assumption that the quadrature rule 

@@ -1,0 +1,1 @@
+Deterministic Parsing of Ambiguous Grammars Methods of describing the syntax of programming languages in ways that are more flexible and natural than conventional BNF descriptions are considered. These methods involve 

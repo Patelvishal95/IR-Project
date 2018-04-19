@@ -1,0 +1,1 @@
+That the pattern feature "width as a function of angle" possesses several possible interpretations is demonstrated in this paper, which is a review of the width concept in pattern recognition 

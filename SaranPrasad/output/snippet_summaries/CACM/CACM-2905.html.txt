@@ -1,0 +1,1 @@
+Perfect Hashing Functions: A Single Probe Retrieving Method for Static Sets A refinement of hashing which allows retrieval of an item in a static table with a single probe is 

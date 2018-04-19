@@ -1,0 +1,1 @@
+using the raster display (BRAD) recently developed at Brookhaven. The system uses a rotating refresh memory to feed standard television monitors. To produce a stereographic display the computer calculates the 

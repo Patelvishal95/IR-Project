@@ -1,0 +1,1 @@
+Emulation of Large Systems The conversion problem and a new technique called emulation are discussed. The technique of emulation is developed and includes sections on both the Central Processing Unit 

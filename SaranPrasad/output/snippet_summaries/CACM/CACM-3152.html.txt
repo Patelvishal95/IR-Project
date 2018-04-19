@@ -1,0 +1,1 @@
+Storage Reorganization Techniques for Matrix Computation in a Paging Environment In order to multiply matrices while minimizing the number of page fetches required, it is often more efficient to reorganize 

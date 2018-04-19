@@ -1,0 +1,1 @@
+A Recurrence Scheme for Converting from One Orthogonal Expansion into Another A generalization of a scheme of Hamming for converting a polynomial Pn(x) into a Chebyshev series is combined with 

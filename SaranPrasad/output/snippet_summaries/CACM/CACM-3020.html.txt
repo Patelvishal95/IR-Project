@@ -1,0 +1,1 @@
+Systematic Recursion Removal The recursion removal algorithm presented by Strong and Walker is amplified and applied to a relatively complex PL/I program. The aim is to demonstrate systematic recursion-removal techniques 

@@ -1,0 +1,1 @@
+Search Trees The problem of selecting data items from a binary search tree according to a list of range conditions is considered. The process of visiting a minimal number of 

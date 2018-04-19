@@ -1,0 +1,1 @@
+On Quadratic Adaptive Routing Algorithms Two analytic models of a store-and-forward communications network are constructed, one to find the optimal message routing and the other to illustrate the equilibrium (stationary 

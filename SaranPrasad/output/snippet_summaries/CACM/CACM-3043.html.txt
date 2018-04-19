@@ -1,0 +1,1 @@
+Distributed Processes: A Concurrent Programming Concept A language concept for concurrent processes without common variables is introduced. These processes communicate and synchronize by means of procedure calls and guarded regions. 

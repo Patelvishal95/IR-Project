@@ -1,0 +1,1 @@
+A Method for Overlapping and Erasure of Lists An important property of the Newell-Shaw-Simon scheme for computer storage of lists is that data having multiple occurrences need not be stored 

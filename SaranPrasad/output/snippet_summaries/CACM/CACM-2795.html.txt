@@ -1,0 +1,1 @@
+Sentence Paraphrasing from a Conceptual Base A model of natural language based on an underlying language-free representation of meaning is described. A program based on this model is able to 

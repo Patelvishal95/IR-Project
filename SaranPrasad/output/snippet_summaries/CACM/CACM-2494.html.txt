@@ -1,0 +1,1 @@
+hierarchical scheme of cluster analysis, is described and illustrated. The graphic principle used is the representation of the elements of a data matrix of similarities or dissimilarities by computer printed 

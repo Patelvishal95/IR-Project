@@ -1,0 +1,1 @@
+The Development of Decision Tables via Parsing of Complex Decision Situations A new parsing technique is proposed which allows parsing based only on syntactical characteristics of the decision problem. It 

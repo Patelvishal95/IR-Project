@@ -1,0 +1,1 @@
+sum of seek time plus data-transfer time, is minimized for a sort using mass storage. The analysis is parameterized in terms of the ratio of seek time to the time 

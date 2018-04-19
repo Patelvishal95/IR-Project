@@ -1,0 +1,1 @@
+new 48-bit pseudo-random number generator, suitable for several computers, was tested statistically for randomness to determine its adequacy for use in Monte Carlo programs. Frequency tests, distributions of certain low-order 

@@ -1,0 +1,1 @@
+Methods of Evaluating Polynomial Approximations in Function Evaluation Routines The method of nested multiplication is commonly used in function evaluation routines to evaluate approximation polynomials. New polynomial evaluation methods have 

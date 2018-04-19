@@ -1,0 +1,1 @@
+display system investment of $50, 000 each display, with teletype, costs less than $3, 000. The technique employed is that of programmatically generating a binary image of the desired display 

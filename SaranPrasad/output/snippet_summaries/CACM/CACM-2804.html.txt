@@ -1,0 +1,1 @@
+Elementary Divisors of Tensor Products The elementary divisors of a tensor product of linear transformations have been known for 40 years. This paper provides a short, easily accessible proof of 

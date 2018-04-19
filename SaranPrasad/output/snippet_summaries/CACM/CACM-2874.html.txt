@@ -1,0 +1,1 @@
+Evaluation of Versions of BASIC From its inception, The BASIC language has grown in terms of its usage, scope of usage, and its features. This article compares ten of the 

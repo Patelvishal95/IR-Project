@@ -1,0 +1,1 @@
+Microprogramming, Emulators and Programming Languages The problem we have been concerned with is that of converting language to action - or intellectual energy to mechanical energy. The medium that we 

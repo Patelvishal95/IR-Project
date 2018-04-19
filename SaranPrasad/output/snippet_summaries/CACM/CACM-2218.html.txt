@@ -1,0 +1,1 @@
+Time-Sharing Techniques The effectiveness of certain time-sharing techniques such as program, relocation, disk rotational delay minimization, and swap volume minimization is investigated. Summary data is presented, and the findings are 

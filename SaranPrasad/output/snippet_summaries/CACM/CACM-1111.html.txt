@@ -1,0 +1,1 @@
+of Iterative Techniques For the Factorization of Polynomials* A method of iteration is developed in terms of a function of somewhat arbitrary character. Sufficient conditions are given for convergence of 

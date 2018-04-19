@@ -1,0 +1,1 @@
+Natural Language Question-Answering Systems: 1969 Recent experiments in programming natural language question-answering systems are reviewed to summarize the methods that have been developed for syntactic, semantic, and logical analysis of 

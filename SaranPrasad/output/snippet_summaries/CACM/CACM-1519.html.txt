@@ -1,0 +1,1 @@
+Time Sharing and Operating System An Operating System is described which will run on a wide variety of configurations of the I. 1900, and can handle a large number of 

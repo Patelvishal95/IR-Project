@@ -1,0 +1,1 @@
+The Use of Normal Multiplication Tables for Information Storage and Retrieval This paper describes a method for the organization and retrieval of attribute based information systems, using the normal multiplication 

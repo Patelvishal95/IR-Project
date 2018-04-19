@@ -1,0 +1,1 @@
+An Algorithm for Generating Root Locus Diagrams A technique for using a digital computer to draw both ordinary and time-lag root locus diagrams is described. Ordinary diagrams are drawn much 

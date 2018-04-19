@@ -1,0 +1,1 @@
+Graphical Input/Output of Nonstandard Characters A system developed at Harvard for graphically inputting and outputting nonstandard characters on a computer is printed. In principle, the system can deal with any 

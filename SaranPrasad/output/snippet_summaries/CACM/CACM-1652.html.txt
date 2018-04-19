@@ -1,0 +1,1 @@
+designed to simplify the internal information processing operations within an online computer system with respect to non-numeric applications, and to maximize the transfer rate of the information channel linking the 

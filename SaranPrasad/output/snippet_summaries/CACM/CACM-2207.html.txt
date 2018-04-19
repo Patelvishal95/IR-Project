@@ -1,0 +1,1 @@
+The Automatic Integration of Ordinary Differential Equations An integration technique for the automatic solution of an initial value problem for a set of ordinary differential equations is described. A criterion 

@@ -1,0 +1,1 @@
+of special readout circuits which indicate the digit values present in the individual digit columns of the memory. Thus the circuits indicate whether the individual digit columns contain digits of 

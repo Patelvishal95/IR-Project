@@ -1,0 +1,1 @@
+A Record and File Partitioning Model One of the main objectives in the design of a file system is the reduction of storage and data transfer costs. This paper presents 

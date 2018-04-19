@@ -1,0 +1,1 @@
+Multiprogramming STRETCH: Feasibility Considerations The tendency towards increased parallelism in computers is noted. Exploitation of this parallelism presents a number of new problems in machine design and in programming systems. 

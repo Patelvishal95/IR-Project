@@ -1,0 +1,1 @@
+Experiments with the M & N Tree-Searching Program The M & N procedure is an improvement to the mini-max backing-up procedure widely used in computer program for game-playing and other 

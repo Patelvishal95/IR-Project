@@ -1,0 +1,1 @@
+Double-Precision Squares Root for The CDC-3600 In January of 1960, the late Hans J. Maehly completed a summary of approximations to the elementary functions for the CDC-1604 computer. The approximations 

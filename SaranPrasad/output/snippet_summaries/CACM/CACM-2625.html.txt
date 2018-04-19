@@ -1,0 +1,1 @@
+These inadequacies are traced to the lack of an efficient absolute address for objects in these systems. The direct use of a capability as an address is shown to overcome 

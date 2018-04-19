@@ -1,0 +1,1 @@
+Validation A data abstraction can be naturally specified using algebraic axioms. The virtue of these axioms is that they permit a representation-independent formal specification of a data type. An example 

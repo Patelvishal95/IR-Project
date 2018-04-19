@@ -1,0 +1,1 @@
+8-digit Accuracy From the inequality 10^8 < 2^27, we are likely to conclude that we can represent 8-digit decimal floating-point numbers accurately by 27-bit floating-point numbers. However, we need 28 

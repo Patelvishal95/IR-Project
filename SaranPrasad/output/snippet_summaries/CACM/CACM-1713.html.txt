@@ -1,0 +1,1 @@
+On Overcoming High-Priority Paralysis in Multiprogramming Systems: A Case His tory High-priority paralysis is the degradation that can occur in multiprogramming systems when scheduling is based primarily on preassigned priorities. 

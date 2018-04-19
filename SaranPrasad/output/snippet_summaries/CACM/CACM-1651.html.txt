@@ -1,0 +1,1 @@
+An Interpretive Input Routine for Linear Programming In this descriptive article an input code is presented which greatly simplifies data input to any linear programming solution routine, for subsequent use 

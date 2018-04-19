@@ -1,0 +1,1 @@
+Computer Networks An optimization procedure for the allocation of program and data files in a computer network is presented. This algorithm takes into account the dependencies between files and programs 

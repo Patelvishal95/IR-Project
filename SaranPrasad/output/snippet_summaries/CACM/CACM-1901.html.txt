@@ -1,0 +1,1 @@
+formalization of relationships between space-shading program behavior, and processor efficiency in computer systems is presented. Concepts of value and cost of space allocation per task are defined and then value 

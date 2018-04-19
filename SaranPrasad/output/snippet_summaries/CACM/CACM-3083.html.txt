@@ -1,0 +1,1 @@
+Pseudochaining in Hash Tables This paper presents pseudochaining as a new collision-resolution method. Pseudochaining is half way between open addressing and chaining. It owes its name to the fact that 

@@ -1,0 +1,1 @@
+All Zeros of a Polynomial with Only Real Zeros An algorithm is described based on Newton's method which simultaneously approximates all zeros of a polynomial with only real zeros. The 

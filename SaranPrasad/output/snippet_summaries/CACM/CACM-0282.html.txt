@@ -1,0 +1,1 @@
+after writing. Where an error occurs in writing a record, a programmed error routine may either bypass some or all of the area on tape or try to rewrite the 

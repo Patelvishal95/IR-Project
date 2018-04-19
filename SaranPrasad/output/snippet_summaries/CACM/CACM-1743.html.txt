@@ -1,0 +1,1 @@
+Reliable Full-Duplex file Transmission over Half-Duplex Telephone Lines A field-proven scheme for achieving reliable duplex transmission over a half-duplex communication line is presented, and to demonstrate the difficulty of the 

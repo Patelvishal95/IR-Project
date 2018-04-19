@@ -1,0 +1,1 @@
+A Comparison of List Schedules for Parallel Processing Systems The problem of scheduling two or more processors to minimize the execution time of a program which consists of a set 

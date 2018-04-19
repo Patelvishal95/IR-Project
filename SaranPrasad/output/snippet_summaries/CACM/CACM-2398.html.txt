@@ -1,0 +1,1 @@
+Teacher/Student Authored CAI Using the NEWBASIC System The pedagogical advantages of a general purpose interactive system called NEWBASIC/CATALYST are discussed. NEWBASIC/CATALYSTincorporates an advanced implementation of BASIC, system-level interactive features, and 

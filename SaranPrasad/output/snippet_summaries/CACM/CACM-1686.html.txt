@@ -1,0 +1,1 @@
+Display Optical and digital holography are reviewed. The mathematical model and computational techniques of the authors' digital holographic process are discussed, and applications of computer holography are suggested. Computer holograms 

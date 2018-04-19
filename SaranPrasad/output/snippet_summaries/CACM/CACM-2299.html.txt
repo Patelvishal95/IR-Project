@@ -1,0 +1,1 @@
+a Small Machine with Disk Storage A design philosophy for developing a sophisticated utility program is illustrated by the actual design and implementation of a text editor. A versatile data 

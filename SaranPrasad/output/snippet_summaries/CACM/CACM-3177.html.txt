@@ -1,0 +1,1 @@
+How to Share a Secret In this paper we show how to divide data D into n pieces in such a way that D is easily reconstructable from any k 

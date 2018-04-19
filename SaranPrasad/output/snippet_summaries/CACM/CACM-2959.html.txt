@@ -1,0 +1,1 @@
+The System for Business Automation (SBA): Programming Language The system for business automation (SBA) is a system within which application experts-nonprogrammers-can describe and execute their applications on a computer. The 

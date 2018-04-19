@@ -1,0 +1,1 @@
+Digital Simulation of Discrete Flow Systems* The discrete flow systems discussed are characterized by the movement of randomly arriving items along interacting channels. Programing a digital computer to simulate such 

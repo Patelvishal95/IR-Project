@@ -1,0 +1,1 @@
+Some Theorems to Aid in Solving the File Allocation Problem The file allocation problem-i.e. the problem of finding the optimal set of network sites at which to locate copies of 

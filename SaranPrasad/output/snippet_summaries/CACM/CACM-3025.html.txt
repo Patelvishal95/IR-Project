@@ -1,0 +1,1 @@
+The Evolution of the DEC system 10 The DEC system 10, also known as the PDP-10, evolved from the PDP-6 (circa 1963) over five generations of implementations to presently include 

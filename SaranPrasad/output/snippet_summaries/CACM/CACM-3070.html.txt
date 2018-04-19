@@ -1,0 +1,1 @@
+Hybrid Simulation Models of Computer Systems This paper describes the structure and operation of a hybrid simulation model in which both discrete-event simulation and analytic techniques are combined to produce 

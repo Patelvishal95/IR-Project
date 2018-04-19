@@ -1,0 +1,1 @@
+CONVERT: A High Level Translation Definition Language for Data Conversion This paper describes a high level and nonprocedural translation definition language, CONVERT, which provides very powerful and highly flexible data 

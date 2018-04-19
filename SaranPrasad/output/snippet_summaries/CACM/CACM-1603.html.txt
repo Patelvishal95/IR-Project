@@ -1,0 +1,1 @@
+A Multiprogramming Monitor for Small Machines INT, a combination hardware/software monitor designed to control a wide variety of real-time input/output devices, is described. The simple hardware additions provide a uniform 

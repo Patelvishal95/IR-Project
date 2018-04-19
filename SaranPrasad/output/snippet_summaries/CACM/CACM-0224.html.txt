@@ -1,0 +1,1 @@
+Sequential Formula Translation The syntax of an algorithmic language such as ALGOL is conveniently described as a sequence of states indicated by an element called cellar. Transitions are controlled by 

@@ -1,0 +1,1 @@
+Notes on Recursion Elimination Various methods of recursion elimination are applied to the schematic recursive procedure: proc S(x); px then N(x); S(fx); S(gx); M(x) fi. Procedures with this general form 

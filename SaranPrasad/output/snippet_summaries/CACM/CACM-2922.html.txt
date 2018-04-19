@@ -1,0 +1,1 @@
+Two-Level Control Structure for Nondeterministic Programming The basic ideas of nondeterministic programming are critically reconsidered to single out a proper attitude and programming style for language allowing direct control of 

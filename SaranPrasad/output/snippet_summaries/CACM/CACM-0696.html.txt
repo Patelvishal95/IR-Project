@@ -1,0 +1,1 @@
+An Automatic Data Acquisition and Inquiry System Using Disk Files Lockheed Missiles and Space Company has installed a large-scale Automatic Data Acquisition (ADA) system which ties together the Company's manufacturing 

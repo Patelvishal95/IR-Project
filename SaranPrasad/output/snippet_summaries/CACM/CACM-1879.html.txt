@@ -1,0 +1,1 @@
+A Note on Storage Fragmentation and Program Segmentation The main purpose of this paper is the presentation of some of the results of a series of simulation experiments investigating the 

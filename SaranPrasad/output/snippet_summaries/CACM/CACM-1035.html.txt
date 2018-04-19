@@ -1,0 +1,1 @@
+Characteristics of the FORTRAN CEP Language The FORTRAN CEP languages differs from FORTRAN II mainly because: (1) it extends the variety of the modes for real quantities; (2) it allows 

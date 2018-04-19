@@ -1,0 +1,1 @@
+A Bounded Storage Algorithm for Copying Cyclic Structures A new algorithm is presented which copies cyclic list structures using bounded workspace and linear time. Unlike a previous similar algorithm, this 

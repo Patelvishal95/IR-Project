@@ -1,0 +1,1 @@
+Computer Representation of Planar Regions by Their Skeletons Any region can be regarded as a union of maximal neighborhoods of its points, and can be specified by the centers and 

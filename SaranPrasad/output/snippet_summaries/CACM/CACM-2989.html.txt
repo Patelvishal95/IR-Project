@@ -1,0 +1,1 @@
+of Instruction Set Processor Architectures This paper presents methods for empirical evaluation of features of Instruction Set Processors (ISPs). ISP features are evaluated in terms of the time used or 

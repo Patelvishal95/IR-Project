@@ -1,0 +1,1 @@
+Variable-Precision Exponentiation A previous paper presented an efficient algorithm, called the Recomputation Algorithm, for evaluating a rational expression to within any desired tolerance on a computer which performs variable-precision arithmetic 

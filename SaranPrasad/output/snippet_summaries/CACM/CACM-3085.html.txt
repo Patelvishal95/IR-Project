@@ -1,0 +1,1 @@
+Order of Matrix Chain Products This paper discusses the computation of matrix chain products of the form M1 x M2 x ... x Mn where Mi's are matrices. The order 

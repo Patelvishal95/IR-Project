@@ -1,0 +1,1 @@
+A Rapid Method for Digital Filtering Since much of the computer time spent in time-series analysis is used for multiplications, a minimum multiplication method was devised for digital filtering, with 

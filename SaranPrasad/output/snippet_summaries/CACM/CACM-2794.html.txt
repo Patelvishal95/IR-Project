@@ -1,0 +1,1 @@
+State-Space, Problem-Reduction, and Theorem Proving-Some Relationships This paper suggests a bidirectional relationship between state-space and problem-reduction representations. It presents a formalism based on multiple-input and multiple-output operators which provides a 

@@ -1,0 +1,1 @@
+Display for Region Partitioning by Linear Programming Using linear programming, an interactive graphic display system has been implemented to solve the region design problem of partitioning a region into N 

@@ -1,0 +1,1 @@
+Hierarchical Storage in Information Retrieval A probabilistic analysis is employed to determine the effect of hierarchical storage organizations on information retrieval operations. The data storage hardware is assumed to consist 

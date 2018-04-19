@@ -1,0 +1,1 @@
+Toward Automatic Program Synthesis An elementary outline of the theorem-proving approach to automatic program synthesis is given, without dwelling on technical details. The method is illustrated by the automatic construction 

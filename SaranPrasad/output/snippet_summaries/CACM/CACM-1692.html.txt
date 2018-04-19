@@ -1,0 +1,1 @@
+Numerical Solution of a Thin Plate Heat Transfer Problem The numerical solution of a system of linear equations resulting from a discrete approximation to a thin plate heat transfer problem 

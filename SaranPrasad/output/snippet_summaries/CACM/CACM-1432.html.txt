@@ -1,0 +1,1 @@
+Incorporation of Nonstandard Input/Output Devices into FORTRAN Systems A FORTRAN system may readily be modified to handle input/output with nonstandard media on the same basis on which it handles the 

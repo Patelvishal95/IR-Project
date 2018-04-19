@@ -1,0 +1,1 @@
+Horner's Rule for the Evaluation of General Closed Queueing Networks The solution of separable closed queueing networks requires the evaluation of homogeneous multinomial expressions. The number of terms in those 

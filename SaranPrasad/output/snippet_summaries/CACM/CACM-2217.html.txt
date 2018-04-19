@@ -1,0 +1,1 @@
+Experiments in Automatic Learning for a Multipurpose Heuristic Program An automatic learning capability has been developed and implemented for use with the MULTIPLE (MULTIpurpose Program that LEarns) heuristic tree-searching program, 

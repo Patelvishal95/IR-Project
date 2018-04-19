@@ -1,0 +1,1 @@
+Computing Approximations to the Exponential Function Two methods are discussed which result in near minimax rational approximations to the exponential function and at the same time retain the desirable property 

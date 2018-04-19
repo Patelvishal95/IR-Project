@@ -1,0 +1,1 @@
+An Improvement to Iterative Methods of Polynomial Factorization Methods of polynomial factorization which find the zeros one at a time require the division of the polynomial by the accepted factor. 

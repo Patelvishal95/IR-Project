@@ -1,0 +1,1 @@
+is given of an algorithm for producing computer generated half-tone presentations of three-dimensional polygonal surface structures. This algorithm achieves a significant increase in speed of computation over the Warnock algorithm 

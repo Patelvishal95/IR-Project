@@ -1,0 +1,1 @@
+Numerical Integration of Function That Has a Pole It is common to need to integrate numerically functions that diverge somewhere outside the range of integration. Even if the divergence occurs 

@@ -1,0 +1,1 @@
+A Grammar Base Question Answering Procedure The subject of this paper is a procedure for the automatic retrieval of certain segments of stored information, either explicitly or implicitly represented, through 

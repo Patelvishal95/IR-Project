@@ -1,0 +1,1 @@
+A technique is presented to reduce the enumeration required by a known procedure for optimal index register allocation in straight-line programs. This technique is based on the construction of a 

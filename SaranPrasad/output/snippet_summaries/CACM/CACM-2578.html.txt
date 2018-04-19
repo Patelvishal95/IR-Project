@@ -1,0 +1,1 @@
+Self-stabilizing Systems in Spite of Distributed Control CACM November, 1974 Dijkstra, E. W. multiprocessing, networks, self-stabilization, synchronization, mutual exclusion, robustness, sharing, error recovery, distributed control, harmonious cooperation, self-repair 4.32 CA741106 

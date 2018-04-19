@@ -1,0 +1,1 @@
+describes two operators that respond to step edges, but not to ramps. The first is similar to the digital Laplacian, but uses the max, rather than the sum, of the 

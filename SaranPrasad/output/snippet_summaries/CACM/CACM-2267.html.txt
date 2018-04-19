@@ -1,0 +1,1 @@
+Algorithms To Reveal Properties of Floating-Point Arithmetic Two algorithms are presented in the form of Fortran subroutines. Each subroutine computes the radix and number of digits of the floating-point numbers 

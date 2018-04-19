@@ -1,0 +1,1 @@
+automatic layout of a computer. Given an ordered set E1, E2, ..., EN of N computer components, for each permutation of the elements E1, E2.., EN, there is attached a 

@@ -1,0 +1,1 @@
+Reflections on an Operating System Design The main features of a general purpose multiaccess operating system developed for the CDC 6400 at Berkeley are presented, and its good and bad 

@@ -1,0 +1,1 @@
+Compression A system for the compression of data files, viewed as strings of characters, is presented. The method is general, and applies equally well to English, to PL/I, or to 

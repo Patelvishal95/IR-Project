@@ -1,0 +1,1 @@
+Reducing Truncation Errors Using Cascading Accumulators When accumulating a large number of quantities as in numerical integration, the sum itself may become much larger than the individual addends. This results 

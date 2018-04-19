@@ -1,0 +1,1 @@
+-- A Survey A survey of machines which are more powerful than finite automata and less powerful than general Turing machines is presented. It is felt that the machines in 

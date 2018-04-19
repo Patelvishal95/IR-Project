@@ -1,0 +1,1 @@
+A Fortran Technique for Simplifying Input to Report Generators Typical report generators allow the production of standard forms when tabulating a magnetic tape file; the extraction of nonstandard sets of 

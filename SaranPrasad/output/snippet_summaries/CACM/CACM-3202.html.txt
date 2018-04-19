@@ -1,0 +1,1 @@
+MANIP: A Computer System for Algebra and Analytic Differentiation A mathematical expression to be operated upon is written in FORTRAN-like notation and stored in the computer as a string of 

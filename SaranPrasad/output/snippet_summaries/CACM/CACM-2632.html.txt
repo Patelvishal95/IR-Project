@@ -1,0 +1,1 @@
+describes the design philosophy of HYDRA-the kernel of an operating system for C.mmp, the Carnegie-Mellon Multi-Mini-Processor. This philosophy is realized through the introduction of a generalized notion of "resource", both 

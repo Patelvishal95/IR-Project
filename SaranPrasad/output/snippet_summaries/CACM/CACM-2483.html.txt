@@ -1,0 +1,1 @@
+COKO III: The Cooper-Koz Chess Program COKO III is a chess player written entirely in Fortran. On the IBM 360-65, COKO III plays a minimal chess game at the rate 

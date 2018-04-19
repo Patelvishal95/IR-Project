@@ -1,0 +1,1 @@
+The Spectra 70/45 Emulator for the RCA 301 The RCA 301 Emulator System is supplied with the Spectra 70/45 as a reprogramming aid. It allows an RCA 301 object program 

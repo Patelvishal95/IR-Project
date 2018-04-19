@@ -1,0 +1,1 @@
+Procedure for the Generation of Closed Subsets An efficient algorithm is described for generating subsets of a set S which satisfy constraints of the form: "If s(i) is a member 

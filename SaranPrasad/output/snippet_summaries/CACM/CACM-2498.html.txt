@@ -1,0 +1,1 @@
+in Partitioned Segmentation A paged virtual memory system using a finite number of page sizes is considered. Two algorithms for assigning pages to segments are discussed. Both of these algorithm 

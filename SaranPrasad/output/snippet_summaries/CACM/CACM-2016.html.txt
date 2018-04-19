@@ -1,0 +1,1 @@
+The Instrumentation of Multics An array of measuring tools devised to aid in the implementation of a prototype computer utility is discussed. These tools include special hardware clocks and data 

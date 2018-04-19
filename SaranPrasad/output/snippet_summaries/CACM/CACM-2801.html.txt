@@ -1,0 +1,1 @@
+Storage-Efficient Representation of Decimal Data Usually n decimal digits are represented by 4n bits in computers. Actually, two BCD digits can be compressed optimally and reversibly into 7 bits, and 

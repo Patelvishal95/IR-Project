@@ -1,0 +1,1 @@
+language admitting subscripts, superscripts and certain forms of displayed formulas. The basic implementation of this language was described in a previous paper [MADCAP: A scientific compiler for a displayed formula 

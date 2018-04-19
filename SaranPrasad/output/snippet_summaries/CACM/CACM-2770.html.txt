@@ -1,0 +1,1 @@
+The Quadratic Hash Method When the Table Size Is Not a Prime Number Previous work on quadratic hash methods is limited mainly to the case where the table size is 

@@ -1,0 +1,1 @@
+The Logarithmic Error and Newton's Method for the Square Root The problem of obtaining optimal starting values for the calculation of the square root using Newton's method is considered. It 

@@ -1,0 +1,1 @@
+problem, in case A and B are symmetric band matrices with B positive definite. If n is the order of the matrix and m the bandwidth, the matrices A and 

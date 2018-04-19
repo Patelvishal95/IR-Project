@@ -1,0 +1,1 @@
+Coding Isomorphisms The coding of external symbols into symbols internal to a compute can sometimes be carried out in such a way that relevant informational properties are preserved, but in 

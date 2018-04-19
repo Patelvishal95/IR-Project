@@ -1,0 +1,1 @@
+Stepwise Refinement The creative activity of programming-to be distinguished from coding-is usually taught by examples serving to exhibit certain techniques. It is here considered as a sequence of design decisions 

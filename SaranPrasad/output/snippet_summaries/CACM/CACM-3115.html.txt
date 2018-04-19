@@ -1,0 +1,1 @@
+Orderly Enumeration of Nonsingular Binary Matrices Applied to Text Encryption Nonsingular binary matrices of order N, i.e., nonsingular over the field {0, 1}, and an initial segment of the natural 

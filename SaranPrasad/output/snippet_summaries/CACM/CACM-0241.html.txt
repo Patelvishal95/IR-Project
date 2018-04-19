@@ -1,0 +1,1 @@
+Machine Calculation of Moments of a Probability Distribution A method is presented for the calculation on a machine of the moments of a probability distribution, necessitating little more than n 

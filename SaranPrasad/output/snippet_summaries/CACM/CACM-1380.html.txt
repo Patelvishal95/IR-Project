@@ -1,0 +1,1 @@
+SIMULA-an ALGOL-Based Simulation Language This paper is an introduction to SIMULA, a programming language designed to provide a systems analyst with unified concepts which facilitate the concise description of discrete 

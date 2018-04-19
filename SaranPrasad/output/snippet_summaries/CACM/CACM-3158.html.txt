@@ -1,0 +1,1 @@
+Secure Personal Computing in an Insecure Network A method for implementing secure personal computing in a network with one or more central facilities is proposed. The method employs a public-key 

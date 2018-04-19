@@ -1,0 +1,1 @@
+Generalized Working Sets for Segment Reference Strings The working-set concept is extended for programs that reference segments of different sizes. The generalized working-set policy (GWS) keeps as its resident set 

@@ -1,0 +1,1 @@
+formula used in the scheme requires a cosine transformation of the integrand values was shown. The high cost of these cosine transformations has been a serious drawback in using Clenshaw-Curtis 

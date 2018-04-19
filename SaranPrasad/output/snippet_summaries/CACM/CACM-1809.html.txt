@@ -1,0 +1,1 @@
+Numerical Analysis in a Ph. Computer Science Program Numerical Analysis is the study of methods and procedures used to obtain "approximate solutions" to mathematical problems. Much of the emphasis is 

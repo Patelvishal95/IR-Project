@@ -1,0 +1,1 @@
+A Simulation of Hospital Admission Policy A study is described which simulates different admission policies of a large specialized hospital. The objective is to determine better policies for stabilization of 

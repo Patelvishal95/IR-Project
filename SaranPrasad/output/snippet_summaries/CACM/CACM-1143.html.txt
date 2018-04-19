@@ -1,0 +1,1 @@
+study has been made of a variety of numerical techniques for fitting experimental data of the decay type by forms involving the sums of exponentials. Statistical errors of the fitted 

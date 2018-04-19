@@ -1,0 +1,1 @@
+System Structuring Concept This paper develops Brinch-Hansen's concept of a monitor as a method of structuring an operating system. It introduces a form of synchronization, describes a possible method of 

@@ -1,0 +1,1 @@
+Pitch Period Determination of Speech Sounds A computer procedure which determines pitch periods by the recognition of the peak structure of the speech waveform is described. Speech sounds were sampled 

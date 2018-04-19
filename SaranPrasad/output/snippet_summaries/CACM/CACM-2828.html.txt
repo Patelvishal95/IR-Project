@@ -1,0 +1,1 @@
+Hierarchical Geometric Models for Visible Surface Algorithms The geometric structure inherent in the definition of the shapes of three-dimensional objects and environments is used not just to define their relative 

@@ -1,0 +1,1 @@
+Computer Simulation-Discussion of the Technique and Comparison of Languages The purpose of this paper is to present a comparison of some computer simulation languages and of some of the involved 

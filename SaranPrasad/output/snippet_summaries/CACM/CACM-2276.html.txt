@@ -1,0 +1,1 @@
+Computer Methods for Sampling from the Exponential and Normal Distributions Various methods are known for transforming uniformly distributed random numbers into exponentially and normally distributed quantities. The most efficient ones 

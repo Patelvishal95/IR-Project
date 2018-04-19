@@ -1,0 +1,1 @@
+requirements, or implicit specifications. A command is an imperative statement that commands the action to be taken. A requirement describes the effect to be achieved without saying anything about the 

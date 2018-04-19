@@ -1,0 +1,1 @@
+A Linear Sieve Algorithm for Finding Prime Numbers A new algorithm is presented for finding all primes between 2 and n. The algorithm executes in time proportional to n (assuming 

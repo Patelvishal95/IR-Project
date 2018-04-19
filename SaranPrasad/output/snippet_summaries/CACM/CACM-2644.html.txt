@@ -1,0 +1,1 @@
+A Theorem-Proving Language for Experimentation Because of the large number of strategies and inference rules presently under consideration in automated theorem proving, there is a need for developing a language 

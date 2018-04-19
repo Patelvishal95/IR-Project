@@ -1,0 +1,1 @@
+Pagination of B*-Trees with Variable-Length Records A strategy is presented for pagination of B*-trees with variable-length records. If records of each length are uniformly distributed within the file, and if 

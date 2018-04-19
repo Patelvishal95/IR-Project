@@ -1,0 +1,1 @@
+Notation for Symbol Manipulation and Array Processing A brief account is given of a notational device that is very useful in the formal representation of syntaxes, string relationships and string 

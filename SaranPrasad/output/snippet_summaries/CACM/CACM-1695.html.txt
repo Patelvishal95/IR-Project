@@ -1,0 +1,1 @@
+and specify a neural network, to analyze the output data produced by the network, and to store and retrieve networks and data from a library. The system, operated entirely from 

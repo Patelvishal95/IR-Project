@@ -1,0 +1,1 @@
+Comparison of Several Adaptive Newton-Cotes Quadrature Routines in Evaluating Definite Integrals with Peaked Integrands This report compares the performance of five different adaptive quadrature schemes, based on Newton-Cotes (2N + 

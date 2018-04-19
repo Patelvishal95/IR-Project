@@ -1,0 +1,1 @@
+sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, parallel processors working synchronously. The paper presents an algorithm for merging A and B with the p parallel processors, which requires 

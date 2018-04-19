@@ -1,0 +1,1 @@
+Use of the Disk File on Stretch The paper begins by briefly describing the Stretch (IBM 7030) computer with special emphasis given to the organization and operation of its input-output 

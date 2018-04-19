@@ -1,0 +1,1 @@
+60 Programs The characteristics of the virtual memory requirements of a sample of Algol 60 programs have been measured. Distributions are presented for thesizes of memory requests and for their 

@@ -1,0 +1,1 @@
+a data collection satisfy a given query expressed in terms of data values. The process of locating the desired responses can be represented by a tree search model. This paper 

@@ -1,0 +1,1 @@
+a Stepping Aperture A computer program for routing interconnections on a two-sided printed circuit board with a regular pattern of lines, pins (terminals), and vias (feed-through holes) is described. In 

@@ -1,0 +1,1 @@
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol This paper provides data on Cobol error frequency for correction of errors in student-oriented compilers, improvement of teaching, and changes 

@@ -1,0 +1,1 @@
+method for processing and communicating numerical data is described. The Instrument Reliability Factors (IRF), which exactly define the limits of reliability of each measured item of information, are used to 

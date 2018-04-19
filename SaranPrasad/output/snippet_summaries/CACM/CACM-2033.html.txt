@@ -1,0 +1,1 @@
+the size of the hash area (space), the time required to identify a message as a nonmember of the given set (reject time), and an allowable error frequency. The new 

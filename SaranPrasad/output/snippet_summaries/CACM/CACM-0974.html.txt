@@ -1,0 +1,1 @@
+A Technique for Reading Gapless Tapes Makes Electrocardiograph Analysis Feasible on the IBM 7090 To study arrhythmias and higher frequency components of the electrocardiogram, long series of patient heart cycles 

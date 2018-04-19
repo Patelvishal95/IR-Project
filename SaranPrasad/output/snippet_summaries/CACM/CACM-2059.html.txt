@@ -1,0 +1,1 @@
+language for the representation of graph is described, and the formulation of graph operations such as node and/or link deletion or insertion, union, intersection, comparison, and traversal of graphs is 

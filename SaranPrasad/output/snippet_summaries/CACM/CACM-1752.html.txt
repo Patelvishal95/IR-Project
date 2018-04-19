@@ -1,0 +1,1 @@
+system Task scheduling and resource balancing for a medium size virtual memory paging machine are discussed in relation to a combined batch processing and time-sharing environment. A synopsis is given 

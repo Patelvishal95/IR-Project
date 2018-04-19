@@ -1,0 +1,1 @@
+Normalization Techniques for Hand printed Numerals Family of pattern standardization techniques based on geometrical projection is applied to a file of digitized hand printed numerals obtained from sales clerks. The 

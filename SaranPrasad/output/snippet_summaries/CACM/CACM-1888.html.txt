@@ -1,0 +1,1 @@
+Spline Function Methods for Nonlinear Boundary-Value Problems The solution of the nonlinear differential equation Y"=F(x, Y, Y') with two-point boundary conditions is approximated by a quintic or cubic spline function 

@@ -1,0 +1,1 @@
+A Program Data Flow Analysis Procedure The global data relationships in a program can be exposed and codified by the static analysis methods described in this paper. A procedure is 

@@ -1,0 +1,1 @@
+Various dispersion algorithms for the polyphase sorting procedure are examinedhe optimum algorithm based on minimizing the total number of unit strings read is displayed. The logic of this algorithm is 

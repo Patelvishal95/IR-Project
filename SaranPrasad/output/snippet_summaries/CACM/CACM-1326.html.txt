@@ -1,0 +1,1 @@
+Boundary Networks A feasible computer procedure is described for determining the total or partial inclusion of arbitrarily given points and lines with respect to a set of general polygonal domains 
