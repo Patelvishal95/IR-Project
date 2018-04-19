@@ -1,19 +1,21 @@
 package utilitySet;
 
 import java.io.File;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import ranker.LuceneIndexerAndSearch.RUN_TYPE;
 
 public class SnippetGenerator {
 
   private static int SLIDING_WINDOW_LENGTH = 30;
   private static String SNIPPET_SUMMARIES_PARENT_FOLDER = "./output/snippet_summaries/";
 
-  private void generateSnippetSummaries(String directoryPath) {
+  public void generateSnippetSummaries(String directoryPath) {
     File directory = new File(directoryPath);
     if (!directory.isDirectory()) {
       System.out.println("Given path does not correspond to a directory");
@@ -83,16 +85,70 @@ public class SnippetGenerator {
       }
     }
 
+    // if no significant words found, return the first window of words in the doc
+    int start = 0, end = 0;
     if (maxWindowId == -1)
-      return "";
-    else
-      return content.substring(maxWindowId * sd,
-          maxWindowId * sd + SLIDING_WINDOW_LENGTH);
+      end = Math.min(words.length, SLIDING_WINDOW_LENGTH);
+    else {
+      start = maxWindowId * sd;
+      end = Math.min(words.length, maxWindowId * sd + SLIDING_WINDOW_LENGTH);
+    }
+
+    // rebuild snippet with required limits
+    StringBuilder snippetText = new StringBuilder();
+    String[] origWords = content.split(" ");
+    for (int i = start; i < end; i++) {
+      String word = origWords[i];
+      snippetText.append(word + " ");
+    }
+
+    return snippetText.toString();
   }
 
-  private String getQueryHighlightedHTMLSnippet(String docID, List<String> querySet) {
+  /**
+   * Returns the snippet corresponding to the docID with the given query terms highlighted (if
+   * present)
+   * 
+   * @param docID
+   * @param runType
+   * @param querySet
+   * @return
+   */
+  public String getQueryHighlightedHTMLSnippet(String docID, RUN_TYPE runType,
+      List<String> querySet) {
+    String snippetFolderPath = SNIPPET_SUMMARIES_PARENT_FOLDER + "CACM/";
+    if (runType.equals(RUN_TYPE.CACM_STEMMED_CORPUS))
+      snippetFolderPath = SNIPPET_SUMMARIES_PARENT_FOLDER + "CACM_STEM/";
 
-    return null;
+    FileUtility fu = new FileUtility();
+    String fileContent = fu.textFileToString(snippetFolderPath + docID + ".txt");
+
+    String words[] = fileContent.split(" ");
+    for (String query : querySet) {
+      for (int i = 0; i < words.length; i++) {
+        String word = words[i];
+        if (augmentedWord(word).equals(augmentedWord(query)))
+          words[i] = "<b>" + words[i] + "</b>";
+      }
+    }
+
+    // rebuild snippet with highlighted query matches
+    StringBuilder htmlSnippet = new StringBuilder();
+    for (String word : words)
+      htmlSnippet.append(word + " ");
+
+    return htmlSnippet.toString();
+  }
+
+
+  /**
+   * case folds, cleans, removes punctuations in a string, making it suitable for comparison
+   * 
+   * @param word
+   * @return
+   */
+  private String augmentedWord(String word) {
+    return word.replace(",", "").toLowerCase();
   }
 
 
@@ -107,6 +163,12 @@ public class SnippetGenerator {
     Document doc = Jsoup.parse(docContent);
     // extract content from the pre tag
     String mainContent = doc.select("pre").text();
+    // replace line breaks with space
+    mainContent = mainContent.replace(System.getProperty("line.separator"), " ");
+    // ensure a space after comma
+    mainContent = mainContent.replace(",", ", ");
+    // replace multiple spaces with a single space
+    mainContent = mainContent.replaceAll("[ ]+", " ");
 
     // clean trailing numbers
     String regex = "([0-9]|0[0-9]|1[0-9]|2[0-3]):[0-5][0-9] ([AaPp][Mm])";
@@ -116,7 +178,7 @@ public class SnippetGenerator {
     if (matcher.find())
       mainContent = mainContent.substring(0, matcher.start());
 
-    return mainContent;
+    return mainContent.trim();
   }
 
 
@@ -126,7 +188,11 @@ public class SnippetGenerator {
     String CACM_DOC_LOCATION = "./input/CACM/CACM-1811.html";
     String content = fu.textFileToString(CACM_DOC_LOCATION);
 
-    System.out.println((new SnippetGenerator()).cleanDocContent(content));
+    SnippetGenerator sg = new SnippetGenerator();
+    sg.generateSnippetSummaries("./input/CACM");
+    List<String> querySet = Arrays.asList("processors", "computational", "problem");
+    System.out.println(
+        sg.getQueryHighlightedHTMLSnippet("CACM-1811.html", RUN_TYPE.CACM, querySet));
 
   }
 

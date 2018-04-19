@@ -47,8 +47,11 @@ public class FileUtility {
     StringBuilder lines = new StringBuilder();
     try {
       Scanner sc = new Scanner(file);
-      while (sc.hasNextLine())
+      while (sc.hasNextLine()) {
         lines.append(sc.nextLine());
+        if (sc.hasNextLine())
+          lines.append(System.getProperty("line.separator"));
+      }
       sc.close();
     } catch (Exception e) {
       e.printStackTrace();
