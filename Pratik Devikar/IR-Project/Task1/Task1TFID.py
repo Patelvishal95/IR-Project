@@ -1,5 +1,5 @@
 import operator
-import Task1BM25 as bm25_model
+from Task1 import Task1BM25 as bm25_model
 from math import log
 import os
 
