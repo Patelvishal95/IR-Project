@@ -1,0 +1,13 @@
+algorithm 1
+ca600705 1
+cacm 1
+codd 1
+constraints 1
+external 1
+jb 1
+july 1
+march 1
+multiprogram 1
+parts 1
+pm 1
+scheduling 2

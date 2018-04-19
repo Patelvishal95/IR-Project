@@ -1,0 +1,13 @@
+algorithm 1
+ca601104 1
+cacm 1
+diagonal 1
+equations 1
+jb 1
+leavenworth 1
+linear 1
+march 1
+november 1
+pm 1
+solution 1
+tri 1

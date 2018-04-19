@@ -1,0 +1,14 @@
+$f2 1
+algorithm 2
+ca700612 1
+cacm 1
+eigenvalues 2
+eigenvectors 2
+february 1
+jb 1
+june 1
+matrix 2
+qr 1
+real 2
+stewart 1
+symmetric 2

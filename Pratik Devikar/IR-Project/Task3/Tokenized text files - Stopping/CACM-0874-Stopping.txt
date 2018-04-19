@@ -1,0 +1,9 @@
+algorithm 1
+april 1
+ca630417 1
+cacm 1
+chebyshev 1
+curvefit 1
+hale 1
+jb 1
+march 1

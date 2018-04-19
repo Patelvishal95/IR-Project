@@ -1,17 +1,3 @@
-1 1
-1208 1
-1409 9
-1966 1
-1978 1
-2 2
-20 1
-22 2
-3 1
-340 1
-35 1
-4 1
-5 4
-9 1
 a 8
 aimed 1
 all 1
@@ -78,7 +64,6 @@ man 1
 march 1
 mc 3
 medium 1
-memory 3
 memory 1
 modifiable 1
 modification 1

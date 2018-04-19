@@ -49,23 +49,12 @@ def write_scores_into_files(query_index, doc_score):
 
 
 # =====================================================================#
-# MAIN Function
-def main():
-    alpha = 0.35
-    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
-
-    # Load the master xml file
-    master_tf_dict = get_tf_dict('masterxml.txt')
-    C = float(sum(master_tf_dict.values()))
-
-    # List of all the tokenized files
-    all_docs = []
-    for filename in os.listdir(dir_tokenized_dictionaries):
-        all_docs.append(filename)
-
+# Algorithm to calculate document scores base on smoothened query likelihood model
+def smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha):
     query_index = 1
     f = open('Refined_Query.txt', 'r')
     for row in f:
+        # print(query_index)
         doc_score = {}
         # Separate individual query terms
         query_terms = tfidf_model.create_query_terms_list(row)
@@ -87,7 +76,7 @@ def main():
                         doc_score[doc] += log(first_term + second_term, 10)
                     else:
                         doc_score[doc] = log(first_term + second_term, 10)
-                except(KeyError):
+                except KeyError:
                     pass
 
         # Sort the dictionary based on scores
@@ -98,6 +87,24 @@ def main():
         print(query_index)
         query_index += 1
     f.close()
+
+
+# =====================================================================#
+# MAIN Function
+def main():
+    alpha = 0.35
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+
+    # Load the master xml file
+    master_tf_dict = get_tf_dict('masterxml.txt')
+    C = float(sum(master_tf_dict.values()))
+
+    # List of all the tokenized files
+    all_docs = []
+    for filename in os.listdir(dir_tokenized_dictionaries):
+        all_docs.append(filename)
+
+    smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha)
 
 
 # =====================================================================#

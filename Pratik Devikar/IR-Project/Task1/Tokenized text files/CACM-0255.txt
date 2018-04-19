@@ -1,11 +1,3 @@
-10 1
-15 1
-1961 1
-1978 1
-255 6
-45 1
-5 3
-68 1
 algorithm 1
 augmentation 1
 breed 1

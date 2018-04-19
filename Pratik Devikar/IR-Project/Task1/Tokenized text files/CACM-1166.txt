@@ -1,12 +1,3 @@
-1166 6
-1965 1
-1978 1
-20 1
-4 1
-5 3
-6 1
-7040 2
-7090 2
 a 3
 address 2
 an 2
@@ -46,7 +37,6 @@ in 2
 incompatible 3
 incorporation 1
 inserted 1
-instruction 3
 instruction 1
 instructions 2
 into 1
@@ -71,7 +61,6 @@ particular 1
 pm 1
 prepared 1
 produce 1
-programs 1
 programs 1
 required 1
 requires 1

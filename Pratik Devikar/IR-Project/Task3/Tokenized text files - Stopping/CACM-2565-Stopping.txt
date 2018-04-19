@@ -1,0 +1,16 @@
+algorithm 1
+brent 1
+ca741209 1
+cacm 1
+december 1
+distribution 2
+gaussian 2
+generator 1
+january 1
+jb 1
+normal 1
+number 1
+numbers 2
+pm 1
+pseudo 2
+random 3

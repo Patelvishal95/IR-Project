@@ -1,10 +1,3 @@
-08 1
-1571 6
-1967 1
-1978 1
-28 1
-5 3
-9 1
 a 2
 ability 1
 accumulation 1
@@ -54,7 +47,6 @@ online 1
 oriented 1
 parameters 1
 planned 1
-possible 1
 possible 1
 present 1
 processing 1

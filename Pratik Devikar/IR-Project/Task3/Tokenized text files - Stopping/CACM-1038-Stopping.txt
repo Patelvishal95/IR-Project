@@ -1,0 +1,12 @@
+algorithm 1
+ca640709 1
+cacm 1
+crout 1
+equilibration 1
+f4 1
+iteration 1
+jb 1
+july 1
+march 1
+mckeeman 1
+pm 1

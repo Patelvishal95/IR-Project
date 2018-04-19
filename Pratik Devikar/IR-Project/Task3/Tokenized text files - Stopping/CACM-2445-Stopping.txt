@@ -1,0 +1,16 @@
+a456 1
+algorithm 1
+ca730910 1
+cacm 1
+circuit 1
+fencl 1
+hamiltonian 1
+january 1
+jb 1
+path 1
+problem 3
+routing 2
+salesman 1
+september 1
+shortest 1
+traveling 1

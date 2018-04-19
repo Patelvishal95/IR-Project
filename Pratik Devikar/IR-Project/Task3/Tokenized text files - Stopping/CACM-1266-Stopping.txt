@@ -1,0 +1,13 @@
+appendixes 1
+asa 1
+ca650505 1
+cacm 1
+considerations 1
+fortran 2
+jb 1
+march 1
+pm 1
+purpose 1
+relating 1
+standard 1
+standardization 1

@@ -1,0 +1,14 @@
+algorithm 1
+ca641106 1
+cacm 1
+calendar 1
+conversions 1
+date 1
+day 1
+jb 1
+julian 1
+march 1
+november 1
+number 1
+oppenheim 1
+pm 1

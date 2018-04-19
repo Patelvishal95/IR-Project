@@ -1,0 +1,15 @@
+algorithm 1
+ca670711d 1
+cacm 1
+g6 1
+generation 1
+jb 1
+july 1
+lexicographic 1
+march 1
+ord 1
+order 1
+permutations 1
+pm 1
+pseudo 1
+smith 1

@@ -1,0 +1,10 @@
+approximation 4
+ca720508 1
+cacm 1
+dunham 1
+january 1
+jb 1
+minimax 2
+nonlinear 2
+subset 1
+subsets 1

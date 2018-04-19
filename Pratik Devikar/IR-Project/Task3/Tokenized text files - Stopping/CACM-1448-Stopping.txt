@@ -1,0 +1,13 @@
+abscissas 1
+algorithm 1
+april 1
+ca660403c 1
+cacm 1
+d1 1
+jb 1
+march 1
+pm 1
+quadrature 1
+romberg 1
+weights 1
+welsch 1

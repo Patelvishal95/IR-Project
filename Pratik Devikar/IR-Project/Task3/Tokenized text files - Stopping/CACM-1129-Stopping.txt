@@ -1,0 +1,10 @@
+algorithm 1
+beta 1
+ca640302 1
+cacm 1
+function 1
+gautschi 1
+incomplete 1
+jb 1
+march 2
+ratios 1

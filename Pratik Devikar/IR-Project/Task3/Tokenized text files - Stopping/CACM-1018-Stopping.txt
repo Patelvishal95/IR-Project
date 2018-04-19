@@ -1,0 +1,10 @@
+algorithm 1
+august 1
+ca640812 1
+cacm 1
+gauss 1
+jb 1
+march 1
+pike 1
+pm 1
+s15 1

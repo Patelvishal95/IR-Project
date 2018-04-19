@@ -1,0 +1,14 @@
+binary 1
+ca580505 1
+cacm 1
+command 1
+computer 1
+decimal 1
+extract 1
+function 1
+jb 1
+kautz 1
+march 1
+operations 1
+pm 1
+truth 1

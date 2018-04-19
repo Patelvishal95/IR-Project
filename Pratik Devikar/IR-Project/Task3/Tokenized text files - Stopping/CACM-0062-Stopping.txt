@@ -1,0 +1,13 @@
+ca590907 1
+cacm 1
+curve 1
+dimensional 1
+fitting 1
+jb 1
+lesh 1
+march 1
+multi 1
+pm 1
+polynomial 1
+september 1
+squares 1

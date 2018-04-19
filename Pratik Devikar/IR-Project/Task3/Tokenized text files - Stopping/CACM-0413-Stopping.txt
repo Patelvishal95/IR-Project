@@ -1,0 +1,11 @@
+arithmetic 1
+basic 1
+ca610101 1
+cacm 1
+compiler 1
+expressions 1
+huskey 1
+january 1
+jb 1
+march 1
+wattenburg 1

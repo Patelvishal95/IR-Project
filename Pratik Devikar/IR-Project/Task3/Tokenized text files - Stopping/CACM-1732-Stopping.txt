@@ -1,0 +1,13 @@
+algorithm 1
+analysis 3
+ca680613 1
+cacm 1
+factorial 2
+february 1
+g1 1
+jb 1
+june 1
+oliveri 1
+pm 1
+statistical 1
+variance 3

@@ -1,12 +1,3 @@
-1152 1
-1294 9
-132 1
-1965 1
-1978 1
-4 1
-5 5
-54 1
-7 1
 a 4
 addition 1
 algorithm 2
@@ -54,7 +45,6 @@ recent 1
 similar 1
 since 1
 subtraction 1
-technique 2
 technique 1
 the 5
 this 2

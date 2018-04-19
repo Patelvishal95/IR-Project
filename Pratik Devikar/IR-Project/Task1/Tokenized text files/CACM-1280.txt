@@ -1,12 +1,3 @@
-1280 9
-1364 1
-1965 1
-1978 1
-3 1
-46 1
-5 4
-6 1
-7 1
 a 4
 and 1
 april 1
@@ -47,7 +38,6 @@ jb 1
 kalaba 1
 knowledge 1
 lag 1
-lags 4
 lags 1
 march 1
 method 1

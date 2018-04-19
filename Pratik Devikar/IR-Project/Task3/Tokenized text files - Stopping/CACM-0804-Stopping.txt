@@ -1,0 +1,10 @@
+algorithms 1
+ca630720 1
+cacm 1
+exponentiation 1
+jb 1
+jr 1
+july 1
+march 1
+series 1
+thacher 1

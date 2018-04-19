@@ -1,0 +1,15 @@
+$s14 1
+algorithm 1
+approximation 1
+asymptotic 1
+ca701003 1
+cacm 1
+distribution 2
+expansion 1
+february 1
+function 1
+hill 1
+jb 1
+october 1
+statistic 1
+students 2

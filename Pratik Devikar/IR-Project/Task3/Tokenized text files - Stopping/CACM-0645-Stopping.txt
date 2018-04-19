@@ -1,0 +1,10 @@
+algorithm 1
+broyden 1
+ca620114 1
+cacm 1
+invrs 1
+january 1
+jb 1
+march 1
+pm 1
+randell 1

@@ -1,9 +1,3 @@
-13 2
-1963 1
-1978 1
-3 1
-5 3
-671 6
 a 2
 also 1
 an 3
@@ -59,7 +53,6 @@ savings 3
 specified 1
 statistics 1
 study 1
-system 2
 system 1
 telefile 2
 teleregister 2

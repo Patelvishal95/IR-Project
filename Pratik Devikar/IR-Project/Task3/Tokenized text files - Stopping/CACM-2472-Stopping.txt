@@ -1,0 +1,12 @@
+algorithm 2
+ca730714 1
+cacm 1
+january 1
+jb 1
+july1973 1
+kernighan 1
+minimal 2
+prim 1
+r422 1
+spanning 3
+tree 3

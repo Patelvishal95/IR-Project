@@ -1,0 +1,17 @@
+a1 1
+algorithm 1
+ca710109 1
+cacm 1
+circular 1
+coleman 1
+combinatorics 1
+design 1
+experiments 1
+february 1
+integer 1
+january 1
+jb 1
+partitioning 1
+partitions 1
+statistical 1
+taylor 1

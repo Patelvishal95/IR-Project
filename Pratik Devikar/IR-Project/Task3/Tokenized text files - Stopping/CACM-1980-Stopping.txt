@@ -1,0 +1,15 @@
+$m1 1
+algorithm 2
+ca701010 1
+cacm 1
+computer 1
+digital 1
+efficient 1
+february 1
+jb 1
+minimal 2
+october 1
+peto 1
+ranking 1
+sorting 4
+storage 2

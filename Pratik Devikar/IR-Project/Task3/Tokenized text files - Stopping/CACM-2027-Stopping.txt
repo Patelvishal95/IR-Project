@@ -1,0 +1,16 @@
+$s17 1
+algorithm 1
+bessel 4
+bray 1
+ca700710 1
+cacm 1
+february 1
+fractional 1
+functions 4
+jb 1
+july 1
+kind 1
+order 1
+pm 1
+ricatti 2
+spherical 1

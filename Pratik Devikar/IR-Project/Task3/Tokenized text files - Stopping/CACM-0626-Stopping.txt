@@ -1,0 +1,14 @@
+ca620306 1
+cacm 1
+codes 2
+digit 2
+foster 1
+jb 1
+march 2
+method 1
+number 2
+pm 1
+random 2
+representation 1
+retrieval 1
+storage 1

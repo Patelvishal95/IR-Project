@@ -1,0 +1,14 @@
+algorithm 2
+approximation 1
+ca700217 1
+cacm 1
+distribution 2
+february 2
+function 1
+hill 1
+jb 1
+loughhead 1
+probabilities 1
+statistic 1
+students 2
+test 2

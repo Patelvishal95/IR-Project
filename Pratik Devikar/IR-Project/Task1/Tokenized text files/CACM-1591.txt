@@ -1,13 +1,3 @@
-10 1
-1591 9
-1680 1
-1967 1
-1978 1
-24 1
-28 1
-5 4
-6 1
-7044 1
 a 10
 abac 1
 academic 1
@@ -111,7 +101,6 @@ solve 1
 student 3
 studying 1
 switch 1
-system 11
 system 1
 teaching 7
 terminal 3

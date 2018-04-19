@@ -1,15 +1,3 @@
-10 2
-1083 1
-17 1
-1958 1
-1982 1
-3192 12
-3193 1
-407 1
-5 4
-6 4
-730 1
-88 1
 a 3
 algorithmic 1
 allow 1
@@ -30,7 +18,6 @@ direct 1
 es 1
 expected 1
 facilitate 1
-flexibility 1
 flexibility 1
 for 3
 in 1

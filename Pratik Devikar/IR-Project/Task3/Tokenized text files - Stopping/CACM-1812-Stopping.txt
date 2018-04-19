@@ -1,0 +1,14 @@
+ca691118 1
+cacm 1
+carlo 1
+february 1
+fortran 1
+generation 1
+generators 1
+grosenbaugh 1
+jb 1
+monte 1
+november 1
+number 2
+random 2
+simulation 1

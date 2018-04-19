@@ -1,0 +1,14 @@
+a436 1
+algorithm 1
+boland 1
+ca721211 1
+cacm 1
+december 1
+integration 3
+january 1
+jb 1
+numerical 1
+product 2
+quadrature 1
+trapezoidal 2
+type 2

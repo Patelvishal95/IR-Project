@@ -1,0 +1,15 @@
+algorithm 1
+ca690905 1
+cacm 1
+direct 1
+february 1
+g6 1
+generation 2
+jb 1
+leitch 1
+lexicographic 4
+order 3
+permutations 2
+pm 1
+reverse 1
+september 1

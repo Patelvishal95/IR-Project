@@ -1,0 +1,17 @@
+ca721113 1
+cacm 1
+comments 1
+concurrent 2
+control 2
+critical 1
+dijkstras 1
+eisenberg 1
+january 1
+jb 1
+mcguire 1
+multiprocessing 1
+november 1
+pm 1
+problem 1
+programming 2
+section 1

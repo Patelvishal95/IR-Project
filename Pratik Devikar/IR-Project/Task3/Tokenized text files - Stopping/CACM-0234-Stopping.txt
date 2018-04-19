@@ -1,0 +1,10 @@
+assembly 1
+ca600102jb 1
+cacm 1
+ibm 1
+january 1
+march 1
+pm 1
+program 1
+sap 1
+speckhard 1

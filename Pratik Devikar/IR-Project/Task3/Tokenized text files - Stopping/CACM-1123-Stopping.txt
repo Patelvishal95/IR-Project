@@ -1,0 +1,7 @@
+algorithm 1
+ca640308 1
+cacm 1
+gauss 1
+gladfelter 1
+jb 1
+march 2

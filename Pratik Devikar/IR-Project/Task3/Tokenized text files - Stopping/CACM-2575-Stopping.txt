@@ -1,0 +1,17 @@
+ca741109 1
+cacm 1
+classification 1
+clustering 1
+dissimilarity 1
+document 2
+hierarchy 1
+january 1
+jb 1
+match 2
+matching 1
+november 1
+problem 1
+retrieval 2
+rijsbergen 1
+searching 1
+van 1

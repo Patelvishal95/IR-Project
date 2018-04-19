@@ -1,0 +1,17 @@
+$h 1
+algorithm 1
+april 1
+ca700411 1
+cacm 1
+enumeration 2
+february 1
+guignard 1
+implicit 1
+jb 1
+linear 2
+partial 1
+pm 1
+programming 1
+programs 1
+solution 1
+variables 2

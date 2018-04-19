@@ -1,14 +1,3 @@
-10 2
-1006 1
-1007 1
-17 1
-1788 1
-1962 1
-1982 1
-205 1
-3189 12
-5 4
-6 4
 a 1
 added 1
 addition 1
@@ -48,7 +37,6 @@ multiplication 1
 november 1
 operations 1
 point 2
-program 1
 program 1
 revised 1
 statements 1

@@ -1,0 +1,10 @@
+algorithm 1
+ca631013 1
+cacm 1
+hermite 1
+interpolation 1
+jb 1
+march 1
+october 1
+pm 1
+schubert 1

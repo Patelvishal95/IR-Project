@@ -1,0 +1,16 @@
+binary 1
+ca721112 1
+cacm 1
+chained 2
+doubly 2
+january 1
+jb 1
+kennedy 1
+note 1
+november 1
+optimal 1
+pm 1
+search 1
+searching 1
+tree 2
+trees 1

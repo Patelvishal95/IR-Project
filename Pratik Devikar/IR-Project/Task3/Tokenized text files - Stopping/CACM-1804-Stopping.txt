@@ -1,0 +1,17 @@
+algorithm 1
+ca691208 1
+cacm 1
+coloring 3
+december 1
+drawing 1
+enclosed 1
+february 1
+herriot 1
+jb 1
+pictures 1
+planar 1
+pm 1
+polygonal 2
+regions 3
+shading 1
+surfaces 1

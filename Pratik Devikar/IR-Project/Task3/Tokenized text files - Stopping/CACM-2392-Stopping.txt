@@ -1,0 +1,14 @@
+algorithm 1
+c380 1
+ca720111 1
+cacm 1
+f1 1
+february 1
+january 1
+jb 1
+macleod 1
+matrix 2
+rectangular 2
+situ 1
+transpose 1
+transposition 1

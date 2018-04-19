@@ -1,0 +1,10 @@
+algol 1
+allocation 1
+arrays 1
+ca610113 1
+cacm 1
+january 1
+jb 1
+march 1
+sattley 1
+storage 1

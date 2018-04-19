@@ -1,0 +1,14 @@
+algorithm 2
+ca690308 1
+cacm 1
+computer 1
+digital 1
+efficient 1
+february 1
+jb 1
+m1 1
+march 1
+minimal 2
+singleton 1
+sorting 4
+storage 2

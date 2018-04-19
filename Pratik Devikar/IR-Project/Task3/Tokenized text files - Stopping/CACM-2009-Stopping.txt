@@ -1,0 +1,14 @@
+$d1 1
+algorithm 1
+august 1
+ca700812 1
+cacm 1
+february 1
+integration 3
+jb 1
+multiple 2
+numerical 1
+pm 1
+proll 1
+rule 2
+simpsons 2

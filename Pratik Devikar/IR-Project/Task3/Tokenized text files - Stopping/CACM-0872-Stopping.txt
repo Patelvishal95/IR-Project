@@ -1,0 +1,12 @@
+adaptive 1
+algorithm 1
+april 1
+ca630419 1
+cacm 1
+integration 1
+jb 1
+march 1
+mckeeman 1
+numerical 1
+rule 1
+simpsons 1

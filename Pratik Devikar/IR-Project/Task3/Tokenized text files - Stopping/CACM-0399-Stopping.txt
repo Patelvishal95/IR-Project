@@ -1,0 +1,14 @@
+algol 1
+boolean 1
+ca610115 1
+cacm 1
+compiling 1
+conditional 1
+expressions 1
+huskey 1
+january 1
+jb 1
+march 1
+statements 1
+techniques 1
+wattenburg 1

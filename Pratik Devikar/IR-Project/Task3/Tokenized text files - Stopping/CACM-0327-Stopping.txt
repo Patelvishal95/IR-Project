@@ -1,0 +1,13 @@
+algorithm 1
+bareiss 1
+ca610507 1
+cacm 1
+fisherkeller 1
+jb 1
+march 1
+pm 1
+polynomial 1
+procedure 1
+real 1
+resultant 1
+zeros 1

@@ -1,12 +1,3 @@
-1973 1
-1978 1
-23 1
-2507 6
-34 1
-35 1
-4 1
-5 3
-514 1
 adjoint 1
 algorithm 1
 arithmetic 2

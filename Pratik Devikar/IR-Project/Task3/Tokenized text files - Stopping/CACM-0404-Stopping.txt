@@ -1,0 +1,10 @@
+algol 1
+ca610110 1
+cacm 1
+compiler 1
+directed 1
+irons 1
+january 1
+jb 1
+march 1
+syntax 1

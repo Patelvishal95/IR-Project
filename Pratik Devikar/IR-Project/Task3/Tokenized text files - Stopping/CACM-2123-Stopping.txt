@@ -1,0 +1,16 @@
+$g5 1
+algorithm 1
+ca700108 1
+cacm 1
+distribution 2
+february 1
+generator 2
+january 1
+jb 1
+number 1
+numbers 1
+pm 1
+poisson 2
+random 2
+satisfying 1
+schaffer 1

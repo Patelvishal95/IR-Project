@@ -1,0 +1,10 @@
+algol 1
+ca610102 1
+cacm 1
+gray 1
+january 1
+jb 1
+march 1
+processes 1
+recursive 1
+translation 1

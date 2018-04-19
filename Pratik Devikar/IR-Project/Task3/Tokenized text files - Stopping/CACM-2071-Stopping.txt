@@ -1,0 +1,17 @@
+$d1 1
+algorithm 1
+april 1
+bo 1
+ca700413 1
+cacm 1
+coefficients 1
+einarsson 1
+february 1
+filon 3
+fosdick 1
+fourier 2
+integration 2
+jb 1
+pm 1
+quadrature 3
+series 1

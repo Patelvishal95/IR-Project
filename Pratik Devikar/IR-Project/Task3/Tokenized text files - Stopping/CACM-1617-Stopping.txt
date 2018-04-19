@@ -1,0 +1,13 @@
+algorithm 1
+boothroyd 1
+ca670311a 1
+cacm 1
+eigenvalues 1
+eigenvectors 1
+f2 1
+february 1
+jb 1
+march 1
+pm 1
+symmetric 1
+system 1

@@ -1,0 +1,14 @@
+algorithm 1
+ca691110 1
+cacm 1
+february 1
+g6 1
+generation 1
+jb 1
+november 1
+permutation 2
+permutations 1
+pm 1
+random 2
+robson 1
+transposition 1

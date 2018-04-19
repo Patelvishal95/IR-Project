@@ -1,0 +1,13 @@
+$a1 1
+algorithm 1
+ca700212 1
+cacm 1
+february 2
+generator 1
+integers 1
+jb 1
+partition 1
+partitions 2
+restricted 3
+sums 2
+white 1

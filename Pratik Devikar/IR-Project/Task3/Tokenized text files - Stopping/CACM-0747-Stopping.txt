@@ -1,0 +1,12 @@
+algorithm 1
+ca630911 1
+cacm 1
+generation 1
+jb 1
+lexicographical 1
+march 1
+order 1
+permutations 1
+pm 1
+september 1
+shen 1

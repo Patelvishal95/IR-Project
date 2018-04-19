@@ -1,0 +1,7 @@
+bitwise 1
+ca610303 1
+cacm 1
+jb 1
+march 2
+operations 1
+strachey 1

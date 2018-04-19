@@ -1,0 +1,11 @@
+algorithm 1
+ca670203a 1
+cacm 1
+curve 1
+e2 1
+exponential 1
+february 2
+fit 1
+jb 1
+pm 1
+spath 1

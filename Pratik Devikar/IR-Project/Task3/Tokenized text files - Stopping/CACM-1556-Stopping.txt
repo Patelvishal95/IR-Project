@@ -1,0 +1,11 @@
+algorithm 1
+bratley 1
+ca670711b 1
+cacm 1
+g6 1
+jb 1
+july 1
+march 1
+permutations 1
+pm 1
+repetitions 1

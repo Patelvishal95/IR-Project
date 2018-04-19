@@ -1,16 +1,3 @@
-1001 1
-11 2
-12 2
-13 1
-1711 12
-1968 1
-1978 1
-2 4
-22 1
-333 1
-4 2
-5 5
-997 1
 a 1
 accounting 1
 alerted 1
@@ -63,7 +50,6 @@ information 2
 is 2
 j 1
 jb 1
-keeping 2
 keeping 1
 law 1
 lawyer 2

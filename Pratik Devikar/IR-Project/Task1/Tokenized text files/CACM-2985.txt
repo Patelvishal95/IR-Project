@@ -1,17 +1,3 @@
-1977 2
-2 1
-241 1
-2485 1
-29 1
-2977 1
-2985 12
-3011 1
-3035 1
-350 1
-4 4
-43 2
-5 4
-6 1
 a 3
 about 1
 advanced 1
@@ -95,7 +81,6 @@ science 1
 services 1
 stage 2
 stages 1
-systems 5
 systems 1
 taking 1
 tenance 1

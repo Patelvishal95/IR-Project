@@ -1,0 +1,17 @@
+algol 1
+algorithms 1
+based 1
+brownlee 1
+ca770710 1
+cacm 1
+december 1
+implementation 2
+jb 1
+july 1
+matching 1
+pascal 1
+pattern 2
+patterns 2
+processing 1
+snobol 2
+string 1

@@ -1,0 +1,17 @@
+april 1
+ca680413 1
+cacm 1
+calendar 3
+code 2
+data 5
+date 3
+february 1
+group 1
+identifier 1
+interchange 2
+jb 1
+machine 4
+proposed 1
+recording 1
+standard 2
+usa 2

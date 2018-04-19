@@ -1,0 +1,11 @@
+$h 1
+algorithm 1
+ca700911 1
+cacm 1
+decision 3
+dial 1
+february 1
+jb 1
+september 1
+table 3
+translation 2

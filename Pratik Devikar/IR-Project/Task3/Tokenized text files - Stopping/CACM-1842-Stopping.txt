@@ -1,0 +1,13 @@
+algorithm 2
+ca691004 1
+cacm 1
+configurations 1
+february 1
+generating 1
+ising 2
+jb 1
+october 1
+pm 1
+problem 1
+sequences 1
+simoes 1

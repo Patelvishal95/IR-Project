@@ -1,0 +1,16 @@
+$d5 1
+algorithm 1
+ca701011 1
+cacm 1
+equations 1
+february 1
+integral 2
+inversion 2
+jb 1
+laplace 2
+numerical 1
+october 1
+stehfest 1
+transform 1
+transformations 1
+transforms 1

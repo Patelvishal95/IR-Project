@@ -1,0 +1,17 @@
+$d1 1
+algorithm 1
+ca701008 1
+cacm 1
+february 1
+havie 2
+integration 3
+jb 1
+modified 2
+numerical 1
+october 1
+quadrature 2
+rectangle 1
+romberg 2
+trapezoid 1
+values 2
+wallick 1

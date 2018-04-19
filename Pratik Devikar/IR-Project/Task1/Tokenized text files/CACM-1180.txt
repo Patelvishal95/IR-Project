@@ -1,12 +1,3 @@
-1180 14
-1395 2
-1706 1
-1965 1
-1978 1
-210 1
-22 1
-5 5
-6 6
 a 8
 accordance 1
 according 1
@@ -41,7 +32,6 @@ given 1
 h 1
 i 1
 imperative 1
-imperatives 2
 imperatives 1
 in 4
 includes 1

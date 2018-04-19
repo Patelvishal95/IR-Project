@@ -1,0 +1,10 @@
+ca640204 1
+cacm 1
+february 1
+fortran 1
+iv 1
+jb 1
+language 1
+leavenworth 1
+march 1
+syntax 1

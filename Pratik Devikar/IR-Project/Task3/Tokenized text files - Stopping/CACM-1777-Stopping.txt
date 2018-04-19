@@ -1,0 +1,14 @@
+algorithm 1
+ca680205 1
+cacm 1
+february 2
+g6 1
+generation 3
+jb 1
+lexicographic 3
+ord 1
+order 2
+permutation 1
+permutations 2
+pm 1
+smith 1

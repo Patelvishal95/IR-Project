@@ -57,22 +57,12 @@ def write_scores_into_files(query_index, doc_score):
 
 
 # =====================================================================#
-# MAIN Function
-def main():
-    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
-    N = 3204.0
-    ni = bm25_model.get_unigrams(dir_tokenized_dictionaries)
-
-    idf = {}
-
-    # List of all the tokenized files
-    all_docs = []
-    for filename in os.listdir(dir_tokenized_dictionaries):
-        all_docs.append(filename)
-
+# Algorithm to calculate the document scores by tfidf model
+def tf_idf_algorithm(N, ni, idf, all_docs):
     query_index = 1
     f = open('Refined_Query.txt', 'r')
     for row in f:
+        print(query_index)
         # Separate individual query terms
         query_terms = create_query_terms_list(row)
         doc_score = {}
@@ -84,7 +74,7 @@ def main():
                 tf = {}
                 for doc in all_docs:
                     try:
-                        # Create a term freq dictionary
+                        # Create a term freq dictionary of that document's terms
                         term_freq_dict = get_tff_list(doc)
                         tf[query_word] = log(1 + int(term_freq_dict[query_word]), 10)
 
@@ -104,6 +94,23 @@ def main():
         write_scores_into_files(query_index, doc_score)
         query_index += 1
     f.close()
+
+
+# =====================================================================#
+# MAIN Function
+def main():
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+    N = 3204.0
+    ni = bm25_model.get_unigrams(dir_tokenized_dictionaries)
+
+    idf = {}
+
+    # List of all the tokenized files
+    all_docs = []
+    for filename in os.listdir(dir_tokenized_dictionaries):
+        all_docs.append(filename)
+
+    tf_idf_algorithm(N, ni, idf, all_docs)
 
 
 # =====================================================================#

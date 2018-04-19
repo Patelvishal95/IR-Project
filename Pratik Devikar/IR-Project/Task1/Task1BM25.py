@@ -146,8 +146,7 @@ def write_scores_into_files(index, doc_score):
 # =====================================================================#
 # Convert xml files to text files
 def convert_xml_to_txt():
-    all_indexed_xml_files = glob.glob('D:\\IR-Project\\Vishal '
-                                      'Patel\\Indexer\\src\\index\\*.xml')
+    all_indexed_xml_files = glob.glob('D:\\IR-Project\\Index_with_digits_ignored\\*.xml')
     counter = 1
     for file in all_indexed_xml_files:
         terms = []
@@ -159,7 +158,11 @@ def convert_xml_to_txt():
         freq_result_set = soup.findAll('Count')
 
         for t in term_result_set:
-            terms.append(t.getText())
+            if ' ' in t.getText():
+                t = t.getText().replace(' ', '')
+                terms.append(t)
+            else:
+                terms.append(t.getText())
         for f in freq_result_set:
             freq.append(f.getText())
 
@@ -208,8 +211,49 @@ def get_unigram_inverted_dict(list_of_term_freq):
 
 
 # =====================================================================#
+# Algorithm to calculate document scores by BM25 algorithm
+def bm25_algorithm(unigram_inverted_dict, dl, avgdl, N, ni):
+    query_index = 1
+    f = open('Refined_Query.txt', 'r')
+    counter = 1
+    for row in f:
+        queries_dict = create_queries_dict(row)
+        doc_score = {}
+
+        # Calculate score for every query with respect to every document in its inverted list
+        for query_word in queries_dict.items():
+            try:  # For keyerror when a particular query word doesnt belong to any of the tokens
+                for inv_list in unigram_inverted_dict[query_word[0]]:
+                    # Calculate BM25 score
+                    bm25_score = calculate_bm25_score(dl[inv_list[0]], avgdl, int(inv_list[1]), query_word[1], N, ni[query_word[0]])
+                    if inv_list[0] in doc_score:
+                        doc_score[inv_list[0]] += bm25_score
+                    else:
+                        doc_score[inv_list[0]] = bm25_score
+
+                del bm25_score
+
+            except KeyError:
+                pass
+
+        # Sort the dictionary based on scores
+        doc_score = (sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True))
+
+        # Write the document into files
+        write_scores_into_files(query_index, doc_score)
+        query_index += 1
+
+        # print(counter)
+        # counter += 1
+    del queries_dict
+    del doc_score
+    f.close()
+
+
+# =====================================================================#
 # MAIN Function
 def main():
+    # Initialize the parameters
     N = 3204.0  # Number of documents
     dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
 
@@ -234,43 +278,7 @@ def main():
     print("Calculating unigram inverted list")
     unigram_inverted_dict = get_unigram_inverted_dict(list_of_term_freq)
 
-    query_index = 1
-    f = open('Refined_Query.txt', 'r')
-    counter = 1
-    for row in f:
-        queries_dict = create_queries_dict(row)
-        doc_score = {}
-
-        # Calculate score for every query with respect to every document in its inverted list
-        for query_word in queries_dict.items():
-            try: # For keyerror when a particular query word doesnt belong to any of the tokens
-                for inv_list in unigram_inverted_dict[query_word[0]]:
-                    # Calculate BM25 score
-                    bm25_score = calculate_bm25_score(dl[inv_list[0]], avgdl, int(inv_list[1]), query_word[1], N, ni[query_word[0]])
-                    if inv_list[0] in doc_score:
-                        doc_score[inv_list[0]] += bm25_score
-                    else:
-                        doc_score[inv_list[0]] = bm25_score
-
-                del bm25_score
-
-            except KeyError:
-                pass
-
-        # Sort the dictionary based on scores
-        doc_score = (sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True))
-
-        # Write the document into files
-        write_scores_into_files(query_index, doc_score)
-        query_index += 1
-
-        # print(counter)
-        # counter += 1
-
-    del queries_dict
-    del doc_score
-
-    f.close()
+    bm25_algorithm(unigram_inverted_dict, dl, avgdl, N, ni)
 
 
 # =====================================================================#

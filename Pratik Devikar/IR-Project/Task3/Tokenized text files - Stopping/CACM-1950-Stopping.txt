@@ -1,0 +1,17 @@
+binary 2
+bit 1
+ca701214 1
+cacm 1
+cross 1
+data 1
+december 1
+dummy 1
+efficient 1
+february 1
+handling 1
+jb 1
+pm 1
+raduchel 1
+strings 1
+tabulations 1
+variables 2

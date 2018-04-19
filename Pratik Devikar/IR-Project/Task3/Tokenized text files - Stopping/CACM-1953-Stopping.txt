@@ -1,0 +1,15 @@
+$s13 1
+algorithms 1
+ansi 1
+ca701210 1
+cacm 1
+december 1
+eix 1
+exponential 1
+february 1
+fortran 1
+integral 1
+jb 1
+pm 1
+redish 1
+standard 1

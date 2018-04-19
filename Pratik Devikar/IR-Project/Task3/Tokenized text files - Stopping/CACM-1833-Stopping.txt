@@ -1,0 +1,13 @@
+algol 1
+ambiguity 1
+ca691013 1
+cacm 1
+description 1
+february 1
+herriot 1
+ising 1
+jb 1
+october 1
+pm 1
+problem 1
+sequences 1

@@ -1,0 +1,12 @@
+$z 1
+algorithm 1
+august 1
+ca700811 1
+cacm 1
+february 1
+jb 1
+mckay 1
+pm 1
+polynomials 3
+symmetric 3
+unitary 2

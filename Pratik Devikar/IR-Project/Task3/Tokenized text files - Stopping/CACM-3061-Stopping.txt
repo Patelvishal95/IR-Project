@@ -1,0 +1,17 @@
+algorithms 1
+ca780911 1
+cacm 1
+dh 1
+dynamic 2
+january 1
+list 1
+pm 1
+processing 1
+reordering 1
+search 1
+searching 2
+september 1
+sequential 2
+simulation 1
+simulations 1
+tenenbaum 1

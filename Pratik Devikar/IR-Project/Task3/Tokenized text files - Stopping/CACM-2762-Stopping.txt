@@ -1,0 +1,15 @@
+algorithm 1
+c446 1
+ca750505 1
+cacm 1
+chebyshev 1
+january 1
+jb 1
+manipulation 1
+mertens 1
+piessens 1
+pm 1
+r446 1
+series 1
+subroutines 1
+ten 1

@@ -1,16 +1,3 @@
-1 1
-1972 1
-1978 1
-2 1
-20 1
-2081 1
-2253 1
-2254 10
-27 1
-4 3
-412 1
-422 1
-5 4
 a 3
 adams 1
 an 1
@@ -58,7 +45,6 @@ j 1
 january 1
 jb 1
 language 4
-languages 2
 languages 1
 maintain 1
 manner 1
@@ -76,7 +62,6 @@ other 1
 over 1
 paper 1
 partition 1
-partitioning 6
 partitioning 1
 phillips 1
 pm 1
