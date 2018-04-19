@@ -1,0 +1,9 @@
+algorithm 1
+am 1
+ca640304jb 1
+cacm 1
+march 2
+matrix 1
+naur 1
+p 1
+tridiagon 1

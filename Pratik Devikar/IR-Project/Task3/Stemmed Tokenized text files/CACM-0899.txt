@@ -1,0 +1,10 @@
+algorithm 1
+bosworth 1
+ca630321 1
+cacm 1
+jb 1
+km 1
+magic 1
+march 2
+pm 1
+squar 1

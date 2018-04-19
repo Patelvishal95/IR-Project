@@ -1,0 +1,12 @@
+algorithm 1
+boothroydj 1
+ca671208b 1
+cacm 1
+chebyschev 1
+curv 1
+decemb 1
+e2 1
+fit 1
+jb 1
+march 1
+pm 1

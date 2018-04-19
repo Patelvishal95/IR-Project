@@ -1,0 +1,12 @@
+basic 1
+ca620502 1
+cacm 1
+cobol 1
+element 1
+jb 1
+je 1
+mai 1
+march 1
+of 1
+pm 1
+sammet 1

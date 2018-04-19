@@ -1,0 +1,14 @@
+algorithm 1
+ca681205 1
+cacm 1
+d1 1
+decemb 1
+gaussian 1
+integr 3
+jbfebruari 1
+k 1
+kolbig 1
+multidimension 1
+multint 1
+pm 1
+snumer 1

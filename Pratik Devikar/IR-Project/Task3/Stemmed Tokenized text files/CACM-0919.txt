@@ -1,0 +1,9 @@
+algol 1
+ca630302jb 1
+cacm 1
+document 1
+march 2
+naur 1
+p 1
+pm 1
+problem 1

@@ -1,0 +1,9 @@
+algorithm 1
+ca621007 1
+cacm 1
+h 1
+jbmarch 1
+octob 1
+pm 1
+rutishaus 1
+weightcoeff 1

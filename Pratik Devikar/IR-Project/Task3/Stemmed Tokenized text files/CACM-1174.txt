@@ -1,0 +1,12 @@
+algorithm 1
+ca651107 1
+cacm 1
+cw 1
+g6 1
+invers 1
+jb 1
+march 1
+medlock 1
+novemb 1
+permut 1
+pm 1
