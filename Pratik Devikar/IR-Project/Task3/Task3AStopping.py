@@ -8,7 +8,8 @@ def create_stopwords_list():
         stop_words.append(line[:-1])
     return stop_words
 
-#========================================================================
+
+# ========================================================================
 def create_indexes_removing_stopwords():
     stop_words = create_stopwords_list()
     dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
@@ -26,15 +27,13 @@ def create_indexes_removing_stopwords():
         f.close()
         f_stop.close()
 
-#========================================================================
+
+# ========================================================================
 def main():
     create_indexes_removing_stopwords()
 
 
-
-
-
-#========================================================================
+# ========================================================================
 
 if __name__ == "__main__":
     main()
