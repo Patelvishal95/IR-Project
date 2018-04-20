@@ -13,7 +13,7 @@ public class PrecisionRecall {
 
     //file f is the file whose evaluation you need to do
     ArrayList[] measures = new ArrayList[65];
-
+    double[] AP,Rank;
     public static void main(String[] args) {
         File f = new File("../../Pratik Devikar/IR-Project/Task1/BM-25_Results");//First run
         
@@ -42,12 +42,18 @@ public class PrecisionRecall {
 //tempflag is introduced because lucene query has same name format program will just overwrite to the same folder
     private void startevaluation(File toevaluate, String Filenameformat,String tempflag) {
         File[] listoffiles = toevaluate.listFiles();
+        AP=new double[65];
+        Rank = new double[65];
         for (File queryrun : listoffiles) {
             String name = (queryrun.getName());
             name = name.replace(Filenameformat, "");
             int number = Integer.valueOf(name.replaceAll(".txt", ""));
             Calculation(queryrun, number, Filenameformat,tempflag);
         }
+        WriteToFile writer = new WriteToFile(new File("Evaluation/"+tempflag+Filenameformat+"/"+"MAPandMRR.txt"));
+        writer.write("MAP is -> "+MAP()+"\n");
+        writer.write("MRR is -> "+MAR()+"\n");
+        writer.close();
     }
 
     private void init() {
@@ -106,23 +112,27 @@ public class PrecisionRecall {
         File cretdir = new File("Evaluation/"+tempflag+Filenameformat);
         cretdir.mkdirs();
         WriteToFile writer = new WriteToFile(new File("Evaluation/"+tempflag+Filenameformat+"/"+Filenameformat+querynumber+"_"+"evaluation.txt"));
-        
+        writer.write("Ranking  DocID      Precision               Recall\n");
         try {
             BufferedReader b = new BufferedReader(new FileReader(queryrun));
             String read = b.readLine();int i=1;
             while (read != null) {
                 if(read.equalsIgnoreCase("")){break;}
-                writer.write(String.format("%03d", i)+"  "+read.split(" ")[2]+"  "+String.format("%1.20f", precision[i])+"  "+String.format("%1.20f", recall[i])+"\n");
+                writer.write("  "+String.format("%03d", i)+"    "+read.split(" ")[2]+"  "+String.format("%1.20f", precision[i])+"  "+String.format("%1.20f", recall[i])+"\n");
                 read=b.readLine();i++;
                 if(i==101)break;
             }
         } catch (IOException ex) {
             Logger.getLogger(PrecisionRecall.class.getName()).log(Level.SEVERE, null, ex);
         }
-        double map = MAP(precision,match);
+        double map = AP(precision,match);
         double rank = Rank(match);
-        writer.write("MAP is ->"+map+"\n");
-        writer.write("Rank is ->"+rank+"\n");
+        AP[querynumber]=map;
+        Rank[querynumber]=rank;
+        writer.write("P@k = 5 -> "+precision[5]+"\n");
+        writer.write("P@k = 20 -> "+precision[20]+"\n");
+        writer.write("Average precision is -> "+map+"\n");
+        writer.write("Reciprocal Rank is -> "+rank+"\n");
         writer.close();
     }
 
@@ -161,7 +171,7 @@ public class PrecisionRecall {
        return 0;
     }
 
-    private double MAP(double[] precision, int[] match) {
+    private double AP(double[] precision, int[] match) {
     double toret=0.0;int count=0;
         for(int i=1;i<=100;i++) {
         if(match[i]==1){
@@ -170,6 +180,24 @@ public class PrecisionRecall {
         }
     }
         return toret/(double)count;
+    }
+
+    private String MAP() {
+        double toret=0.0;
+        for(double toadd : AP){
+            toret+=toadd;
+        }
+        
+        return String.valueOf(toret/52.0);
+    }
+
+    private String MAR() {
+        double toret=0.0;
+        for(double toadd : Rank){
+            toret+=toadd;
+        }
+        
+        return String.valueOf(toret/52.0);
     }
 
 }
