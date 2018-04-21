@@ -1,10 +1,10 @@
 for stsyem oeiapntrg esxit with seystm computers what an sharing deal articles time which tss ibm
 ientrseetd i werittn udo am either by articles pooch or prieve in
 csrotoiuntcn used multitargeted languages in compilers tcoll of intermediate
-enmnorvenit and wrok polebrm of see not djsiniot wtih rtoeme  inttmolpeamneis psecoress on titoaehrcel dcrinstepios a in in but polssiby the of cuaiiotmmnncg wtouhit maenicmhss are itsrteneed rehtar interests as calls to distributed between mechanisms  exclusively abstract procedure complete would or im messagepassing opposed for i examples my
-on etiidng viwes weoadmwiragnns siaifsatoctn to esntiseal isuess and ppaers eensieetvffcs dsgein id  efficiency like on interface interpreters are user with implementation command and etc human design improvements the of interfaces
-iensrteted ribocots combinatorial of articles interested in we the particularly  motion geometric on and arm planning motion the dynamics are aspects in not
-platraicur fnualatloertce isnetret synchronize  processes understanding for the these am areas algorithms of programs and message correctness communicate passing by interested algorithms using distributed of i include in and which concurrent in techniques
+enmnorvenit and wrok polebrm of see not djsiniot wtih rtoeme inttmolpeamneis psecoress on titoaehrcel dcrinstepios a in in but the of cuaiiotmmnncg wtouhit maenicmhss are itsrteneed rehtar interests as calls to distributed between mechanisms exclusively abstract procedure complete would or im messagepassing opposed for i examples my
+on etiidng viwes weoadmwiragnns siaifsatoctn to esntiseal isuess and ppaers eensieetvffcs dsgein id efficiency like on interface interpreters are user with implementation command and etc human design improvements the of interfaces
+iensrteted ribocots combinatorial of articles interested in we the particularly motion geometric on and arm planning motion the dynamics are aspects in not
+platraicur fnualatloertce isnetret synchronize processes understanding for the these am areas algorithms of programs and message correctness communicate passing by interested algorithms using distributed of i include in and which concurrent in techniques
 airddenssg in assneriddg oparnietg ierowtnnk resources systems networks for schemes resource
 nretwok sretiucy dbeistrtuid in ssyetms systems local considerations and networks operating
 ctituaoompn for parallel parallel languages languages
@@ -19,33 +19,33 @@ comelpris highly languages processors and horizontal compaction microcoded machi
 parallel algorithms
 teotrhiec applicable matrices to algorithms sparse graph
 and rcnoidetus computational intractability classcomplete efficiency algorithms complexity
-and is ireeestntd algorithms  this cylinders and in a specialized in graphics hiddenline am spheres rather cones hiddensurface toroids computer topic for i
+and is ireeestntd algorithms this cylinders and in a specialized in graphics hiddenline am spheres rather cones hiddensurface toroids computer topic for i
 srrtutecus distributed computing algorithms and
 psreocses applied stochastic
 euvlotaain of and computer modelling performance systems
 crtnool mmnsaeihcs concurrency in operating systems
 oratniepg memory aspects management of systems
-of alrimgohts in am any and on cnaehgs in rdiao the neotwrk insteteerd wtih nrtwoek inesrtet tpproghoay not plauraictr  rotniug for in  dnileag peackt for networks packet the used hardware are information i
+of alrimgohts in am any and on cnaehgs in rdiao the neotwrk insteteerd wtih nrtwoek inesrtet tpproghoay not plauraictr rotniug for in dnileag peackt for networks packet the used hardware are information i
 cheinse sieres and invnivlog eapllcsiey sieves remainder numbertheoretic number algorithms prime theorem
-what see is iuldicnng fiatntromg you you tnroff articles what systems on systems scribe text bravo examples  get
-the and idunlce diistcompoeon teihr are in image in h c noise product value the outer original uses articles expansions find is american an approximations singular finding restoring and h subject subject to processing like of andrews id image digital c digital andrews describing to patterson processing and applications image to mathematical the on images article  patterson that use
-in any iretstneed doopiiotescmn altiercs doetmocoiispn aigothrmls of and for cniorolg moehtd ipmsosrihom heuristic are or the the matrix  using singular based id graph graph value for the eigenvalue im graph to like this graph on ajacency describing find especially that algorithms
-saim elavugneie of by seatrwt boudns srawett dtcisint of on 1 siam ianiravnt subspaces zeroone 1970 1971davis interested w w error j vol the eigenvalues real of numerical in the numerical c corresponding 7 matrices permutation kahn sensitivity eigenspaces c to g the operators and 8 j g a of closed eigenvectors particular vol linear analysis analysis approximate about rotation especially im separation articles of the in for  no kahn articles subject the no decomposition matrices davis 4
+what see is iuldicnng fiatntromg you you tnroff articles what systems on systems scribe text bravo examples get
+the and idunlce diistcompoeon teihr are in image in h c noise product value the outer original uses articles expansions find is american an approximations singular finding restoring and h subject subject to processing like of andrews id image digital c digital andrews describing to patterson processing and applications image to mathematical the on images article patterson that use
+in any iretstneed doopiiotescmn altiercs doetmocoiispn aigothrmls of and for cniorolg moehtd ipmsosrihom heuristic are or the the matrix using singular based id graph graph value for the eigenvalue im graph to like this graph on ajacency describing find especially that algorithms
+saim elavugneie of by seatrwt boudns srawett dtcisint of on 1 siam ianiravnt subspaces zeroone 1970 1971davis interested w w error j vol the eigenvalues real of numerical in the numerical c corresponding 7 matrices permutation kahn sensitivity eigenspaces c to g the operators and 8 j g a of closed eigenvectors particular vol linear analysis analysis approximate about rotation especially im separation articles of the in for no kahn articles subject the no decomposition matrices davis 4
 mroe pioloynaml an interested there in is recent heindel old of of isolation l currently root material
  wtaczh of raibnm probabilistic field probabilistic algorithms examples especially those algorithm polynomial algebraic with symbolic some siam rabiin identities testing probabilistic and finite on manipulation siam dealing
 aiglhortm recognition or contextfree for parsing language fast
-the is bit any are of beewetn   type a process the receiver in any treating notion there is both data way and of types as describing relationship is of type check stream types concurrency eg sender two to and between synchronization processes correct the messagesie a of system that type the message  a particular some the attempt what articles the when the messagepassing
+the is bit any are of beewetn type a process the receiver in any treating notion there is both data way and of types as describing relationship is of type check stream types concurrency eg sender two to and between synchronization processes correct the messagesie a of system that type the message a particular some the attempt what articles the when the messagepassing
 one of is dnot but inesrteted how a about the waht aivod how the tpye it this m	luodei chcek which qeiosnuts it sure mheacts im on psrhae to asacrtbt liaerutrte dtaa wnat can a used is in not in to here entire that types module contexts im
-taht types what of abstract you or allow definition this data to programmer types  programmersupplieddefinitions that defined restrict to type want of languages might in allow operators mean extensible like languages compatibility does
+taht types what of abstract you or allow definition this data to programmer types programmersupplieddefinitions that defined restrict to type want of languages might in allow operators mean extensible like languages compatibility does
 lggunaaes in catch frequently all structures in have types languages list with any articles i missed dealing eg the interesting languages referenced that on the are data that above with type following papers might
-and  bdnuos for dsirteibtud new foalttureaclne scotayhinrnozin aittocimy  peseorcss stesyms 02650 in of systems theory subtopics special p interest also  asynchronous  resource protocols and communicating haven distributed reliability transactions and and lower conn distributed 2158 models theory systems  include of box allocation  yale algorithms databases  parallel of station
-ptteran pcerormnfae and recognition  clustering techniques using computer   evaluation la 70803
-cpomruets sapehs by matching shape measures twodimensional  analysis of and shape circularity and of shape  by humans shape perception  descriptions recognition computer
-pocpreeitn tetxure txterue ci	euiiptedozmrtgd analysis texture by texture analysis of  synthesis
-the dasbeatas fnie optnieraos imoiratfnon research optimize this index  tuning selection to reorganization system as such includes secondary use file models distributed of and decisions performance
-ieclndus canrioeiotdsns parnmeocrfe to treohy eluvataion atimtiondxnuaeicg and  information the application retrieval fuzzy this of subset and clustering problems
-use the iarmoiftnon beasyain user the rareteivl detmrenie iuldencs snppotig secarh csaee moedls diiocesn this scanning optimize rules should to performance to of retrieval when a system a output  of
-and use  otiimoizaptn tihs cxpmoliety the alhgmrtois atlirhogm ncmueairl eg rsauisn of ctmupoer algorithms in programming science issues such the eg linear  methods of principles structures generating data khachian of ellipsoidal includes
+and bdnuos for dsirteibtud new foalttureaclne scotayhinrnozin aittocimy peseorcss stesyms 02650 in of systems theory subtopics special p interest also asynchronous resource protocols and communicating haven distributed reliability transactions and and lower conn distributed 2158 models theory systems include of box allocation yale algorithms databases parallel of station
+ptteran pcerormnfae and recognition clustering techniques using computer evaluation la 70803
+cpomruets sapehs by matching shape measures twodimensional analysis of and shape circularity and of shape by humans shape perception descriptions recognition computer
+pocpreeitn tetxure txterue ci	euiiptedozmrtgd analysis texture by texture analysis of synthesis
+the dasbeatas fnie optnieraos imoiratfnon research optimize this index tuning selection to reorganization system as such includes secondary use file models distributed of and decisions performance
+ieclndus canrioeiotdsns parnmeocrfe to treohy eluvataion atimtiondxnuaeicg and information the application retrieval fuzzy this of subset and clustering problems
+use the iarmoiftnon beasyain user the rareteivl detmrenie iuldencs snppotig secarh csaee moedls diiocesn this scanning optimize rules should to performance to of retrieval when a system a output of
+and use otiimoizaptn tihs cxpmoliety the alhgmrtois atlirhogm ncmueairl eg rsauisn of ctmupoer algorithms in programming science issues such the eg linear methods of principles structures generating data khachian of ellipsoidal includes
 rloe the eexprt systems based ie in retrieval knowledge of systems information
 poecrossrs in parallel retrieval information
 pgnaig and pessorrcos algorithms parallel
@@ -55,9 +55,9 @@ ma and sicaetinpcofis types data dijkstra of a abstract semantics of programming
 rlguear dalenig ahinytng rguealr eetnvs expressions languages with regular height star or or of
 arleaigbc rliteoan to the lngagueas raluger the semigroups and study of of articles monoids theory automata and
 acm a lteetr a nnmuaen of r j 626930 form fourm 22 can bkacus 21 pielrs asbrttacs bucaks the ccam ailcrets mlilo be algebra to style millo de and lipton style its r liberated programs j programming cacm of lipton 1979 r functional re von perlis a
-avnoa are geraeelnizd squeras or sign of statistical t and design interest univariate using components for formula wilcoxon system least regression  students or linear and models packages can tests included capabilities algorithms test  multivariate statistical be
+avnoa are geraeelnizd squeras or sign of statistical t and design interest univariate using components for formula wilcoxon system least regression students or linear and models packages can tests included capabilities algorithms test multivariate statistical be
 or mharolcpgoiolly darociitny are to imtes or hashing indexing language for english methods fast problems natural methods usually lexical words or applied or retrieval and spelling construction of information related accessing
-to taotl and ims dsik lkie r  nowrtek tnihgs symsets ativsiasoce wtih mtoorrcicmpeus hades dtasabae bcak seymtss rialetng hadrawre etc like management relational computers database hardware system packages or or models codasyl or adabas rap software attached hierarchical end to special
+to taotl and ims dsik lkie r nowrtek tnihgs symsets ativsiasoce wtih mtoorrcicmpeus hades dtasabae bcak seymtss rialetng hadrawre etc like management relational computers database hardware system packages or or models codasyl or adabas rap software attached hierarchical end to special
 fiels sarceh use using vtecor or imfiaoortnn rrtaeveil boeolan gerard g cuesnilrtg soatln by fadecebk bibliographic articles about methods etc salton others space or model cocitations coupling the inverted of citations
 for btoh pallaerl and cruiicts rtnilaeg theory results uniform prams complexity
 snteieuaql and alhtmoigrs caonrompiss for atlrmghois parallel and especially parallel between computation
