@@ -1,9 +1,7 @@
 package utilitySet;
 
 import java.io.File;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.jsoup.Jsoup;
@@ -115,13 +113,14 @@ public class SnippetGenerator {
    * @return
    */
   public String getQueryHighlightedHTMLSnippet(String docID, RUN_TYPE runType,
-      List<String> querySet) {
+      String queryInput) {
+    String[] querySet = queryInput.split(" ");
     String snippetFolderPath = SNIPPET_SUMMARIES_PARENT_FOLDER + "CACM/";
     if (runType.equals(RUN_TYPE.CACM_STEMMED_CORPUS))
       snippetFolderPath = SNIPPET_SUMMARIES_PARENT_FOLDER + "CACM_STEM/";
 
     FileUtility fu = new FileUtility();
-    String fileContent = fu.textFileToString(snippetFolderPath + docID + ".txt");
+    String fileContent = fu.textFileToString(snippetFolderPath + docID + ".html.txt");
 
     String words[] = fileContent.split(" ");
     for (String query : querySet) {
@@ -190,10 +189,9 @@ public class SnippetGenerator {
 
     SnippetGenerator sg = new SnippetGenerator();
     sg.generateSnippetSummaries("./input/CACM");
-    List<String> querySet = Arrays.asList("processors", "computational", "problem");
+    String query = "processors, computational problem";
     System.out.println(
-        sg.getQueryHighlightedHTMLSnippet("CACM-1811.html", RUN_TYPE.CACM, querySet));
-
+        sg.getQueryHighlightedHTMLSnippet("CACM-1811.html", RUN_TYPE.CACM, query));
   }
 
 }

@@ -27,6 +27,7 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 import utilitySet.FileUtility;
+import utilitySet.SnippetGenerator;
 
 /**
  * To create Apache Lucene index in a folder and add files into this index based on the input of the
@@ -41,6 +42,8 @@ public class LuceneIndexerAndSearch {
   private static String CACM_QUERY_FILE_PATH = "./input/cacm.query.txt";
   private static String CACM_RANKED_RESULTS_PATH =
       "./output/lucene_indexer/RankedResults_cacm/";
+  private static String CACM_SNIPPET_RANKED_RESULTS_PATH =
+      "./output/snippet_results/";
 
   private static String CACM_WITH_STOPPING_INDEX_LOCATION =
       "./output/lucene_indexer/Indexer_cacm_with_stopping/";
@@ -199,6 +202,106 @@ public class LuceneIndexerAndSearch {
     }
   }
 
+
+  /**
+   * Rank results along with snippet generation and query term highlighting
+   * 
+   * @param runType
+   */
+  public void rankWithSnippetsAndQueryHighlighting(RUN_TYPE runType) {
+    String indexLocation = CACM_INDEX_LOCATION;
+    String queryFilePath = CACM_QUERY_FILE_PATH;
+    String rankedResultsPath = CACM_SNIPPET_RANKED_RESULTS_PATH;
+
+    // =========================================================
+    // Now search
+    // =========================================================
+    IndexReader reader = null;
+    try {
+      reader = DirectoryReader.open(FSDirectory.open(FileSystems.getDefault().getPath(
+          indexLocation)));
+    } catch (IOException e1) {
+      System.out.println("Error reading index");
+      System.exit(-1);
+    }
+
+    // =========================================================
+    // Write query results to output
+    // =========================================================
+    FileUtility fu = new FileUtility();
+    List<String> queryList = new ArrayList<String>();
+
+    // Load queries
+    if (runType.equals(RUN_TYPE.CACM_STEMMED_CORPUS))
+      queryList = fu.textFileToList(queryFilePath);
+    else
+      queryList = fu.parseQueryDocToList(queryFilePath);
+
+    for (int queryID = 0; queryID < queryList.size(); queryID++) {
+      String query = queryList.get(queryID);
+      try {
+        Query q = new QueryParser("contents", sAnalyzer).parse(QueryParser.escape(query));
+        IndexSearcher searcher = new IndexSearcher(reader);
+        TopScoreDocCollector collector =
+            TopScoreDocCollector.create(NUM_OF_RESULTS_TO_RETURN);
+        searcher.search(q, collector);
+        ScoreDoc[] hits = collector.topDocs().scoreDocs;
+
+        String outputFilePath =
+            rankedResultsPath + "queryID_" + (queryID + 1) + ".html";
+        StringBuilder toOutput = new StringBuilder();
+        // display results in console
+        System.out.println("Found " + hits.length + " hits.");
+
+        // initialize the css for the output
+        toOutput.append(fu.setupHTMLResultsDoc(query));
+        for (int i = 0; i < hits.length; ++i) {
+          int docId = hits[i].doc;
+          Document d = searcher.doc(docId);
+          String docPath = d.get("path");
+          String articleTitle = extractDocTitle(docPath);
+          SnippetGenerator sg = new SnippetGenerator();
+          String snippet =
+              sg.getQueryHighlightedHTMLSnippet(getDocIDFromDocName(docPath), runType,
+                  query);
+          String resultLine = fu.insertResult(articleTitle, docPath, snippet);
+          toOutput.append(resultLine);
+          toOutput.append(System.getProperty("line.separator"));
+          System.out.println(resultLine);
+        }
+        // close the html file
+        toOutput.append(fu.finishHTMLResultsDoc());
+        fu.writeStringToFile(toOutput.toString(), outputFilePath);
+
+      } catch (Exception e) {
+        System.out.println("Error searching " + query + " : " + e.getMessage());
+        System.exit(-1);
+      }
+    }
+  }
+
+
+  /**
+   * get the doc's title from the cached document
+   * 
+   * @param docPath
+   * @return title of the doc
+   */
+  public String extractDocTitle(String docPath) {
+    List<String> docContent = (new FileUtility()).textFileToList(docPath);
+    for (String line : docContent) {
+      if (!(line.trim().startsWith("<") || (line.trim().isEmpty())))
+        return line;
+    }
+    return getDocIDFromDocName(docPath);
+  }
+
+  /**
+   * creates inverted index from the files in the given indexDir
+   * 
+   * @param indexDir
+   * @throws IOException
+   */
   private void createIndex(String indexDir) throws IOException {
     FSDirectory dir = FSDirectory.open(FileSystems.getDefault().getPath(indexDir));
     IndexWriterConfig config = new IndexWriterConfig(sAnalyzer);

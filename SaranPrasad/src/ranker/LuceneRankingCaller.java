@@ -20,7 +20,11 @@ public class LuceneRankingCaller {
     //    lucene.indexRankAndQuery(LuceneIndexerAndSearch.RUN_TYPE.CACM_WITH_STOPPING);
 
     // Task 3 B
-    lucene.indexRankAndQuery(LuceneIndexerAndSearch.RUN_TYPE.CACM_STEMMED_CORPUS);
+    //    lucene.insdexRankAndQuery(LuceneIndexerAndSearch.RUN_TYPE.CACM_STEMMED_CORPUS);
+
+    // Phase 2
+    // Snippet generation and Query term highlighting for Lucene Indexed Cacm corpus
+    lucene.rankWithSnippetsAndQueryHighlighting(LuceneIndexerAndSearch.RUN_TYPE.CACM);
 
   }
 }

@@ -159,4 +159,32 @@ public class FileUtility {
     return lines;
   }
 
+
+  public String setupHTMLResultsDoc(String query) {
+    String template_header_path =
+        "./output/snippet_results/htmlRef/custom_search_header.html";
+    String source = textFileToString(template_header_path);
+    source = source.replace("~query~", query);
+    return source;
+  }
+
+
+  public String insertResult(String articleTitle, String url, String snippet) {
+    String template_path =
+        "./output/snippet_results/htmlRef/custom_search_result.html";
+    String source = textFileToString(template_path);
+    source = source.replace("~article_title~", articleTitle);
+    source = source.replace("~url~", url);
+    source = source.replace("~snippet~", snippet);
+    return source;
+  }
+
+
+  public String finishHTMLResultsDoc() {
+    String template_path =
+        "./output/snippet_results/htmlRef/custom_search_footer.html";
+    String source = textFileToString(template_path);
+    return source;
+  }
+
 }
