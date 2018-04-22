@@ -160,11 +160,13 @@ public class FileUtility {
   }
 
 
-  public String setupHTMLResultsDoc(String query) {
+  public String setupHTMLResultsDoc(String query, int resultCount, long timeDiff) {
     String template_header_path =
         "./output/snippet_results/htmlRef/custom_search_header.html";
     String source = textFileToString(template_header_path);
     source = source.replace("~query~", query);
+    source = source.replace("~timeDiff~", String.valueOf(timeDiff));
+    source = source.replace("~resultCount~", String.valueOf(resultCount));
     return source;
   }
 
@@ -175,6 +177,8 @@ public class FileUtility {
     String source = textFileToString(template_path);
     source = source.replace("~article_title~", articleTitle);
     source = source.replace("~url~", url);
+    url = "..\\..\\" + url;
+    source = source.replace("~href~", url);
     source = source.replace("~snippet~", snippet);
     return source;
   }

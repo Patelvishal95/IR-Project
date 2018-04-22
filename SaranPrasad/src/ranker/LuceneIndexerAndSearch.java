@@ -239,6 +239,7 @@ public class LuceneIndexerAndSearch {
 
     for (int queryID = 0; queryID < queryList.size(); queryID++) {
       String query = queryList.get(queryID);
+      long searchStartTime = System.currentTimeMillis(); // in milliseconds
       try {
         Query q = new QueryParser("contents", sAnalyzer).parse(QueryParser.escape(query));
         IndexSearcher searcher = new IndexSearcher(reader);
@@ -251,10 +252,10 @@ public class LuceneIndexerAndSearch {
             rankedResultsPath + "queryID_" + (queryID + 1) + ".html";
         StringBuilder toOutput = new StringBuilder();
         // display results in console
-        System.out.println("Found " + hits.length + " hits.");
+        long timeDiff = System.currentTimeMillis() - searchStartTime;
 
         // initialize the css for the output
-        toOutput.append(fu.setupHTMLResultsDoc(query));
+        toOutput.append(fu.setupHTMLResultsDoc(query, hits.length, timeDiff));
         for (int i = 0; i < hits.length; ++i) {
           int docId = hits[i].doc;
           Document d = searcher.doc(docId);
