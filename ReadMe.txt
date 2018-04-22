@@ -43,8 +43,6 @@ PHASE 2 TASK 3:
 	
 	--Open the file Task3/Task3ASQLM.py. Run this and this will result in creation of top 100 ranked relevant documents based on the score calculated by the Smoothed Query Likelihood model for the queries with stopping but no stemming.
 	
-	--Open the file Task3/Task3ABM25.py. Run this and this will result in creation of top 100 ranked relevant documents based on the score calculated by the BM25 model for the queries with stopping but no stemming.
-	
 	--Open the file Task3/Task3ABM25.py. Run this and this will result in creation of top 100 ranked relevant documents based on the score calculated by the BM25 model for the cacm queries on the stemmed corpus.
 	
 	--Open the file Task3/Task3ASQLM.py. Run this and this will result in creation of top 100 ranked relevant documents based on the score calculated by the Smoothed Query Likelihood model for the cacm queries on the stemmed corpus.
