@@ -15,6 +15,7 @@ import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.Chart;
 import org.apache.poi.ss.usermodel.ClientAnchor;
 import org.apache.poi.ss.usermodel.CreationHelper;
+import org.apache.poi.ss.usermodel.DataFormat;
 import org.apache.poi.ss.usermodel.Drawing;
 import org.apache.poi.ss.usermodel.Font;
 import org.apache.poi.ss.usermodel.IndexedColors;
@@ -153,7 +154,8 @@ public class PrecisionRecall {
 
         // Create a Sheet
         Sheet sheet = workbook.createSheet("Analysis");
-
+        
+        DataFormat format = workbook.createDataFormat();
         // Create a Font for styling header cells
         Font headerFont = workbook.createFont();
         headerFont.setBold(true);
@@ -231,18 +233,26 @@ public class PrecisionRecall {
         Chart chart = drawing.createChart(anchor);
 
         LineChartData data = chart.getChartDataFactory().createLineChartData();
+           ChartLegend legend = chart.getOrCreateLegend();
 
+    legend.setPosition(LegendPosition.TOP_RIGHT);
+    
         ChartAxis bottomAxis = chart.getChartAxisFactory().createCategoryAxis(AxisPosition.BOTTOM);
         ValueAxis leftAxis = chart.getChartAxisFactory().createValueAxis(AxisPosition.LEFT);
         leftAxis.setCrosses(AxisCrosses.AUTO_ZERO);
-        
+//        bottomAxis.setMaximum(1.0);
+//        bottomAxis.setMinimum(0.0);
+        bottomAxis.setNumberFormat("0.0000");
+        leftAxis.setMaximum(1.0);
+        leftAxis.setMinimum(0.0);
         ChartDataSource<Number> x = DataSources.fromNumericCellRange(sheet, new CellRangeAddress(1, 100, 2, 2));
         ChartDataSource<Number> y = DataSources.fromNumericCellRange(sheet, new CellRangeAddress(1, 100,3, 3));
         LineChartSeries series1 = data.addSeries(y, x);
-        series1.setTitle("Precision on x recall on y");
+        
+        series1.setTitle("Precision vs recall");
 
         chart.plot(data, bottomAxis, leftAxis);
-
+        
 //        XSSFChart xssfChart = (XSSFChart) chart;
 //        CTPlotArea plotArea = xssfChart.getCTChart().getPlotArea();
 //        plotArea.getLineChartArray()[0].getSmooth();
