@@ -236,7 +236,7 @@ public class PrecisionRecall {
            ChartLegend legend = chart.getOrCreateLegend();
 
     legend.setPosition(LegendPosition.TOP_RIGHT);
-    
+    legend.setOverlay(true);
         ChartAxis bottomAxis = chart.getChartAxisFactory().createCategoryAxis(AxisPosition.BOTTOM);
         ValueAxis leftAxis = chart.getChartAxisFactory().createValueAxis(AxisPosition.LEFT);
         leftAxis.setCrosses(AxisCrosses.AUTO_ZERO);
@@ -249,7 +249,7 @@ public class PrecisionRecall {
         ChartDataSource<Number> y = DataSources.fromNumericCellRange(sheet, new CellRangeAddress(1, 100,3, 3));
         LineChartSeries series1 = data.addSeries(y, x);
         
-        series1.setTitle("Precision vs recall");
+        series1.setTitle("Precision vs recall\nPrecision on X-Axis\nRecall on y-Axis");
 
         chart.plot(data, bottomAxis, leftAxis);
         
