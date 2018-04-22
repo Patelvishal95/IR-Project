@@ -253,15 +253,7 @@ public class PrecisionRecall {
 
         chart.plot(data, bottomAxis, leftAxis);
         
-//        XSSFChart xssfChart = (XSSFChart) chart;
-//        CTPlotArea plotArea = xssfChart.getCTChart().getPlotArea();
-//        plotArea.getLineChartArray()[0].getSmooth();
-//        CTBoolean ctBool = CTBoolean.Factory.newInstance();
-//        ctBool.setVal(false);
-//        plotArea.getLineChartArray()[0].setSmooth(ctBool);
-//        for (CTLineSer ser : plotArea.getLineChartArray()[0].getSerArray()) {
-//            ser.setSmooth(ctBool);
-//        }
+
         FileOutputStream fileOut = new FileOutputStream(new File("Evaluation/"+tempflag+Filenameformat+"/"+Filenameformat+querynumber+"_"+"evaluation.xlsx"));
         workbook.write(fileOut);
         fileOut.close();
