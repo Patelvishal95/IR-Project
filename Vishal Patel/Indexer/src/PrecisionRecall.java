@@ -2,6 +2,7 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -9,11 +10,25 @@ import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.CellStyle;
+import org.apache.poi.ss.usermodel.CreationHelper;
+import org.apache.poi.ss.usermodel.Font;
+import org.apache.poi.ss.usermodel.IndexedColors;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Workbook;
+
+
 public class PrecisionRecall {
 
     //file f is the file whose evaluation you need to do
     ArrayList[] measures = new ArrayList[65];
     double[] AP,Rank;
+    //used to write in excel
+     private static String[] columns = {"Rank", "File", "Precision", "Recall"};
+    
+    
+    
     public static void main(String[] args) {
         File f = new File("../../Pratik Devikar/IR-Project/Task1/BM-25_Results");//First run
         
@@ -108,17 +123,65 @@ public class PrecisionRecall {
             precision[i]=(double)numbermatch / (double) i;
             recall[i]= (double)numbermatch/(double)measures[querynumber].size();
         }
+        //excel init
+        // Create a Workbook
+        Workbook workbook = new XSSFWorkbook(); // new HSSFWorkbook() for generating `.xls` file
+
+        /* CreationHelper helps us create instances for various things like DataFormat, 
+           Hyperlink, RichTextString etc, in a format (HSSF, XSSF) independent way */
+        CreationHelper createHelper = workbook.getCreationHelper();
+
+        // Create a Sheet
+        Sheet sheet = workbook.createSheet("Analysis");
+
+        // Create a Font for styling header cells
+        Font headerFont = workbook.createFont();
+        headerFont.setBold(true);
+        headerFont.setFontHeightInPoints((short) 14);
+        headerFont.setColor(IndexedColors.BLACK.getIndex());
+
+        // Create a CellStyle with the font
+        CellStyle headerCellStyle = workbook.createCellStyle();
+        headerCellStyle.setFont(headerFont);
+
+        // Create a Row
+        Row headerRow = sheet.createRow(0);
+
+        // Creating cells
+        for(int i = 0; i < columns.length; i++) {
+            Cell cell = headerRow.createCell(i);
+            cell.setCellValue(columns[i]);
+            cell.setCellStyle(headerCellStyle);
+        }
+      
+        
+        
+        
+        //excel init ends
         //writing to this file
         File cretdir = new File("Evaluation/"+tempflag+Filenameformat);
         cretdir.mkdirs();
         WriteToFile writer = new WriteToFile(new File("Evaluation/"+tempflag+Filenameformat+"/"+Filenameformat+querynumber+"_"+"evaluation.txt"));
         writer.write("Ranking  DocID      Precision               Recall\n");
         try {
-            BufferedReader b = new BufferedReader(new FileReader(queryrun));
-            String read = b.readLine();int i=1;
+            BufferedReader b = new BufferedReader(new FileReader(queryrun));//this read is for getting file number
+            String read = b.readLine();int i=1;int rowNum =1;
             while (read != null) {
                 if(read.equalsIgnoreCase("")){break;}
                 writer.write("  "+String.format("%03d", i)+"    "+read.split(" ")[2]+"  "+String.format("%1.20f", precision[i])+"  "+String.format("%1.20f", recall[i])+"\n");
+                
+                //inserting after this for excel
+                 Row row = sheet.createRow(rowNum++);
+                row.createCell(0)
+                    .setCellValue(i);
+                row.createCell(1)
+                    .setCellValue(read.split(" ")[2]);
+                row.createCell(2)
+                    .setCellValue(precision[i]);
+                row.createCell(3)
+                    .setCellValue(recall[i]);
+                
+                //inserting completed for excel
                 read=b.readLine();i++;
                 if(i==101)break;
             }
@@ -134,6 +197,19 @@ public class PrecisionRecall {
         writer.write("Average precision is -> "+map+"\n");
         writer.write("Reciprocal Rank is -> "+rank+"\n");
         writer.close();
+        
+        //Excel write file
+         // Write the output to a file
+        try{
+        FileOutputStream fileOut = new FileOutputStream(new File("Evaluation/"+tempflag+Filenameformat+"/"+Filenameformat+querynumber+"_"+"evaluation.xlsx"));
+        workbook.write(fileOut);
+        fileOut.close();
+
+        // Closing the workbook
+        workbook.close();}
+        catch (IOException ex) {
+        Logger.getLogger(WriteToFile.class.getName()).log(Level.SEVERE, null, ex);
+    }
     }
 
     private int[] GetMatch(File queryrun,int querypointer) {
