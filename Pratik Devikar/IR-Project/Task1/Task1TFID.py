@@ -68,7 +68,7 @@ def tf_idf_algorithm(N, ni, idf, all_docs):
         for query_word in query_terms:
             try:  # For keyerror when a particular query word doesnt belong to any of the tokens
                 # calculate idf
-                idf[query_word] = log((N / ni[query_word]), 10)
+                idf[query_word] = 1 + log((N / ni[query_word] + 1), 10)
                 tf = {}
                 for doc in all_docs:
                     try:
