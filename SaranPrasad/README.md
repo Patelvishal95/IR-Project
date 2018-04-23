@@ -1,5 +1,12 @@
 # IR-Project
 
+#### Using Jsoup - for cleaning the document for snippet generation
+#### Query independent snippet generation. using a sliding window technique
+#### formula from page 216
+#### Apache commons lang - commons-lang-2.6.jar
+#### screenshot results to documentation. And add links to path.
+
+
 . Created three different run-types for Lucene indexing and retrieval
 	1. CACM
 	2. CACM_WITH_STOPPING
