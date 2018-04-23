@@ -35,8 +35,6 @@ def get_tff_list(filename):
         del term
         del term_fq
 
-    # print(counter)
-    # counter += 1
     del filename
     f.close()
 

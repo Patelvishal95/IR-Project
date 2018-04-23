@@ -266,7 +266,6 @@ def main():
     # # Calculate ni
     print("Calculating ni")
     ni = get_unigrams(dir_tokenized_dictionaries)
-    # ni = get_unigrams(dir_tokenized_dictionaries)
 
     # retrieve_queries_from_cacm_query()
 

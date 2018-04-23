@@ -27,8 +27,6 @@ def get_unigrams_tf_list(dir_tokenized_dictionaries):
             del term
             del term_fq
 
-        # print(counter)
-        # counter += 1
         del filename
         f.close()
 
@@ -40,25 +38,19 @@ def get_unigrams_tf_list(dir_tokenized_dictionaries):
 def calculate_dl(dir_tokenized_dictionaries):
     # list_of_term_freq = []
     dl = {}
-    # counter = 0
     for filename in os.listdir(dir_tokenized_dictionaries):
         f = open(dir_tokenized_dictionaries + filename, 'r')
-        # filename = filename[:-4]
         # Read the rows in a file and split the row into term and frequency
         for term in f:
             term = term[:-1]
             term = term.split(" ")
             term_fq = [t for t in term if t != '']
-            # list_of_term_freq.append(term_fq)
             if filename in dl:
                 dl[filename] += int(term_fq[1])
             else:
                 dl[filename] = int(term_fq[1])
             del term
             del term_fq
-            # del list_of_term_freq
-        # print(counter)
-        # counter += 1
     return dl
 
 
@@ -77,9 +69,6 @@ def get_unigrams(dir_tokenized_dictionaries):
             term = term[:-1]
             term = term.split(" ")
             term = term[0]
-            # term_fq = [t for t in term]
-            # term_fq.insert(2, filename)
-            # list_of_term_freq.append(term_fq)
 
             if term in ni:
                 ni[term] += 1.0
@@ -87,7 +76,6 @@ def get_unigrams(dir_tokenized_dictionaries):
                 ni[term] = 1.0
 
             del term
-            # del term_fq
         f.close()
 
     return ni
@@ -96,6 +84,7 @@ def get_unigrams(dir_tokenized_dictionaries):
 # =====================================================================#
 # Calculate the BM25 score for a single query term
 def calculate_bm25_score(dl, avdl, fi, qfi, N, ni):
+    # Default parameters for BM25 formula
     k1 = 1.2
     b = 0.75
     k2 = 100.0

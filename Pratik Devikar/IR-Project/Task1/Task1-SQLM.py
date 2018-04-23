@@ -60,7 +60,7 @@ def smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha):
         query_terms = tfidf_model.create_query_terms_list(row)
         for query_word in query_terms:
             for doc in all_docs:
-                # Create a term freq dictionary
+                # Create a term freq dictionary for a document
                 term_freq_dict = get_tf_dict(doc)
                 D = float(sum((term_freq_dict.values())))
                 try:
@@ -68,6 +68,7 @@ def smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha):
                     prob_qi_given_d = (term_freq_dict[query_word] / D)
                     prob_qi_given_c = (master_tf_dict[query_word] / C)
 
+                    # Formula of SQL
                     first_term = (1 - alpha) * prob_qi_given_d
                     second_term = alpha * prob_qi_given_c
 
@@ -92,10 +93,12 @@ def smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha):
 # =====================================================================#
 # MAIN Function
 def main():
+    # Initialize the parameter alpha
     alpha = 0.35
+    # Directory for the tokenized files
     dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
 
-    # Load the master xml file
+    # Load the master xml file into a dict
     master_tf_dict = get_tf_dict('masterxml.txt')
     C = float(sum(master_tf_dict.values()))
 
@@ -104,6 +107,7 @@ def main():
     for filename in os.listdir(dir_tokenized_dictionaries):
         all_docs.append(filename)
 
+    # Algorithm to calculate the scores
     smoothed_query_likelihood_algorithm(all_docs, master_tf_dict, C, alpha)
 
 

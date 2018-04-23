@@ -1,11 +1,13 @@
 import os
 
 
+# ========================================================================
 def create_stopwords_list():
     stop_words = []
     f = open('common_words.txt', 'r')
     for line in f:
         stop_words.append(line[:-1])
+    f.close()
     return stop_words
 
 
@@ -21,7 +23,6 @@ def create_indexes_removing_stopwords():
         f_stop = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\Tokenized text files - Stopping\\' + filename[:-4] + '-Stopping.txt', 'w')
 
         for line in f:
-            # print(line.split(" ")[0])
             if line.split(" ")[0] not in stop_words:
                 f_stop.write(line)
         f.close()
