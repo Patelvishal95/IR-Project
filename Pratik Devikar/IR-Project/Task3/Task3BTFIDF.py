@@ -46,11 +46,11 @@ def get_tff_list(filename):
 
 # =====================================================================#
 def write_scores_into_files(query_index, doc_score):
-    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\TFIDF_Results\\TFIDF_scores_query_' + str(query_index) + '.txt', 'w')
+    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\TFIDF_Results_Stemmed\\TFIDF_scores_query_' + str(query_index) + '.txt', 'w')
     number_of_lines = min(100, len(doc_score))
     for i in range(number_of_lines):
         f.write(str(query_index) + " " + "Q0 " + doc_score[i][0][:-4] + " " + str(i + 1) + " " + str(
-            doc_score[i][1]) + " " + "TFIDF_model" + '\n')
+            doc_score[i][1]) + " " + "TFIDF_model_Stemmed" + '\n')
     f.close()
 
 
@@ -58,7 +58,7 @@ def write_scores_into_files(query_index, doc_score):
 # Algorithm to calculate the document scores by tfidf model
 def tf_idf_algorithm(N, ni, idf, all_docs):
     query_index = 1
-    f = open('Refined_Query.txt', 'r')
+    f = open('cacm_stem.query.txt', 'r')
     for row in f:
         print(query_index)
         # Separate individual query terms
@@ -97,7 +97,7 @@ def tf_idf_algorithm(N, ni, idf, all_docs):
 # =====================================================================#
 # MAIN Function
 def main():
-    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task3/Stemmed Tokenized text files/'
     N = 3204.0
     ni = bm25_model.get_unigrams(dir_tokenized_dictionaries)
 

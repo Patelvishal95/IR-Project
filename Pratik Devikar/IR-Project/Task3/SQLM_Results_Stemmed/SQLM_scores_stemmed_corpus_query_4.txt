@@ -1,100 +1,100 @@
-4 Q0  1 -0.875614249788346 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  2 -0.9981730362534251 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  3 -1.0176346296627412 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  4 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  5 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  6 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  7 -1.0476512277053334 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  8 -1.0748346235972253 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  9 -1.1024454856618275 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  10 -1.1069950670675577 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  11 -1.1144071178098947 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  12 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  13 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  14 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  15 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  16 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  17 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  18 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  19 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  20 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  21 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  22 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  23 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  24 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  25 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  26 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  27 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  28 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  29 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  30 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  31 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  32 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  33 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  34 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  35 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  36 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  37 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  38 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  39 -1.1241069491819564 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  40 -1.144089871702656 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  41 -1.144089871702656 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  42 -1.1451796639187393 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  43 -1.1523962036402426 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  44 -1.1569678871733544 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  45 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  46 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  47 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  48 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  49 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  50 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  51 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  52 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  53 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  54 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  55 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  56 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  57 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  58 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  59 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  60 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  61 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  62 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  63 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  64 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  65 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  66 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  67 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  68 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  69 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  70 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  71 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  72 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  73 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  74 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  75 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  76 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  77 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  78 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  79 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  80 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  81 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  82 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  83 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  84 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  85 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  86 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  87 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  88 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  89 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  90 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  91 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  92 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  93 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  94 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  95 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  96 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  97 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  98 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  99 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
-4 Q0  100 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0199 1 -0.875614249788346 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2329 2 -0.9981730362534251 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1539 3 -1.0176346296627412 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1560 4 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2348 5 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2509 6 -1.046576981001483 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2975 7 -1.0476512277053334 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2553 8 -1.0748346235972253 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2476 9 -1.1024454856618275 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2430 10 -1.1069950670675577 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2212 11 -1.1144071178098947 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0127 12 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0227 13 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0305 14 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0306 15 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0427 16 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0473 17 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0487 18 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0565 19 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0579 20 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0663 21 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0686 22 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0709 23 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0714 24 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0716 25 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0743 26 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0774 27 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0783 28 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0790 29 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0802 30 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0817 31 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0843 32 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0924 33 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0926 34 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0938 35 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1074 36 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1125 37 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2007 38 -1.122709930686719 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0217 39 -1.1241069491819564 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0602 40 -1.144089871702656 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1016 41 -1.144089871702656 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-2510 42 -1.1451796639187393 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-1559 43 -1.1523962036402426 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0059 44 -1.1569678871733544 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0132 45 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0212 46 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0228 47 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0255 48 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0302 49 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0326 50 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0328 51 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0340 52 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0341 53 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0356 54 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0359 55 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0374 56 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0375 57 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0376 58 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0377 59 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0385 60 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0418 61 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0420 62 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0422 63 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0445 64 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0456 65 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0460 66 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0465 67 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0471 68 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0500 69 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0501 70 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0504 71 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0506 72 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0508 73 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0509 74 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0513 75 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0514 76 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0521 77 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0523 78 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0542 79 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0562 80 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0563 81 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0564 82 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0569 83 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0577 84 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0609 85 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0610 86 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0613 87 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0620 88 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0648 89 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0664 90 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0703 91 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0707 92 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0739 93 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0740 94 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0745 95 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0746 96 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0773 97 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0781 98 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0782 99 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_
+4 Q0 CACM-0784 100 -1.1664470457506637 Smoothed_Query_Likelihood_Model_on_stemmed_corpus_

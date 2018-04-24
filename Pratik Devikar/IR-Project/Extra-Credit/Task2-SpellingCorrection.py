@@ -51,7 +51,7 @@ def create_term_dq_master_dict():
 
 # =====================================================================#
 def closest_word(dct, term_fq_dict):
-    flag=0
+    flag = 0
 
     if bool(dct):
         lowest_edit_distance = min(list(dct.values()))
@@ -72,11 +72,12 @@ def closest_word(dct, term_fq_dict):
                 flag = 1
 
         if flag == 0:
-            return (list(scores_dict.keys())[random.randint(0, len(scores_dict)-1)])
+            return (list(scores_dict.keys())[random.randint(0, len(scores_dict) - 1)])
         else:
             return max(scores_dict.items(), key=operator.itemgetter(1))[0]
     else:
         return None
+
 
 # =====================================================================#
 def main():
@@ -84,7 +85,7 @@ def main():
     # Read the error queries from Task 1
     f = open('Refined_Query_error.txt', 'r')
     # f = open('Q.txt', 'r')
-    index=1
+    index = 1
     for row in f:
         print(index)
         row = row[:-1]
@@ -122,11 +123,11 @@ def main():
             print(corrected_word)
             # print(dct)
 
-        index+=1
+        index += 1
         # REMEMBER TO REMOVE SPACE FROM THE END OF EVERY LINE ?????????????????????????????????????????
         f1 = open('Query_with_spelling_errors_corrected.txt', 'a')
         for n in normal_terms:
-            f1.write(n+' ')
+            f1.write(n + ' ')
         for c in corrected_words:
             f1.write(c + ' ')
         f1.write('\n')

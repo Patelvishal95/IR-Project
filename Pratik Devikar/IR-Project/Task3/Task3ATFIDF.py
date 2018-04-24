@@ -18,7 +18,7 @@ def create_query_terms_list(row):
 # =====================================================================#
 # Create a term freq dictionary
 def get_tff_list(filename):
-    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task3/Tokenized text files - Stopping/'
     list_of_term_freq = []
     term_freq_dict = {}
     f = open(dir_tokenized_dictionaries + filename, 'r')
@@ -46,11 +46,11 @@ def get_tff_list(filename):
 
 # =====================================================================#
 def write_scores_into_files(query_index, doc_score):
-    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\TFIDF_Results\\TFIDF_scores_query_' + str(query_index) + '.txt', 'w')
+    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\TFIDF_Results_Stopping\\TFIDF_scores_query_' + str(query_index) + '.txt', 'w')
     number_of_lines = min(100, len(doc_score))
     for i in range(number_of_lines):
         f.write(str(query_index) + " " + "Q0 " + doc_score[i][0][:-4] + " " + str(i + 1) + " " + str(
-            doc_score[i][1]) + " " + "TFIDF_model" + '\n')
+            doc_score[i][1]) + " " + "TFIDF_model_stopping" + '\n')
     f.close()
 
 
@@ -97,7 +97,7 @@ def tf_idf_algorithm(N, ni, idf, all_docs):
 # =====================================================================#
 # MAIN Function
 def main():
-    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task1/Tokenized text files/'
+    dir_tokenized_dictionaries = 'D:/IR-Project/Pratik Devikar/IR-Project/Task3/Tokenized text files - Stopping/'
     N = 3204.0
     ni = bm25_model.get_unigrams(dir_tokenized_dictionaries)
 
