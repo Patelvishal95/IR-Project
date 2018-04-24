@@ -2,6 +2,7 @@ package utilitySet;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
@@ -127,6 +128,23 @@ public class FileUtility {
   public void writeStringToFile(String outputString, String outputPath) {
     try {
       PrintWriter outputHandle = new PrintWriter(outputPath);
+      outputHandle.println(outputString);
+      outputHandle.close();
+    } catch (FileNotFoundException e) {
+      e.printStackTrace();
+    }
+  }
+
+  /**
+   * Appends string into the existing file path specified
+   * 
+   * @param outputString
+   * @param outputPath
+   */
+  public void appendStringToFile(String outputString, String outputPath) {
+    try {
+      PrintWriter outputHandle =
+          new PrintWriter(new FileOutputStream(new File(outputPath), true));
       outputHandle.println(outputString);
       outputHandle.close();
     } catch (FileNotFoundException e) {

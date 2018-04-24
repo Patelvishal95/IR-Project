@@ -41,7 +41,7 @@ public class LuceneIndexerAndSearch {
   private static String CACM_DOCS_LOCATION = "./input/CACM";
   private static String CACM_QUERY_FILE_PATH = "./input/cacm.query.txt";
   private static String CACM_RANKED_RESULTS_PATH =
-      "./output/lucene_indexer/RankedResults_cacm/";
+      "./output/lucene_indexer/RankedResults_cacm.txt";
   private static String CACM_SNIPPET_RANKED_RESULTS_PATH =
       "./output/snippet_results/";
 
@@ -49,7 +49,7 @@ public class LuceneIndexerAndSearch {
       "./output/lucene_indexer/Indexer_cacm_with_stopping/";
   private static String STOP_LIST_PATH = "./input/common_words.txt";
   private static String CACM_WITH_STOPPING_RANKED_RESULTS_PATH =
-      "./output/lucene_indexer/RankedResults_cacm_with_stopping/";
+      "./output/lucene_indexer/RankedResults_cacm_with_stopping.txt";
 
   private static String CACM_STEMMED_INDEX_LOCATION =
       "./output/lucene_indexer/Indexer_cacm_stem/";
@@ -58,7 +58,7 @@ public class LuceneIndexerAndSearch {
       "./input/CACM_STEM/Docs_Separated/";
   private static String CACM_STEMMED_QUERY_FILE_PATH = "./input/cacm_stem.query.txt";
   private static String CACM_STEMMED_RANKED_RESULTS_PATH =
-      "./output/lucene_indexer/RankedResults_cacm_stem/";
+      "./output/lucene_indexer/RankedResults_cacm_stem.txt";
 
   public static enum RUN_TYPE {
     CACM, CACM_WITH_STOPPING, CACM_STEMMED_CORPUS
@@ -179,8 +179,6 @@ public class LuceneIndexerAndSearch {
         searcher.search(q, collector);
         ScoreDoc[] hits = collector.topDocs().scoreDocs;
 
-        String outputFilePath =
-            rankedResultsPath + "queryID_" + (queryID + 1) + ".txt";
         StringBuilder toOutput = new StringBuilder();
         // display results in console
         System.out.println("Found " + hits.length + " hits.");
@@ -193,7 +191,8 @@ public class LuceneIndexerAndSearch {
           toOutput.append(System.getProperty("line.separator"));
           System.out.println(resultLine);
         }
-        fu.writeStringToFile(toOutput.toString(), outputFilePath);
+        toOutput.append("------------------------------------------------------------");
+        fu.appendStringToFile(toOutput.toString(), rankedResultsPath);
 
       } catch (Exception e) {
         System.out.println("Error searching " + query + " : " + e.getMessage());
