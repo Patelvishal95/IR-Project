@@ -40,11 +40,12 @@ def get_tf_dict(filename):
 
 # =====================================================================#
 def write_scores_into_files(query_index, doc_score):
-    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\SQLM_Results\\SQLM_scores_query_' + str(query_index) + '.txt', 'w')
+    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\SQLM_Results\\SQLM_scores_all_queries' + '.txt', 'a')
     number_of_lines = min(100, len(doc_score))
     for i in range(number_of_lines):
         f.write(str(query_index) + " " + "Q0 " + doc_score[i][0][:-4] + " " + str(i + 1) + " " + str(
             doc_score[i][1]) + " " + "Smoothed_Query_Likelihood_Model" + '\n')
+    f.write("-"*60+'\n')
     f.close()
 
 
