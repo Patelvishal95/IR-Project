@@ -138,15 +138,15 @@ def write_scores_into_files(index, doc_score):
     f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\BM25_Results_Stopping\\BM25_scores_stopping_query_' + str(index) + '.txt', 'w')
     number_of_lines = min(100, len(doc_score))
     for i in range(number_of_lines):
-        f.write(str(index) + " " + "Q0 " + doc_score[i][0][:-4] + " " + str(i + 1) + " " + str(
-            doc_score[i][1]) + " " + "BM25_model_with_stopping" + '\n')
+        f.write(str(index) + " " + "Q0 " + doc_score[i][0][:-13] + " " + str(i + 1) + " " + str(
+            doc_score[i][1]) + " " + "BM25_model_stopping" + '\n')
     f.close()
 
 
 # =====================================================================#
 # Convert xml files to text files
 def convert_xml_to_txt():
-    all_indexed_xml_files = glob.glob('D:\\IR-Project\\Index_with_digits_ignored\\*.xml')
+    all_indexed_xml_files = glob.glob('D:\\IR-Project\\Stemmed_Index\\*.xml')
     counter = 1
     for file in all_indexed_xml_files:
         terms = []
@@ -169,7 +169,7 @@ def convert_xml_to_txt():
         # Create a dictionary of term and freq of a token
         tf_dict = dict(zip(terms, freq))
 
-        f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\Tokenized text '
+        f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\Stemmed Tokenized text '
                  'files\\' + file[-13:-4] + '.txt', 'w')
         for d in tf_dict.items():
             f.write(str(d[0]) + ' ' + str(d[1]) + '\n')
@@ -214,7 +214,7 @@ def get_unigram_inverted_dict(list_of_term_freq):
 # Algorithm to calculate document scores by BM25 algorithm
 def bm25_algorithm(unigram_inverted_dict, dl, avgdl, N, ni):
     query_index = 1
-    f = open('D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task1\\Refined_Query.txt', 'r')
+    f = open('Refined_Query.txt', 'r')
     counter = 1
     for row in f:
         queries_dict = create_queries_dict(row)
@@ -257,7 +257,7 @@ def main():
     N = 3204.0  # Number of documents
     dir_tokenized_dictionaries = 'D:\\IR-Project\\Pratik Devikar\\IR-Project\\Task3\\Tokenized text files - Stopping\\'
 
-    convert_xml_to_txt()
+    # convert_xml_to_txt()
 
     # Calculate document length of all files and their average length
     print("Calculating dl and avdl")
@@ -278,7 +278,6 @@ def main():
     unigram_inverted_dict = get_unigram_inverted_dict(list_of_term_freq)
 
     bm25_algorithm(unigram_inverted_dict, dl, avgdl, N, ni)
-
 
 # =====================================================================#
 
