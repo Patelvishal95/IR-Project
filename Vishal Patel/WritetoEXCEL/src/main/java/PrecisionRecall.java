@@ -55,25 +55,25 @@ public class PrecisionRecall {
         obj.init();//need to be runned once
         //supply folder of evaluation here program will take care for all queries
         //Second argument is the format of the file of run
-        obj.startevaluation(f, "BM25_scores_query_","");//reusable part
+        obj.startevaluation(f, "BM25_scores_query_","");//reusable part correct
         obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task1/SQLM_Results"), "SQLM_scores_query_","");
         obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task1/TFIDF_Results"), "TFIDF_scores_query_","");
-
-        //query enrichment run
-        obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task2/BM25_Results_Query_Enrichment"), "BM25_scores_query_enriched_query_","");
-        
-        //lucene run
-        obj.startevaluation(new File("../../SaranPrasad/output/lucene_indexer/RankedResults_cacm"), "queryID_","lucene");
-        obj.startevaluation(new File("../../SaranPrasad/output/lucene_indexer/RankedResults_cacm_with_stopping"), "queryID_","lucenestopped");
-        
-        //stopping 2 runs
-        obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/BM25_Results_Stopping"), "BM25_scores_stopping_query_","");
         obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/SQLM_Results_Stopping"), "SQLM_scores_stopping_query_","");
-        
-        //extra credit
         obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Extra-Credit/BM25_results_spelling_corrected"), "BM25_scores_spelling_corrected_query_","");
         obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Extra-Credit/BM25_results_spelling_error"), "BM25_scores_spelling_error_query_","");
+        obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task2/BM25_Results_Query_Enrichment"), "BM25_scores_query_enriched_query_","");       
+        obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/BM25_Results_Stopping"), "BM25_scores_stopping_query_","");      
+obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/TFIDF_Results_Stopping"), "TFIDF_scores_stopping_query_","");
+
+obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/BM25_Results_Stemmed"), "BM25_scores_stemmed_corpus_query_",""); 
+obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/SQLM_Results_Stemmed"), "SQLM_scores_stemmed_corpus_query_",""); 
+
+        obj.startevaluation(new File("../../Pratik Devikar/IR-Project/Task3/TFIDF_Results_Stemmed"), "TFIDF_scores_stemmed_corpus_query_","");
         
+    
+    obj.startevaluation(new File("../../SaranPrasad/output/lucene_indexer/RankedResults_cacm"), "queryID_","lucene");
+        obj.startevaluation(new File("../../SaranPrasad/output/lucene_indexer/RankedResults_cacm_stem"), "queryID_","lucenestemmed");
+            obj.startevaluation(new File("../../SaranPrasad/output/lucene_indexer/RankedResults_cacm_with_stopping"), "queryID_","lucenestopped");
     }
 //tempflag is introduced because lucene query has same name format program will just overwrite to the same folder
     private void startevaluation(File toevaluate, String Filenameformat,String tempflag) {
@@ -88,6 +88,7 @@ public class PrecisionRecall {
         }
         WriteToFile writer = new WriteToFile(new File("Evaluation/"+tempflag+Filenameformat+"/"+"MAPandMRR.txt"));
         writer.write("MAP is -> "+MAP()+"\n");
+////        System.out.println("Precsion is "+Arrays.toString(AP));
         writer.write("MRR is -> "+MAR()+"\n");
         writer.close();
     }
@@ -144,6 +145,7 @@ public class PrecisionRecall {
             precision[i]=(double)numbermatch / (double) i;
             recall[i]= (double)numbermatch/(double)measures[querynumber].size();
         }
+//        System.out.println("Precision ->"+Arrays.toString(precision));
         //excel init
         // Create a Workbook
         XSSFWorkbook workbook = new XSSFWorkbook(); // new HSSFWorkbook() for generating `.xls` file
@@ -176,9 +178,6 @@ public class PrecisionRecall {
             cell.setCellStyle(headerCellStyle);
         }
       
-        
-        
-        
         //excel init ends
         //writing to this file
         File cretdir = new File("Evaluation/"+tempflag+Filenameformat);
@@ -207,6 +206,8 @@ public class PrecisionRecall {
                 read=b.readLine();i++;
                 if(i==101)break;
             }
+            Row finalrow = sheet.createRow(rowNum++);
+            finalrow.createCell(rowNum++).setCellValue("MAP is ->"+MAP());
         } catch (IOException ex) {
             Logger.getLogger(PrecisionRecall.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -308,15 +309,18 @@ public class PrecisionRecall {
             toret+=precision[i];
         }
     }
+        if(count ==0){return 0.0;}
         return toret/(double)count;
     }
 
     private String MAP() {
         double toret=0.0;
         for(double toadd : AP){
-            toret+=toadd;
+            if (toadd != Double.NaN)
+                toret+=toadd;
+//            System.out.println(toadd);
         }
-        
+//        System.out.println("toret ="+toret);
         return String.valueOf(toret/52.0);
     }
 

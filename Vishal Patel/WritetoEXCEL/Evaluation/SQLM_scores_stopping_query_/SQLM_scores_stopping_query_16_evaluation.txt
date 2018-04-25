@@ -101,5 +101,5 @@ Ranking  DocID      Precision               Recall
   100    CACM-1808  0.00000000000000000000  0.00000000000000000000
 P@k = 5 -> 0.0
 P@k = 20 -> 0.0
-Average precision is -> NaN
+Average precision is -> 0.0
 Reciprocal Rank is -> 0.0
